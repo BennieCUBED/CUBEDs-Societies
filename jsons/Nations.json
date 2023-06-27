@@ -4,6 +4,8 @@
 
                  "name": "L'Manburg",
 
+                 "adjective": ["L'Manburgian"],
+                
                  "leaderName": "Wilbur Soot",
 
                  "startBias": "Grassland","Hills",
@@ -11,4 +13,21 @@
                  "preferredVictoryType": "Neutral",
 
 
-                 "
+                 "declearingWar": "SUCK IT! YOOOOOOOOOOO",
+
+                 "attacked": "You can decleare war all you want, it means nothing to us!",
+
+                 "defeated": "It was never meant to be...",
+
+                 "introduction": "Hello! Welcome to the SMP, Would you like to join L'Manburg?",
+                
+
+                 "neutralHello": "Oh, hey!",
+
+                 "hateHello": "What?"
+
+
+                 "tradeRequest": "Hey, Would you like some 'Potions'",
+
+
+                
