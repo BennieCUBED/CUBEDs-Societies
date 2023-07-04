@@ -30,4 +30,14 @@
                  "tradeRequest": "Hey, Would you like some 'Potions'",
 
 
+                 "outerColor": [52, 58, 235],
+
+                 "innerColor": [193, 212, 30],
+
+
+                 "uniqueName": "Oh L'Manberg",
+
+                 "uniques": ["[+1 Gold, +2 Production] from each Trade Route"]
+
+
                 
