@@ -8,12 +8,12 @@
                 
                  "leaderName": "Wilbur Soot",
 
-                 "startBias": "Grassland","Hills",
+                 "startBias": ["Grassland","Hills"],
 
                  "preferredVictoryType": "Neutral",
 
 
-                 "declearingWar": "SUCK IT! YOOOOOOOOOOO",
+                 "declearingWar": "YOOOOOOOOOO SUCK IT!",
 
                  "attacked": "You can decleare war all you want, it means nothing to us!",
 
