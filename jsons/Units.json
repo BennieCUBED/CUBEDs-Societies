@@ -4,12 +4,45 @@
 
             
 		"name": "Settler",
+		 
 		"unitType": "Civilian",
+		 
 		"movement": 2,
+		 
 		"cost": 106,
+		 
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
+		 
 		"hurryCostModifier": 20
+
+	 },
+
+         {
+
+	        "name": "Warrior",
+		 
+		"unitType": "Melee",
+
+		"movement": 2,
+
+		"strength": 10,
+
+		"cost": 40,
+
+		"obsoleteTech": "Mining",
+
+		"upgradesTo": "Stone Swordsman",
+
+		"uniques": ["May upgrade to [Shieldman] through ruins-like effects"],
+
+		"attackSound": "normalhit",
+
+	  "civilopediaText": [
+
+		          {"text": "The basic Warrior, ready to defend spawn from mobs."}
+
+	          ]
 
 	 },
 
