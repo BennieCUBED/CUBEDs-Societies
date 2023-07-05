@@ -44,4 +44,34 @@
 
         },
 
+        {
+
+                "name": "Stampys Loveley World",
+
+                "adjective": ["Stampy"],
+
+                "leaderName": "Stampy",
+
+                "startBias": ["Tundra Biome"]
+
+                "preferredVictoryType": "Culture",
+
+
+                "declearingWar": ":(",
+
+                "attacked": "What? This is outrageous..!",
+
+                "defeated": "Before i go, please take care of my dogs.",
+
+                "introduction": "Hello! It's Stampy! And welcome to my lovely world!",
+
+
+                "tradeRequest": "Hey, Could i have some things please?",
+
+
+                "outerColor": [],
+
+                "innercolor": [],
+                
+
 ]
