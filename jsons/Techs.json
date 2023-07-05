@@ -52,9 +52,28 @@
 
 				"quote": "'' -.",
 
-			},
+			}
 
-		        {
+		]
+
+	 },
+
+	 {
+
+				
+		"columnNumber": 1,
+		 
+		"era": "Creation Era",
+		 
+		"techCost": 35,
+		 
+		"buildingCost": 60,
+		 
+		"wonderCost": 185,
+		 
+		"techs": [
+			
+			{
 
 				"name": "Mining",
 
