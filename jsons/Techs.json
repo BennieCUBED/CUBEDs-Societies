@@ -46,7 +46,7 @@
 
 			{
 
-				"name": "Mining",
+				"name": "Wood Cutting",
 
 				"row": 9,
 
@@ -54,7 +54,20 @@
 
 			},
 
+		        {
+
+				"name": "Mining",
+
+				"row": 9,
+
+				"prerequisites": ["Wood Cutting"],
+
+				"quote": "'' -.",
+
+			},
+
 		]
+				
 		 
 	 },
 
