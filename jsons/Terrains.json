@@ -39,4 +39,60 @@
 
 	},
 
+        {
+
+		"name": "Forest",
+		
+		"type": "TerrainFeature",
+		
+		"production": 1,
+		
+		"food": 1,
+		
+		"movementCost": 2,
+		
+		"overrideStats": true,
+		
+		"unbuildable": false,
+		
+		"defenceBonus": 0.25,
+		
+		"occursOn": ["Grassland"],
+		
+		"uniques": ["Rough terrain", "Vegetation",
+					"Provides a one-time Production bonus to the closest city when cut down",
+					"Blocks line-of-sight from tiles at same elevation",
+					"[25]% Chance to be destroyed by nukes",
+					"A Region is formed with at least [30]% [Forest] tiles, with priority [3]",
+					"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Forest] Regions>",
+					"Considered [Food] when determining start locations <in [Tundra] Regions>",
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."],
+
+	},
+
+	{
+		"name": "Coast",
+		
+		"type": "Water",
+		
+		"food": 1,
+		
+		"movementCost": 1,
+		
+		"RGB": [107,167,193],
+		
+		"uniques": ["[+2] to Fertility for Map Generation",
+            "Considered [Desirable] when determining start locations <on water maps>",
+            "Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
+		
+	},
+
 ]
+	
+	
+
+		
