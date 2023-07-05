@@ -49,4 +49,17 @@
 	 {
 
 		 "name": "Stone Swordsman",
+
+		 "unitType": "Melee",
+
+		 "movement": 2,
+
+		 "strength": 20,
+
+		 "cost": 80,
+
+		 "attackSound": "normalhit",
+
+	 },
+	
 ]
