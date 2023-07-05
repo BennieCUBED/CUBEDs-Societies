@@ -5,6 +5,8 @@
                 		"name": "Fish",
           
 	                	"resourceType": "Bonus",
+
+		                "revealedBy": "Fish Catching",
           
 		                "terrainsCanBeFoundOn": ["Ocean"],
           
