@@ -9,8 +9,6 @@
 		                "terrainsCanBeFoundOn": ["Ocean"],
           
 		                "food": 1,
-          
-	                	"improvement": "Fishing Boats",
            
                 		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>"]
 
