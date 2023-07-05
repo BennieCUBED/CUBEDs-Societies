@@ -1,1 +1,20 @@
+[
 
+         {
+
+                 "name": "Creation Era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35]
+
+         },
+
+]
