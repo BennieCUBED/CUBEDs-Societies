@@ -2,7 +2,7 @@
 
         {
 
-               "name": "Grassland",
+               "name": "Plains Biome",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
@@ -27,5 +27,16 @@
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 
         },
+
+        {
+
+		"name": "Ocean",
+		"type": "Water",
+		"food": 1,
+		"gold": 1,
+		"movementCost": 1,
+		"RGB": [45,108,145]
+
+	},
 
 ]
