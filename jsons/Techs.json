@@ -2,15 +2,6 @@
 
         {
 
-		                "name": "Agriculture"
-
-		                "row": 3,
-
-		                "quote": "'' -.",
-
-		                "uniques": ["Starting tech"],
-
-	                },
 	
          {
 
@@ -42,6 +33,7 @@
 
 				"quote": "'' -",
 
+				"uniques": ["Starting tech"],
 
 			},
 
