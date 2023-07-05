@@ -126,6 +126,99 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 33
 
-	}
+	},
 
-]
+	{
+
+		"name": "Immortal",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [],  
+		"aiCityGrowthModifier": 0.65, 
+		"aiUnitCostModifier": 0.65,
+		"aiBuildingCostModifier": 0.65,
+		"aiWonderCostModifier": 0.65,
+		"aiBuildingMaintenanceModifier": 0.65,
+		"aiUnitMaintenanceModifier": 0.65,
+		"aiUnitSupplyModifier": 0.35,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.65,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
+
+	},
+
+	{
+
+	        "name": "Deity",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+		"aiCityGrowthModifier": 0.6, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 0.6,
+		"aiBuildingCostModifier": 0.6,
+		"aiWonderCostModifier": 0.6,
+		"aiBuildingMaintenanceModifier": 0.6,
+		"aiUnitMaintenanceModifier": 0.6,
+		"aiUnitSupplyModifier": 0.4,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.6,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
+
+	},
+
+	{
+		
+                "name": "Creative",
+		"baseHappiness": 100,
+		"extraHappinessPerLuxury": 10,
+		"researchCostModifier": 100,
+		"unitCostModifier": -1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [Settler], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+		"aiCityGrowthModifier": 2, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 2,
+		"aiBuildingCostModifier": 2,
+		"aiWonderCostModifier": 2,
+		"aiBuildingMaintenanceModifier": 0.6,
+		"aiUnitMaintenanceModifier": 0.6,
+		"aiUnitSupplyModifier": 0.4,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 2,
+		"aisExchangeTechs": True,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 100
+
