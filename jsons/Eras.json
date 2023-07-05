@@ -4,7 +4,7 @@
 
                  "name": "Creation Era",
         "researchAgreementCost": 150,
-        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingSettlerCount": 1, // Gotta delete the message so no-one realises that i stole code from Historica
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Warrior",
