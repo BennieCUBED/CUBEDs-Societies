@@ -8,7 +8,7 @@
 
 		                "revealedBy": "Fish Catching",
           
-		                "terrainsCanBeFoundOn": ["Ocean"],
+		                "terrainsCanBeFoundOn": ["Ocean","Coast"],
           
 		                "food": 1,
            
@@ -24,7 +24,7 @@
 
 		                "revealedBy": "Hunting",
 
-		                "terrainsCanBeFoundOn": ["Grassland"],
+		                "terrainsCanBeFoundOn": ["Grassland","Forest"],
 
 		                "food": 1,
 
