@@ -8,9 +8,13 @@
 		"uniques": ["Unpillagable", "Irremovable", "Unbuildable"],
 			
         "civilopediaText": [
+		
 			{"text":"Marks the center of a city"},
+		
 			{"text":"Appearance changes with the technological era of the owning civilization"}
+		
 		]
+			
 	},
 
 ]
