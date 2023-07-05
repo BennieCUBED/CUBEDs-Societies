@@ -37,7 +37,7 @@
 
                  "uniqueName": "Oh L'Manberg",
 
-                 "uniques": ["[+1 Gold, +2 Production] from each Trade Route"]
+                 "uniques": ["[+1 Happiness, 1+ Culture] from each Trade Route"]
 
 
                  "cities": ["Camarvan","Butcher Army HQ","Elton John House","Fundy Fun Land","George's House","Ghostburs's House","L'Manburg Apiary","LMFAO Building","L'Manburg Treasury","Button Room"],
@@ -69,9 +69,17 @@
                 "tradeRequest": "Hey, Could i have some things please?",
 
 
-                "outerColor": [],
+                "outerColor": [224, 183, 18],
 
-                "innercolor": [],
+                "innercolor": [255, 255, 255],
+
+
+                "uniqueName": "Stampy's Love Garden",
+
+                "uniques": ["[+2 Production] from all [Culture] buildings <while the empire is happy>"]
+
+
+                "cities": ["Stampy's House","Stampy's Love Garden","
                 
 
 ]
