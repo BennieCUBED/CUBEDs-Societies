@@ -1,5 +1,17 @@
 [
 
+        {
+
+		                "name": "Agriculture"
+
+		                "row": 3,
+
+		                "quote": "'' -.",
+
+		                "uniques": ["Starting tech"],
+
+	                },
+	
          {
 
                   "columnNumber": 0,
