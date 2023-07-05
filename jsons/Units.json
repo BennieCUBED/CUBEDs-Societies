@@ -55,6 +55,8 @@
 
 		 "strength": 20,
 
+		 "requiredTech": "Mining",
+
 		 "cost": 80,
 
 		 "attackSound": "normalhit",
