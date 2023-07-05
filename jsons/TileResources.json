@@ -16,4 +16,24 @@
 
         },
 
+        {
+
+		                "name": "Cattle",
+
+		                "resourceType": "Bonus",
+
+		                "revealedBy": "Hunting",
+
+		                "terrainsCanBeFoundOn": ["Grassland"],
+
+		                "food": 1,
+
+		                "Production": 1,
+
+		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>"],
+
+	},
+
 ]
+
+		
