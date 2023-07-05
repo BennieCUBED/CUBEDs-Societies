@@ -37,7 +37,7 @@
 
                  "uniqueName": "Oh L'Manberg",
 
-                 "uniques": ["[+1 Happiness, 1+ Culture] from each Trade Route"]
+                 "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
 
 
                  "cities": ["Camarvan","Butcher Army HQ","Elton John House","Fundy Fun Land","George's House","Ghostburs's House","L'Manburg Apiary","LMFAO Building","L'Manburg Treasury","Button Room"],
