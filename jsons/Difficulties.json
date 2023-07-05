@@ -1,1 +1,35 @@
+[
 
+        {
+
+                "name": "Peaceful",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+		"aiCityGrowthModifier": 1, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
+
+        },
+
+]
