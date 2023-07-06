@@ -132,7 +132,7 @@
 		
 		"resourceType": "Luxury",
 		
-		"terrainsCanBeFoundOn": ["Grassland","Flood plains"],
+		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Hill"],
 		
 		"gold": 1,
 		
@@ -141,7 +141,7 @@
 		"improvement": "Plantation",
 		
 	        "uniques": ["Generated on every [10] tiles <in [Featureless] [Grassland] tiles>"],
-							["Generated on every [5] tiles <in [Featureless] [Hills] tiles>"],
+							["Generated on every [5] tiles <in [Featureless] [Hill] tiles>"],
 					
 	},
 
