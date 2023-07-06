@@ -7,6 +7,22 @@
                     
                  "uniques": ["[+50]% Strength<vs [Melee] units>"],                
 
+          },
+
+          {
+
+                    "name": "Civilian",
+
+                    "movementType": "Land",
+
+          },
+
+          {
+
+                    "name": "Melee",
+
+                    "movementType": "Land",
+
           }
 
 ]
