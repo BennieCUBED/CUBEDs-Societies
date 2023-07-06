@@ -81,7 +81,7 @@
 
 				"prerequisites": ["Wood Cutting"],
 
-				"quote": "'Don't spend time mining obsidian with wood, you won't get anything' -Unkown.",
+				"quote": "'Don't spend time mining obsidian with wood, you won't get anything' -Unknown.",
 
 			},
 
@@ -174,13 +174,32 @@
 
 				"quote": "'Aspire to inspire, before we expire' -Mojang.",
 
-			}
+			},
 
-		]
+                        {
+				
+				"name": "Bows and Arrows",
 
-	 }
+				"row": 9,
+
+				"prerequisites": ["Mining"]
+
+				"quote": "'A good archer is known not by his arrows but by his aim.' -Unknown.",
+				
+
+			},
+
+		],
+
+	 },
 
 ]
+
+		
+
+	 
+
+
 
 			
 
