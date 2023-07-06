@@ -108,7 +108,7 @@
                 "tradeRequest": "We would like to trade.",
 
 
-                "outerColor": [],
+                "outerColor": [186, 165, 108],
 
                 "innerColor": [207, 16, 6],
 
