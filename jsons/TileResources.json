@@ -71,5 +71,22 @@
 
 	},
 
+	{
+		"name": "Wheat",
+		
+		"resourceType": "Bonus",
+		
+		"terrainsCanBeFoundOn": ["Grassland","Tundra"],
+		
+		"food": 2,
+		
+		"improvement": "Farm",
+		
+		"uniques": ["Generated on every [20] tiles <in [Grassland] tiles>",
+					"Generated on every [8] tiles <in [Featureless] [Tundra] tiles> <in [Hill] Regions>",
+					"Generated on every [8] tiles <in [Grassland] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
+		
+	},
+
 ]
 		
