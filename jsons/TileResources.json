@@ -24,7 +24,7 @@
 
 		                "revealedBy": "Hunting",
 
-		                "terrainsCanBeFoundOn": ["Grassland","Forest","Tundra","Hills"],
+		                "terrainsCanBeFoundOn": ["Grassland","Forest","Tundra","Hill"],
 
 		                "food": 1,
 
@@ -42,7 +42,7 @@
 
 		"revealedBy": "Hunting",
 
-		"terrainCanBeFoundOn": ["Grassland","Forest","Hills","Forest"],
+		"terrainCanBeFoundOn": ["Grassland","Forest","Hill","Forest"],
 
 		"food": 1,
 
@@ -57,7 +57,7 @@
 
 		"resourceType": "Strategic",
 
-		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hills","Forest"],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
 
 		"production": 1,
 
