@@ -85,9 +85,56 @@
 
 			},
 
+		        {
+
+				"name": "Boating and Fishing",
+
+				"row": 1,
+
+				"prerequisites": ["Fish Catching","Wood Cutting"],
+
+				"quote": "'' -.",
+
+			},
+
+		        {
+
+				"name": "Crop Variety",
+
+				"row": 3,
+
+				"prerequisites": ["Agriculture"],
+
+				"quote": "'' -.",
+
+			},
+
+			{
+
+				"name": "Fences",
+
+				"row": 5,
+
+				"prerequisites": ["Hunting","Wood Cutting"],
+
+				"quote": "'' -.",
+
+			},
+
+			{
+
+				"name": "Taming"
+
+				"row": 6,
+
+				"prerequisites": ["Hunting"]
+
+				"quote": "'' -.",
+
+			}
+
 		]
-				
-		 
+					 
 	 },
 
 ]
