@@ -75,6 +75,8 @@
 		"name": "Wheat",
 		
 		"resourceType": "Bonus",
+
+		"revealedBy": "Farm Variety",
 		
 		"terrainsCanBeFoundOn": ["Grassland","Tundra"],
 		
