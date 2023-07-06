@@ -76,7 +76,7 @@
 		
 		"resourceType": "Bonus",
 
-		"revealedBy": "Farm Variety",
+		"revealedBy": "Crop Variety",
 		
 		"terrainsCanBeFoundOn": ["Grassland","Tundra"],
 		
