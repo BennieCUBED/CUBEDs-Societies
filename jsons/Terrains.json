@@ -147,8 +147,24 @@
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 
+	{
+		"name": "Flood plains",
+		
+		"type": "TerrainFeature",
+		
+		"food": 2,
+		
+		"movementCost": 1,
+		
+		"defenceBonus": -0.1,
+		
+		"occursOn": ["Grassland","Tundra"],
+		
+		"uniques": ["Always Fertility [5] for Map Generation",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"]
+	},
+	
 ]
-	
-	
 
 		
