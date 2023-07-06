@@ -28,7 +28,7 @@
 
 				"row": 3,
 
-				"quote": "'' -",
+				"quote": "'Nothing can beat wheat, i guess...' -Me",
 
 				"uniques": ["Starting tech"],
 
@@ -93,7 +93,7 @@
 
 				"prerequisites": ["Fish Catching","Wood Cutting"],
 
-				"quote": "'' -.",
+				"quote": "'Many men go fishing all their lives without knowing that it is not fish they are after' -Henry David Thoreau.",
 
 			},
 
@@ -105,7 +105,7 @@
 
 				"prerequisites": ["Agriculture"],
 
-				"quote": "'' -.",
+				"quote": "'Idk mate, those carrots look ready' -Me.",
 
 			},
 
@@ -117,7 +117,7 @@
 
 				"prerequisites": ["Hunting","Wood Cutting"],
 
-				"quote": "'' -.",
+				"quote": "'Fence, Fence' -Me.",
 
 			},
 
