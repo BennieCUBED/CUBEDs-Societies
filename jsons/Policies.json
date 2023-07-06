@@ -1,1 +1,39 @@
-
+[
+    {
+        "name": "Survival",        // Credits to Dimensiondog.
+        "era": "Creation Era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 2,
+            "Diplomatic": 2,
+            "Domination": 3,
+            "Scientific": 2,
+        },
+        "policies": [
+    {
+        "name": "Food Conservation",
+        "uniques": [
+            "[+2 Food, +1 Happiness] [in capital]]",
+            "[2] population [in capital]",
+"[+5]% growth [in all cities]",
+        ],
+                "row": 1,
+                "column": 1,
+    },
+{
+                "name": "Organisation",
+                "uniques": ["[+1] Movement <for [Civilian] units>",
+                    "[2+ Gold] [in all cities]",
+                   "[+25]% Production when constructing [Civilian] units [in all cities]",
+                ],
+                "row": 3,
+                "column": 1,
+            },
+{
+                "name": "Shelters",
+                "uniques": ["[+1 Gold, +1 Production] from all [Production] buildings","[+1 Gold, +1 Culture] from all [Culture] buildings"],
+                ],
+                "row": 3,
+                "column": 1,
+            },
+]
