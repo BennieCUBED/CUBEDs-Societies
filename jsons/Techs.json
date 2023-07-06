@@ -40,7 +40,7 @@
 
 				"row": 5,
 
-				"quote": "'' -.",
+				"quote": "'Oh, you're not sheep, but i wouldn't mind murdering you anyway' -Call Me Kevin.",
 
 			},
 
@@ -50,7 +50,7 @@
 
 				"row": 9,
 
-				"quote": "'' -.",
+				"quote": "'I would have to sneak out to somewhere and go all Minecraft in the forest' -Ryan Rimmel.",
 
 			}
 
@@ -81,7 +81,7 @@
 
 				"prerequisites": ["Wood Cutting"],
 
-				"quote": "'' -.",
+				"quote": "'Don't spend time mining obsidian with wood, you won't get anything' -Unkown.",
 
 			},
 
@@ -141,7 +141,7 @@
 
 				"prerequisites": ["Wood Cutting"],
 
-				"quote": "'' -.",
+				"quote": "'I think the only way i could make something big and fun is if i don't expect it to be' -Markus Perrson.",
 
 			}
 
@@ -172,7 +172,7 @@
 
 				"prerequisites": ["Mining"]
 
-				"quote": "'' -.",
+				"quote": "'Aspire to inspire, before we expire' -Mojang.",
 
 			}
 
