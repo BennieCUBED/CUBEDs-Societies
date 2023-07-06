@@ -32,7 +32,6 @@
 {
                 "name": "Shelters",
                 "uniques": ["[+1 Gold, +1 Production] from all [Production] buildings","[+1 Gold, +1 Culture] from all [Culture] buildings"],
-                ],
                 "row": 3,
                 "column": 1,
             },
