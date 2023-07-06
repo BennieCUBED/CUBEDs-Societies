@@ -57,7 +57,7 @@
 
 		"resourceType": "Strategic",
 
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra"],
 
 		"production": 1,
 
