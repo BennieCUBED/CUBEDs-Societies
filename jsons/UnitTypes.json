@@ -42,7 +42,16 @@
 
           },
 
+          {
+
+                    "name": "Ranged",
+
+                    "movementType": "Land",
+
+          },
+
 ]
+          
 
 
 
