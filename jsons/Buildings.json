@@ -38,4 +38,17 @@
            
          },
 
-]
+         {
+
+		 "name": "Starting House",
+
+		 "production": 1,
+
+		 "happiness": 2,
+
+		 "cost": 35,
+
+		 "hurryCostModifier": 35
+
+		 "maintenance": 1,
+		 
