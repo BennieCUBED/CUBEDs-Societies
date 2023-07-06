@@ -28,7 +28,7 @@
            
               		"culture": 2,
                    
-              		"cost": 40,
+              		"cost": 60,
            
               		"hurryCostModifier": 40,
            
@@ -56,5 +56,58 @@
 
 	 },
 
-]
+         {
+
+		 "name": "Wooden Harbor",
+
+		 "production": 1,
+
+		 "Gold": 1,
+
+		 "cost": 45,
+
+		 "hurryCostModifier": 45,
+
+		 "maintenance": 1,
+
+		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Work Boats]"],
+
+		 "requiredTech": "Basic Building",
+
+	 },
+
+	 {
+
+		 "name": "Crafting Area",
+
+		 "production": 2,
+
+		 "cost": 35,
+
+		 "hurryCostModifier": 35
+
+		 "maintenance": 1,
+
+		 "requiredTech": "Basic Building",
+
+	 },
+
+	 {
+
+	 {
+
+		 "name": "Mini Games",
+
+		 "Happiness": 3,
+
+		 "cost": 50,
+
+		 "hurryCostModifier": 50
+
+		 "maintenance": 2,
+
+		 "requiredTech": "Basic Building",
+
+	 },	 
 		 
+]
