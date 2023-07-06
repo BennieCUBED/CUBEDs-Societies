@@ -1,11 +1,13 @@
 [
 
           {
-        "name": "Anti-Calvary",
-        "movementType": "Land"
-        "uniques": ["[+50]% Strength<vs [Melee] units>"
+                 "name": "Anti-Calvary",
+                    
+                 "movementType": "Land"
+                    
+                 "uniques": ["[+50]% Strength<vs [Melee] units>"                   
 
-          }
+          },
 
 ]
 
