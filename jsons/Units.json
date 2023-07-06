@@ -73,7 +73,7 @@
 		 
 		"uniques": ["Can build [Land] improvements on tiles"],
 		 
-		"cost": 70,
+		"cost": 60,
 
 	 },
 
@@ -93,7 +93,38 @@
 
 	 },
 
-]
-	
+	{
+		"name": "Work Boats",
+		
+		"unitType": "Civilian Water",
+		
+		"movement": 4,
+		
+		"cost": 90,
+		
+		"requiredTech": "Boating and Fishing",
 
+		"uniques": ["May create improvements on water resources", "Uncapturable"], 
+		
+	},
+
+        {
+
+		"name": "Helper",
+		 
+		"unitType": "Civilian",
+		 
+		"movement": 2,
+
+                "uniqueTo": "Stampys Lovley World",
+
+		"replaces": "Worker",
+		 
+		"uniques": ["Can build [Land] improvements on tiles"],
+		 
+		"cost": 40,
+	
+	 },
+	
+]
 		 
