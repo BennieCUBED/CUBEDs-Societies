@@ -134,9 +134,8 @@
 		"gold": 1,
 		"food": 1,
 		"improvement": "Plantation",
-		"uniques": 
-					"Generated with weight [30] <in [Grassland] Regions>",
-					"Generated with weight [15] <in [Hybrid] Regions>",
+		"uniques": "Generated with weight [30] <in [Grassland] Regions>",
+			   "Generated with weight [15] <in [Hybrid] Regions>",		
 					
 	},
 
