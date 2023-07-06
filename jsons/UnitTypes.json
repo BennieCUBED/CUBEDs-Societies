@@ -23,7 +23,7 @@
 
                     "movementType": "Land",
 
-          }
+          },
 
 
           {
@@ -34,7 +34,17 @@
 
           },
 
+          {
+
+                    "name": "Melee Water",
+
+                    "movementType": "Water",
+
+          },
+
 ]
+
+
 
 
              
