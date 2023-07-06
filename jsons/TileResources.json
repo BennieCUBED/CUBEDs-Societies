@@ -90,5 +90,41 @@
 		
 	},
 
-]
+	{
+		"name": "Sugar",
 		
+		"resourceType": "Luxury",
+		
+		"terrainsCanBeFoundOn": ["Flood plains","Grassland"],
+		
+		"gold": 2,
+		
+		"improvement": "Plantation",
+		
+		"uniques": ["Generated with weight [20] <in [Flood plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [2] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
+	},
+		
+
+        {
+		"name": "Iron",
+
+		"resourceType": "Strategic",
+
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
+
+		"production": 1,
+
+		"improvement": "Mine",
+
+		"improvementStats": {"production": 2},
+
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
+					"Generated on every [19] tiles <in [Featureless] [Hills] tiles>"]
+
+	},
+
+]
