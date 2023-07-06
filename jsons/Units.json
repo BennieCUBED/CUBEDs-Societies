@@ -126,5 +126,24 @@
 	
 	 },
 	
+	 {
+		"name": "Boat",
+
+		"unitType": "Melee Water",
+
+		"movement": 4,
+
+		"strength": 15,
+
+		"cost": 120,
+
+		"requiredTech": "Boating and Fishing",
+		 
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		 
+		"attackSound": "nonmetalhit"
+		 
+	},
+
 ]
 		 
