@@ -3,9 +3,9 @@
           {
                  "name": "Anti-Calvary",
                     
-                 "movementType": "Land"
+                 "movementType": "Land",
                     
-                 "uniques": ["[+50]% Strength<vs [Melee] units>"                   
+                 "uniques": ["[+50]% Strength<vs [Melee] units>"],                
 
           }
 
