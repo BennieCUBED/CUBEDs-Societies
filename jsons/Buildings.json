@@ -51,4 +51,10 @@
 		 "hurryCostModifier": 35
 
 		 "maintenance": 1,
+
+		 "uniques": ["[+20]% Yield from every [Farm]"]
+
+	 },
+
+]
 		 
