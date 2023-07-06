@@ -28,12 +28,33 @@
 
 		                "food": 1,
 
-		                "Production": 1,
+		                "production": 1,
 
-		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>"],
+		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>"],
+
+	},
+
+        {
+
+		"name": "Sheep",
+
+		"resourceType": "Bonus",
+
+		"revealedBy": "Hunting",
+
+		"terrainCanBeFoundOn": ["Grassland","Forest"],
+
+		"food": 1,
+
+		"production": 1,
+		
+	        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>"], 
 
 	},
 
 ]
+		
+
+	  
 
 		
