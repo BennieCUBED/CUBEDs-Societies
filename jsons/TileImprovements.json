@@ -97,4 +97,30 @@
 		"shortcutKey": "P"
 	},
 
+	{
+		"name": "Mine",
+		
+		"turnsToBuild": 8,
+
+		"techRequired": "Mining",
+
+		"uniques": ["[+1 Production] <after discovering [Iron Mining]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+30 Gold]"],
+
+		"shortcutKey": "M"
+	},
+
+	{
+		"name": "Plantation",
+		
+		"turnsToBuild": 6,
+		
+		"gold": 1,
+		
+		"techRequired": "Crop Variety",
+		
+		"uniques": ["[+1 Food] from [Fresh water] tiles", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		
+		"shortcutKey": "P"
+	},
+
 ]
