@@ -77,6 +77,22 @@
 
 	 },
 
+         {
+
+		 "name": "Shieldman",
+
+		 "unitType": "Anti-Calvary",
+
+		 "movement": 2,
+
+		 "strength": 25,
+
+		 "requiredTech": "Iron Mining",
+
+		 "cost": 120,
+
+	 },
+
 ]
 	
 
