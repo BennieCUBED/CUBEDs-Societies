@@ -57,6 +57,8 @@
 
 		 "requiredTech": "Mining",
 
+		 "requiredResource": "Stone",
+
 		 "cost": 80,
 
 		 "attackSound": "normalhit",
@@ -89,6 +91,8 @@
 
 		 "requiredTech": "Iron Mining",
 
+		 "requiredResource": "Iron",
+
 		 "cost": 120,
 
 	 },
@@ -113,12 +117,12 @@
 		"name": "Helper",
 		 
 		"unitType": "Civilian",
-		 
-		"movement": 2,
 
-                "uniqueTo": "Stampys Lovley World",
+		"uniqueTo": "Stampys Lovley World",
 
 		"replaces": "Worker",
+		 
+		"movement": 2,
 		 
 		"uniques": ["Can build [Land] improvements on tiles"],
 		 
