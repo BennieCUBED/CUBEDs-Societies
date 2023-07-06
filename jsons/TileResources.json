@@ -78,7 +78,7 @@
 
 		"revealedBy": "Crop Variety",
 		
-		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hills","Forest"],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
 		
 		"food": 2,
 		
