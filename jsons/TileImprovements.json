@@ -85,6 +85,16 @@
 		"shortcutKey": "Q"
 	},
 
-]
+	{
+		"name": "Pasture",
+		
+		"turnsToBuild": 8,
+		
+		"techRequired": "Fencing",
+		
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		
+		"shortcutKey": "P"
+	},
 
-  
+]
