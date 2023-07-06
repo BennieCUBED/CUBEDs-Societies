@@ -42,5 +42,36 @@
 
 	},
 
+        {
+		"name": "Remove Forest",
+		
+		"turnsToBuild": 4,
+		
+		"techRequired": "Wood Cutting",
+		
+		"uniques": ["Can be built outside your borders"],
+		
+		"shortcutKey": "X",
+
+	},
+
+		{
+			
+		"name": "Lumber mill",
+			
+		"terrainsCanBeBuiltOn": ["Forest"],
+			
+		"production": 1,
+			
+		"turnsToBuild": 7,
+			
+		"techRequired": "Wood Cutting",
+			
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+			
+		"shortcutKey": "L"
+			
+	},
+
 ]
   
