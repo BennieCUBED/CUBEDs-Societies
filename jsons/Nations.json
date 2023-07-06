@@ -52,7 +52,7 @@
 
                 "leaderName": "Stampy",
 
-                "startBias": ["Tundra Biome"]
+                "startBias": ["Tundra"]
 
                 "preferredVictoryType": "Culture",
 
@@ -83,7 +83,41 @@
 
         },
 
-]
+        {
+
+                "name": "The Order of the Stone",
+
+                "adjective": ["OOTS"]
+
+                "leaderName": "Gabriel",
+
+                "startBias": ["Grassland"]
+
+                "preferredVictoryType": "Domination",
+
+
+                "declearingWar": "I never wanted this to happen! But war is needed",
+
+                "attacked": "Really? you must be a brave player...",
+
+                "defeated": "No... This cannot be!",
+
+                "introduction": "Greetings, I am Gabriel, the leader of the Order of the Stone.",
+
+                
+                "tradeRequest": "We would like to trade.",
+
+
+                "outerColor": [],
+
+                "innerColor": [],
+
+                
+
+                
+
+
+                
                 
 
 
