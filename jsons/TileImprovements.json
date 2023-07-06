@@ -90,7 +90,7 @@
 		
 		"turnsToBuild": 8,
 		
-		"techRequired": "Fencing",
+		"techRequired": "Fences",
 		
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		
