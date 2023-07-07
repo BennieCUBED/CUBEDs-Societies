@@ -72,7 +72,7 @@
 
 		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Work Boats]"],
 
-		 "requiredTech": "Basic Building",
+		 "requiredTech": "Construction",
 
 	 },
 
@@ -88,7 +88,7 @@
 
 		 "maintenance": 1,
 
-		 "requiredTech": "Basic Building",
+		 "requiredTech": "Construction",
 
 	 },
 
@@ -104,7 +104,7 @@
 
 		 "maintenance": 1,
 
-		 "requiredTech": "Basic Building",
+		 "requiredTech": "Construction",
 
 	 },	 
 		 
@@ -125,6 +125,8 @@
 
 		 "uniques": ["[+10]% Yield from every [Farm]"]
 
+		 "requiredTech": "Construction",
+
 	 },
 
          {
@@ -142,6 +144,8 @@
 		 "maintenance": 2,
 
 		 "uniques": ["[+10]% Yield from every [Pasture]"]
+
+		 "requiredTech": "Construction",
 
 	 },
 
