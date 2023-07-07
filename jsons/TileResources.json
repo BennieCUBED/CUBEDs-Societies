@@ -123,7 +123,7 @@
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hills] tiles>"]
+					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
 
 	},
 
@@ -145,4 +145,22 @@
 					
 	},
 
-]
+        {
+
+		"name": "Copper",
+
+		"resourceType": "Strategic",
+
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
+
+		"production": 1,
+
+		"improvement": "Mine",
+
+		"improvementStats": {"production": 2},
+
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
+					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
+
+	},
