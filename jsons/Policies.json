@@ -49,7 +49,7 @@
                 "uniques": ["[+3 Happiness] from all [Culture] buildings"],
                 "requires": "Shelters","Organisation",
                 "row": 2,
-                "column": 2,
+                "column": 6,
             },
             
             {
