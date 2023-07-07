@@ -184,7 +184,7 @@
 		
 		"requiredTech": "Bronze Working",
 		
-		"uniques": ["[+50]% Strength <vs [Ranged] units>",
+		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 	
 		"attackSound": "metalhit"
 	},
