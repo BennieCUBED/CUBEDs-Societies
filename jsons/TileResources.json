@@ -165,4 +165,25 @@
 
 	},
 
+
+        {
+
+		"name": "Dogs",
+
+		"resourceType": "Strategic",
+
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
+
+		"production": 1,
+
+		"improvement": "Camp",
+
+		"improvementStats": {"happiness": 2},
+
+		"uniques": ["Generated on every [16] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [10] tiles <in [Featureless] [Tundra] tiles>",
+					"Generated on every [13] tiles <in [Featureless] [Hill] tiles>","Generated on every [19] tiles <in [Featureless] [Forest] tiles>"],
+		
+	},
+
 ]
