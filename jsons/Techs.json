@@ -105,7 +105,7 @@
 
 				"prerequisites": ["Agriculture"],
 
-				"quote": "'Idk mate, those carrots look ready' -Me.",
+				"quote": "'Idk mate, those carrots look ready' -BennieCUBED.",
 
 			},
 
@@ -117,7 +117,7 @@
 
 				"prerequisites": ["Hunting","Wood Cutting"],
 
-				"quote": "'Fence, Fence' -Me.",
+				"quote": "'Fence, Fence' -BennieCUBED.",
 
 			},
 
@@ -135,13 +135,13 @@
 
 		        {
 
-				"name": "Construction",
+				"name": "Basic Sheltering",
 
 				"row": 8,
 
 				"prerequisites": ["Wood Cutting"],
 
-				"quote": "'I think the only way i could make something big and fun is if i don't expect it to be' -Markus Perrson.",
+				"quote": "'People believe that the wheel was our best invention, I believe it is the our ability to have ideas' -BennieCUBED.",
 
 			}
 
@@ -186,14 +186,63 @@
 
 				"quote": "'A good archer is known not by his arrows but by his aim.' -Unknown.",
 				
+			},
+
+			
+                        {
+				
+				"name": "Sailing",
+
+				"row": 1,
+
+				"prerequisites": ["Boating and Fishing"]
+
+				"quote": "'He who commands the sea has command of everything.' -Themistocles.",
+				
+			},			
+			
+                        {
+
+				"name": "Trading",
+
+				"row": 3,
+
+				"prerequisites": ["Taming","Crop Variety","Fences"],
+
+				"quote": "'Do more of what works and less of what doesn't.' -Steve Clark",
 
 			},
 
-		],
+			{
+
+			        "name": "Horse Riding",
+
+				"row": 5,
+
+				"prerequisites": ["Taming","Fences"],
+
+				"quote": "'I can make a good General in five minutes, but a horse is hard to replace' -Abraham Lincoln",
+		
+			},
+
+		        {
+
+				"name": "Construction",
+
+				"row": 8,
+
+				"prerequisites": ["Basic Sheltering"],
+
+				"quote": "'I think the only way i could make something big and fun is if i don't expect it to be' -Markus Perrson.",
+
+			}
+	 
+		]
 
 	 },
 
 ]
+
 
 		
 
