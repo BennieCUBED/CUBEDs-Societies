@@ -84,7 +84,7 @@
 
 		 "cost": 35,
 
-		 "hurryCostModifier": 35
+		 "hurryCostModifier": 35,
 
 		 "maintenance": 1,
 
@@ -100,7 +100,7 @@
 
 		 "cost": 50,
 
-		 "hurryCostModifier": 50
+		 "hurryCostModifier": 50,
 
 		 "maintenance": 1,
 
@@ -119,11 +119,11 @@
 
 		 "cost": 35,
 
-		 "hurryCostModifier": 35
+		 "hurryCostModifier": 35,
 
 		 "maintenance": 2,
 
-		 "uniques": ["[+10]% Yield from every [Farm]"]
+		 "uniques": ["[+10]% Yield from every [Farm]"],
 
 		 "requiredTech": "Basic Sheltering",
 
@@ -165,7 +165,7 @@
 	
 		"percentStatBonus": {"gold": 25},
 	
-		"requiredTech": "Trading"
+		"requiredTech": "Trading",
 		 
 	},
 
