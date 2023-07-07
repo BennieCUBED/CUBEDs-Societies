@@ -140,4 +140,19 @@
 					
 	},
 
-]
+	{
+		"name": "Boating and ",//渔船
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"food": 1,
+		"techRequired": "Fishing",
+		"uniques": ["Resource Improvement",
+					
+					"Can only be built to improve a resource",
+					
+					"[+1 Gold] <after discovering [Biology]>",
+					"[+1 Food] <after discovering [Agricultural Science]>",
+					
+					"Pillaging this improvement yields approximately [+25 Gold]",
+					
+					"Only available <after discovering [Fishing]>"]
+	},
