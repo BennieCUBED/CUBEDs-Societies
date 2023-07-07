@@ -102,10 +102,47 @@
 
 		 "hurryCostModifier": 50
 
-		 "maintenance": 2,
+		 "maintenance": 1,
 
 		 "requiredTech": "Basic Building",
 
 	 },	 
 		 
+
+         {
+
+		 "name": "Basic Housing II",
+
+		 "food": 1,
+
+		 "happiness": 2,
+
+		 "cost": 35,
+
+		 "hurryCostModifier": 35
+
+		 "maintenance": 2,
+
+		 "uniques": ["[+10]% Yield from every [Farm]"]
+
+	 },
+
+         {
+
+		 "name": "Basic Housing III",
+
+		 "food": 1,
+
+		 "happiness": 2,
+
+		 "cost": 35,
+
+		 "hurryCostModifier": 35
+
+		 "maintenance": 2,
+
+		 "uniques": ["[+10]% Yield from every [Pasture]"]
+
+	 },
+
 ]
