@@ -40,9 +40,9 @@
 
          {
 
-		 "name": "Starting House",
+		 "name": "Basic Housing I",
 
-		 "production": 1,
+		 "food": 1,
 
 		 "happiness": 2,
 
@@ -94,9 +94,9 @@
 
 	 {
 
-		 "name": "Mini Games",
+		 "name": "Entertainment Area",
 
-		 "Happiness": 3,
+		 "happiness": 3,
 
 		 "cost": 50,
 
