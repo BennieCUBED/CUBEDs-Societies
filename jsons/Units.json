@@ -57,6 +57,10 @@
 
 		 "requiredTech": "Mining",
 
+		 "obsoleteTech": "Bronze Working",
+
+		 "upgradesTo": "Spearman",
+
 		 "requiredResource": "Stone",
 
 		 "cost": 80,
@@ -165,6 +169,24 @@
 		"requiredTech": "Archery",
 		
 		"attackSound": "arrow"
+	},
+
+	{
+		"name": "Spearman",
+		
+		"unitType": "Melee",
+		
+		"movement": 2.5,
+		
+		"strength": 20,
+		
+		"cost": 90,
+		
+		"requiredTech": "Bronze Working",
+		
+		"uniques": ["[+50]% Strength <vs [Ranged] units>",
+	
+		"attackSound": "metalhit"
 	},
 
 ]
