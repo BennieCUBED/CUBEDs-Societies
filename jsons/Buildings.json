@@ -159,8 +159,6 @@
 
 	        "food": 1,
 	
-		"specialistSlots": {"Merchant": 1},
-	
 		"cost": 80,
 	
 		"percentStatBonus": {"gold": 25},
