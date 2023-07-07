@@ -19,13 +19,13 @@
 
          {
                   
-                 "name": "Caving Era",
+                 "name": "Glorious Era",
                   
         "researchAgreementCost": 200,           
-        "startingSettlerCount": 0,                  
-        "startingWorkerCount": 0,               
-        "startingMilitaryUnitCount": 1, 
-        "settlerPopulation": 1,          
+        "startingSettlerCount": 1,                  
+        "startingWorkerCount": 1,               
+        "startingMilitaryUnitCount": 2, 
+        "settlerPopulation": 3,          
         "baseUnitBuyCost": 200,            
         "embarkDefense": 3,
         "startPercent": 0,
