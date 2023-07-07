@@ -123,4 +123,19 @@
 		"shortcutKey": "P"
 	},
 
-]
+        {
+		"name": "Camp",
+	
+		"turnsToBuild": 7,
+	
+		"techRequired": "Taming",
+	
+		"uniques": ["Resource Improvement",
+					
+					"Can only be built to improve a resource",
+					
+					"Does not need removal of [Forest]",
+					
+					"Pillaging this improvement yields approximately [+25 Gold]"],
+					
+	},
