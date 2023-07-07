@@ -70,7 +70,7 @@
 
 		 "maintenance": 1,
 
-		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Work Boats]"],
+		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Work Boats]","[+1 Gold] <after discovering [Sailing]>"],
 
 		 "requiredTech": "Construction",
 
@@ -137,9 +137,9 @@
 
 		 "happiness": 2,
 
-		 "cost": 35,
+		 "cost": 60,
 
-		 "hurryCostModifier": 35
+		 "hurryCostModifier": 60,
 
 		 "maintenance": 2,
 
@@ -148,5 +148,25 @@
 		 "requiredTech": "Construction",
 
 	 },
+
+         {
+		 
+		"name": "Market",
+	
+		"gold": 1,
+
+	        "production" 1,
+
+	        "food": 1,
+	
+		"specialistSlots": {"Merchant": 1},
+	
+		"cost": 80,
+	
+		"percentStatBonus": {"gold": 25},
+	
+		"requiredTech": "Trading"
+		 
+	},
 
 ]
