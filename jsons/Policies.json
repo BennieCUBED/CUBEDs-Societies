@@ -39,7 +39,7 @@
             {
                 "name": "Basic Trading",
                 "uniques": ["[+3 Gold] from [Pasture] tiles [in all cities]"],
-                "requires": "Food Conservation","Organisation",
+                "requires": ["Food Conservation","Organisation"],
                 "row": 2,
                 "column": 2,
             },
@@ -47,7 +47,7 @@
             {
                 "name": "Family Tradition",
                 "uniques": ["[+3 Happiness] from all [Culture] buildings"],
-                "requires": "Shelters","Organisation",
+                "requires": ["Shelters","Organisation"],
                 "row": 2,
                 "column": 6,
             },
