@@ -69,7 +69,7 @@
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hills] tiles>"]
+					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
 
 	},
 
@@ -103,7 +103,7 @@
 		
 		"improvement": "Plantation",
 		
-		"uniques": ["Generated with weight [20] <in [Flood plains] Regions>",
+		"uniques": ["Generated with weight [20] <in [Flood plains] tiles>",
 					"Generated with weight [10] <in [Grassland] Regions>",
 					"Generated with weight [2] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
