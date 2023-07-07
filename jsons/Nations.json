@@ -2,24 +2,24 @@
 
         {
 
-                 "name": "L'Manburg",
+                 "name": "Uralis",
 
-                 "adjective": ["L'Manburgian"],
+                 "adjective": ["Urali"],
                 
-                 "leaderName": "Wilbur Soot",
+                 "leaderName": "Salime V",
 
                  "startBias": ["Grassland","Hills"],
 
                  "preferredVictoryType": "Neutral",
 
 
-                 "declearingWar": "YOOOOOOOOOO SUCK IT!",
+                 "declearingWar": "Your cities are a shadow of what could be...",
 
                  "attacked": "You can decleare war all you want, it means nothing to us!",
 
-                 "defeated": "It was never meant to be...",
+                 "defeated": "The Golden Capital has fallen! What dark days...",
 
-                 "introduction": "Hello! Welcome to the SMP, Would you like to join L'Manburg?",
+                 "introduction": "Hello! Welcome to the Golden Capital of the world, Would you like to join us?",
                 
 
                  "neutralHello": "Oh, hey!",
@@ -27,7 +27,7 @@
                  "hateHello": "What?"
 
 
-                 "tradeRequest": "Hey, Would you like some 'Potions'",
+                 "tradeRequest": "Hey, Would you like some riches?",
 
 
                  "outerColor": [52, 58, 235],
@@ -35,35 +35,35 @@
                  "innerColor": [193, 212, 30],
 
 
-                 "uniqueName": "Oh L'Manberg",
+                 "uniqueName": "Golden Capital",
 
                  "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
 
 
-                 "cities": ["Camarvan","Butcher Army HQ","Elton John House","Fundy Fun Land","George's House","Ghostburs's House","L'Manburg Apiary","LMFAO Building","L'Manburg Treasury","Button Room"],
+                 "cities": ["Uralis","Bussul","Elsim","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
 
         },
 
         {
 
-                "name": "Stampys Loveley World",
+                "name": "Urun-Dor",
 
-                "adjective": ["Stampy"],
+                "adjective": ["Urun"],
 
-                "leaderName": "Stampy",
+                "leaderName": "Harren",
 
                 "startBias": ["Tundra"]
 
                 "preferredVictoryType": "Culture",
 
 
-                "declearingWar": ":(",
+                "declearingWar": "What is your plan?",
 
                 "attacked": "What? This is outrageous..!",
 
                 "defeated": "Before i go, please take care of my dogs.",
 
-                "introduction": "Hello! It's Stampy! And welcome to my lovely world!",
+                "introduction": "Greetings! I am Harren! Leader of the great Urun-Dor",
 
 
                 "tradeRequest": "Hey, Could i have some things please?",
@@ -74,12 +74,12 @@
                 "innercolor": [255, 255, 255],
 
 
-                "uniqueName": "Stampy's Love Garden",
+                "uniqueName": "Men of Urun-Dor",
 
                 "uniques": ["[+2 Production] from all [Culture] buildings <while the empire is happy>"]
 
 
-                "cities": ["Stampy's House","Stampy's Love Garden","Emergency Igloo","The Theatre","Clubhouse","Golf Course","SS Stumpy Station","Creeper Coaster","Shear Fun","Stampy's Hot Buns","Road Hog"]
+                "cities": ["Orokann","Solere","Tanndrun North","Tanndrun","Haus","Weulo","Anvert","Tiff","Farekovo","Sam","Road Hog"]
 
         },
 
