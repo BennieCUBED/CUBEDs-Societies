@@ -2,4 +2,22 @@
 
       "isBaseRuleset": true,
 
+},
+
+{
+
+     "cityStrengthBase": 10,
+
+},
+
+{
+
+     "cityStrengthFromTechsMultiplier": 3,
+
+},
+
+{
+
+     "cityStrengthPerPop": 0.2
+
 }
