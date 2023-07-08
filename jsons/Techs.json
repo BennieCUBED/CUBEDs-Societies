@@ -6,7 +6,7 @@
            
 		"era": "Creation Era",
            
-		"techCost": 20,
+		"techCost": 30,
            
 		"buildingCost": 40,
            
@@ -65,7 +65,7 @@
 		 
 		"era": "Creation Era",
 		 
-		"techCost": 35,
+		"techCost": 40,
 		 
 		"buildingCost": 60,
 		 
@@ -156,7 +156,7 @@
 		 
 		"era": "Glorious Era",
 		 
-		"techCost": 50,
+		"techCost": 70,
 		 
 		"buildingCost": 80,
 		 
