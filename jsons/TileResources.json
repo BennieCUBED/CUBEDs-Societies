@@ -12,7 +12,7 @@
           
 		                "food": 1,
            
-                		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>"]
+                		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>","Generated on every [10] tiles <in [Featureless] [Coast] tiles>"],
 
         },
 
@@ -32,7 +32,7 @@
 
 		                "improvement": "Pasture",
 
-		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>"],
+		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [5] tiles <in [Featureless] [Hill] tiles>","Generated on every [18] tiles <in [Featureless] [Plains] tiles>"],
 
 	},
 
@@ -44,13 +44,13 @@
 
 		"revealedBy": "Hunting",
 
-		"terrainCanBeFoundOn": ["Grassland","Forest","Hill","Forest"],
+		"terrainCanBeFoundOn": ["Grassland","Forest","Hill","Plains"],
 
 		"food": 1,
 
 		"production": 1,
 		
-	        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>"], 
+	        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [10] tiles <in [Featureless] [Hill] tiles>","Generated on every [12] tiles <in [Featureless] [Plains] tiles>"], 
 
 	},
 
