@@ -29,11 +29,11 @@
 
 		"cost": 40,
 
-		"obsoleteTech": "Mining",
+		"obsoleteTech": "Bronze Working",
 
 		"upgradesTo": "Stone Swordsman",
 
-		"uniques": ["May upgrade to [Shieldman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 
 		"attackSound": "normalhit",
 
@@ -47,7 +47,7 @@
 
 	 {
 
-		 "name": "Stone Swordsman",
+		 "name": "Stone Warrior",
 
 		 "unitType": "Melee",
 
@@ -85,9 +85,9 @@
 
          {
 
-		 "name": "Shieldman",
+		 "name": "Swordman",
 
-		 "unitType": "Anti-Calvary",
+		 "unitType": "Melee",
 
 		 "movement": 2,
 
@@ -95,7 +95,7 @@
 
 		 "requiredTech": "Bronze Working",
 
-		 "requiredResource": "Iron",
+		 "requiredResource": "Copper",
 
 		 "cost": 120,
 
@@ -187,6 +187,64 @@
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 	
 		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Galley",
+		
+		"unitType": "Melee Water",
+		
+		"movement": 3,
+		
+		"strength": 20,
+		
+		"cost": 70,
+		
+		"uniques": ["Cannot enter ocean tiles"],
+		
+		"attackSound": "nonmetalhit"
+		
+	},
+
+	{
+		"name": "Sarissa",
+		
+		"unitType": "Melee",
+		
+		"movement": 2,
+		
+		"strength": 15,
+		
+		"cost": 90,
+		
+		"requiredTech": "Bronze Working",
+		
+		"uniques": ["[+50]% Strength <vs [Calvary] units>"],
+	
+		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Horseman",
+		
+		"unitType": "Calvary",
+		
+		"movement": 4,
+		
+		"strength": 30,
+		
+		"cost": 75,
+		
+		"requiredTech": "Horse Riding",
+		
+		"requiredResource": "Horses",
+	
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		
+		"hurryCostModifier": 20,
+		
+		"attackSound": "horse"
+		
 	},
 
 ]
