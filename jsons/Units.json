@@ -183,6 +183,8 @@
 		"cost": 90,
 		
 		"requiredTech": "Bronze Working",
+
+		"requiredResource": "Copper",
 		
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 	
@@ -218,6 +220,8 @@
 		"cost": 90,
 		
 		"requiredTech": "Bronze Working",
+
+		"requiredResource": "Copper",
 		
 		"uniques": ["[+50]% Strength <vs [Calvary] units>"],
 	
