@@ -201,6 +201,8 @@
 		"strength": 20,
 		
 		"cost": 70,
+
+		"requiredTech": "Sailing",
 		
 		"uniques": ["Cannot enter ocean tiles"],
 		
