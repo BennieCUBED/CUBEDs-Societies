@@ -1,4 +1,7 @@
-{
+[
+
+      {
+      
 
       "isBaseRuleset": true,
 
@@ -21,3 +24,5 @@
      "cityStrengthPerPop": 0.2
 
 }
+
+]
