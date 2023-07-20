@@ -210,6 +210,29 @@
 
         },
 
+	
+	{
+                
+		"name": "A'Arya",
+                
+		"adjective": ["Aryan"],
+                
+		"cityStateType": "Maritime",
+
+		"declaringWar": "Our people will never bow down to you!",
+                
+		"attacked": "When will people leave is alone..?",
+                
+		"defeated": "This isn't victory, this is enslavement...",
+                
+		"outerColor": [0, 0, 0],
+                
+		"innerColor": [255,204,204],
+                
+		"cities": ["A'Arya"]
+                
+	},
+
 ]
 
                   
