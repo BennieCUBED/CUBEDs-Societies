@@ -176,7 +176,7 @@
 		
 		"maintenance": 1,
 		
-		"requiredTech": "Basic Building",
+		"requiredTech": "Basic Sheltering",
 		
 		"uniques": ["Hidden when religion is disabled"]
 		
