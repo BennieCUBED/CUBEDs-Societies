@@ -59,6 +59,16 @@
 
           },
           
+          {
+
+                    "name": "Recon",
+
+                    "movementType": "Land",
+
+                    "uniques": ["Can see over obstacles"],
+
+          },
+
 ]
 
 
