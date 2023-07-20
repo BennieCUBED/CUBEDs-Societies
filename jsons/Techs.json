@@ -195,7 +195,9 @@
 
 				"row": 1,
 
-				"prerequisites": ["Boating and Fishing"]
+				"prerequisites": ["Boating and Fishing"],
+
+                                "uniques": ["Enables embarkation for land units"],
 
 				"quote": "'He who commands the sea has command of everything.' -Themistocles.",
 				
