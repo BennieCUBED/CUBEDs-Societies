@@ -225,4 +225,20 @@
 		 
 	},
 
+	{
+		
+		"name": "Walls",
+		
+		"cityStrength": 5,
+		
+		"cityHealth": 50,
+		
+		"hurryCostModifier": 25,
+		
+		"requiredTech": "Early Sieging",
+		
+		"uniques": ["Destroyed when the city is captured"]
+		
+	},
+
 ]
