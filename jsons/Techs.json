@@ -263,7 +263,19 @@
 
 				"prerequisites": ["Sailing"],
 
-				"quote": "'NOT ALL THOSE WHO WANDER ARE LOST.' – J.R.R. Tolkien",
+				"quote": "'Not all those who wander are lost.' – J.R.R. Tolkien",
+
+			},
+
+		        {
+
+				"name": "Currency",
+
+				"row": 3,
+
+				"prerequisites": ["Trading","Bronze Working"],
+
+				"quote": "'' -",
 
 			},
 
@@ -272,6 +284,10 @@
 	 },
 
 ]
+
+	 
+
+
 
 	 
 
