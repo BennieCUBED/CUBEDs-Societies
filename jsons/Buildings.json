@@ -250,7 +250,7 @@
 		
 		"production": 3,
 		
-		"requiredTech": "Metal Working"
+		"requiredTech": "Metal Work"
 		
 	},
 
@@ -264,7 +264,7 @@
 		
 		"requiredNearbyImprovedResources": ["Iron"],
 		
-		"requiredTech": "Metal Working",
+		"requiredTech": "Metal Work",
 		
 		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
 			"[+15]% Production when constructing [Land] units [in this city]",
