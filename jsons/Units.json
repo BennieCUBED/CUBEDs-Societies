@@ -253,5 +253,23 @@
 		
 	},
 
+	{
+
+		 "name": "Scout",
+
+		 "unitType": "Recon",
+
+		 "movement": 2,
+
+		 "strength": 8,
+
+		 "requiredTech": "Exploration",
+
+		 "cost": 50,
+
+		 "attackSound": "normalhit",
+
+	},
+
 ]
 		 
