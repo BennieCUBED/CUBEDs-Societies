@@ -122,7 +122,96 @@
 
         }
 
+        {
+
+                 "name": "VividVale",
+
+                 "adjective": ["Vividvalean"],
+                
+                 "leaderName": "BennieCUBED",
+
+                 "startBias": ["Grassland","Coast"],
+
+                 "preferredVictoryType": "Science",
+
+
+                 "declearingWar": "Your cities are a shadow of what could be...",
+
+                 "attacked": "You can decleare war all you want, it means nothing to us!",
+
+                 "defeated": "The Golden Capital has fallen! What dark days...",
+
+                 "introduction": "Hello! Welcome to the Golden Capital of the world, Would you like to join us?",
+                
+
+                 "neutralHello": "Oh, hey!",
+
+                 "hateHello": "What?"
+
+
+                 "tradeRequest": "Hey, Would you like some riches?",
+
+
+                 "outerColor": [130, 19, 26],
+
+                 "innerColor": [130, 222, 10],
+
+
+                 "uniqueName": "Southern Stars",
+
+                 "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
+
+
+                 "cities": ["Vividstrone","Railak","Daybo River","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
+
+        },
+
+        {
+
+                 "name": "Costazmacia",
+
+                 "adjective": ["Costazmaki"],
+                
+                 "leaderName": "Onzeer",
+
+                 "startBias": ["Tundra","Forest"],
+
+                 "preferredVictoryType": "Domination",
+
+
+                 "declearingWar": "Your cities are a shadow of what could be...",
+
+                 "attacked": "You can decleare war all you want, it means nothing to us!",
+
+                 "defeated": "The Golden Capital has fallen! What dark days...",
+
+                 "introduction": "Hello! Welcome to the Golden Capital of the world, Would you like to join us?",
+                
+
+                 "neutralHello": "Oh, hey!",
+
+                 "hateHello": "What?"
+
+
+                 "tradeRequest": "Hey, Would you like some riches?",
+
+
+                 "outerColor": [56, 100, 100],
+
+                 "innerColor": [12, 12, 60],
+
+
+                 "uniqueName": "Creator of Society",
+
+                 "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
+
+
+                 "cities": ["Cossis","Anzere","Ankis","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
+
+        },
+
 ]
+
                   
 
 
