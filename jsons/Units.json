@@ -145,6 +145,10 @@
 
 		"cost": 120,
 
+	        "obsoleteTech": "Exploration",
+
+		"upgradesTo": "Trireme",
+
 		"requiredTech": "Boating and Fishing",
 		 
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
@@ -306,7 +310,7 @@
 		
 		"cost": 50,
 		
-		"requiredTech": "Sailing",
+		"requiredTech": "Exploration",
 		
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		
