@@ -151,7 +151,7 @@
 
          {
 		 
-		"name": "Market",
+		"name": "Trading Market",
 	
 		"gold": 1,
 
@@ -194,6 +194,33 @@
 		"requiredTech": "Construction",
 		
 		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+
+         {
+		 
+		"name": "Market",
+	
+		"gold": 4,
+	
+		"cost": 130,
+	
+		"percentStatBonus": {"gold": 30},
+	
+		"requiredTech": "Currency",
+		 
+	},
+
+		"name": "Lighthouse",
+		 
+		"cost": 140,
+		 
+		"maintenance": 1,
+		 
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]" ],
+		 
+		"requiredTech": "Currency",
+		 
 	},
 
 ]
