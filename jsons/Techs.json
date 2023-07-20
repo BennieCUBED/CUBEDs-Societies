@@ -291,11 +291,35 @@
 
 			},
 
+		        {
+
+				"name": "Mathematics",
+
+				"row": 8,
+
+				"prerequisites": ["Archery","Construction"],
+
+				"quote": "'' -",
+
+			},
+
+			{
+
+				"name": "Metal Work",
+
+				"row": 7,
+
+				"prerequisites": ["Sailing","Construction"],
+
+				"quote": "'' -",
+
+			},
+
 		]
 
-	 },
+	 
 
-]
+
 
 	 
 
