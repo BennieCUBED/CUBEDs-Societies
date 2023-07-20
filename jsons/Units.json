@@ -311,4 +311,7 @@
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		
 		"attackSound": "nonmetalhit"
-	},		 
+		
+	},
+
+]
