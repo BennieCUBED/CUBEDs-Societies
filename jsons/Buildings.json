@@ -182,4 +182,18 @@
 		
 	},
 
+	{
+		"name": "Stepping Stones to God",
+		
+		"faith": 5,
+
+		"cost": 80,
+		
+		"isWonder": true,
+
+		"requiredTech": "Construction",
+		
+		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+	},
+
 ]
