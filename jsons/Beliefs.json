@@ -1,1 +1,23 @@
+[
 
+         {
+
+                 "name": "God of the Sky",
+
+                 "type": "Pantheon",
+
+                 "uniques": ["[+1 Culture] from every [Pasture]"],
+
+         },
+
+         {
+
+                 "name": "Goddess of the Hunt",
+           
+                 "type": "Pantheon",
+           
+                 "uniques": ["[+1 Food] from every [Camp]"],
+
+         },
+
+]
