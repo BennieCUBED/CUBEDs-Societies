@@ -141,7 +141,7 @@
 	},
 
 	{
-		"name": "Work Boats ",
+		"name": "Fishing Boats",
 		
 		"terrainsCanBeBuiltOn": ["Coast","Ocean"],
 		
