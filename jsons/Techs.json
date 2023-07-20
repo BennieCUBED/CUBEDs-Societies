@@ -241,9 +241,34 @@
 
 	 },
 
-]
+         {
+
+		 		"columnNumber": 3,
+		 
+		"era": "Bronze & Iron Era",
+		 
+		"techCost": 120,
+		 
+		"buildingCost": 110,
+		 
+		"wonderCost": 270,
+		 
+		"techs": [
+
+			{
 
 
+		        {
+
+				"name": "Exploration",
+
+				"row": 1,
+
+				"prerequisites": ["Sailing"],
+
+				"quote": "'NOT ALL THOSE WHO WANDER ARE LOST.' – J.R.R. Tolkien",
+
+	 }
 		
 
 	 
