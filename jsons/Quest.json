@@ -1,1 +1,16 @@
+[
 
+  {
+    "name": "Give Gold",
+    "description": "We are suffering great poverty after being robbed by [civName], and unless we receive a sum of Gold, it's only a matter of time before we collapse.",
+    "influence": 20,
+    "duration": 30,
+      "weightForCityStateType": {
+          "Cultured": 3,
+          "Maritime": 3,
+          "Mercantile": 3.5,
+          "Militaristic": 2,
+          "Religious": 3
+      },
+
+    ]
