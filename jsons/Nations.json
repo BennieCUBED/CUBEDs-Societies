@@ -129,7 +129,7 @@
             
         "adjective": ["VividValean"],
             
-        "startBias": ["Coast","Avoid [Tundra]"],
+        "startBias": ["Coast"],
             
         "preferredVictoryType": "Scientific",
         
