@@ -167,4 +167,19 @@
 		 
 	},
 
+	{
+		"name": "Shrine",
+		
+		"faith": 2,
+		
+		"cost": 40,
+		
+		"maintenance": 1,
+		
+		"requiredTech": "Basic Building",
+		
+		"uniques": ["Hidden when religion is disabled"]
+		
+	},
+
 ]
