@@ -301,7 +301,7 @@
 
 				"prerequisites": ["Archery","Construction"],
 
-				"uniques": ["[+50]% Strength <vs cities> <for [All] units>"]
+				"uniques": ["[+50]% Strength <vs cities> <for [All] units>","Double movement in [Water]"]
 
 				"quote": "'' -",
 
