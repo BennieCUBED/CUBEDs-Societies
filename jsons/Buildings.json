@@ -285,5 +285,69 @@
 		
 	},
 
+        {
+
+		"name": "Library",
+		
+		"cost": 140,
+		
+		"maintenance": 1,
+		
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		
+		"requiredTech": "Early Architecture",
+		
+	},
+		
+        {
+
+		"name": "Circus",
+		
+		"requiredNearbyImprovedResources": ["Ivory","Horses","Dogs"],
+		
+		"happiness": 2,
+		
+		"cost": 160,
+		
+		"requiredTech": "Early Architecture",
+		
+	},
+
+	{
+
+		"name": "Amphitheater",
+		
+		"culture": 3,
+		
+		"requiredBuilding": "Monument",
+		
+		"maintenance": 2,
+		
+		"cost": 160,
+		
+		"uniques": ["Destroyed when the city is captured"],
+		
+		"requiredTech": "Early Architecture"
+		
+	},
+
+	{
+
+	       "name": "The Great Museum",
+
+	       "culture": 5,
+
+	       "science": 3,
+
+	       "requiredBuilding": "Library",
+
+	       "isWonder": true,
+
+	       "cost": 300,
+
+	       "uniques": ["[+2 Culture] <when at war>"],
+
+	},
+
 ]
 		
