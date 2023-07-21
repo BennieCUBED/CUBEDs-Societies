@@ -314,8 +314,26 @@
 		
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		
-		"attackSound": "nonmetalhit"
+		"attackSound": "normalmetalhit"
 		
 	},
 
-]
+        {
+
+		"name": "Supplier",
+
+		"unitType": "Support",
+
+		"movement": 2,
+
+		"strength": 10,
+
+		"cost": 80,
+
+		"requiredTech": "Apprenticeship",
+
+		"attackSound": "normalhit",
+
+	},
+
+],
