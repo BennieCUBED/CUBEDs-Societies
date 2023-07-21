@@ -70,7 +70,7 @@
 
 		 "maintenance": 1,
 
-		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Work Boats]","[+1 Gold] <after discovering [Sailing]>"],
+		 "uniques": ["Must be next to [Coast]","[+20]% Yield from every [Fishing Boats]","[+1 Gold] <after discovering [Sailing]>"],
 
 		 "requiredTech": "Construction",
 
