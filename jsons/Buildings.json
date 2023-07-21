@@ -345,6 +345,8 @@
 
 	       "uniques": ["[+2 Culture] <when at war>"],
 
+	       "requiredTech": "Early Architecture",
+
 	},
 
 ]
