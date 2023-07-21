@@ -165,7 +165,7 @@
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
+					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>","Generated on every [15] tiles <in [Featureless] [Plains] tiles> <in tiles without [Fresh Water]>"],
 
 	},
 
@@ -275,6 +275,49 @@
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 		
+	},
+
+        {
+
+		"name": "Dyes",
+		
+		"resourceType": "Luxury",
+		
+		"terrainsCanBeFoundOn": ["Jungle","Forest"],
+		
+		"culture": 1,
+
+		"happiness": 1
+		
+		"improvement": "Plantation",
+		
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [25] <in [Forest] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Hill] tiles>"]
+
+	},
+
+	{
+		"name": "Tea",
+
+		"resourceType": "Luxury",
+
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+
+		"happiness": 1,
+
+		"gold": 1,
+
+		"improvement": "Plantation",
+
+		"uniques": ["Generated with weight [20] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Tundra] tiles>"],
+
 	},
 
 ]
