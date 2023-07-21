@@ -159,7 +159,7 @@
 
                  "uniqueName": "Southern Stars",
 
-                 "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
+                 "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
 
 
                  "cities": ["Vividstrone","Railak","Daybo River","Coleston","Murrayvale","Manstown","Coalak","Bensberg","Once-upon-tyme","Good-City"],
