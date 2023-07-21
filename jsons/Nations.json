@@ -137,19 +137,19 @@
 
                  "declearingWar": "I'm sorry, but you threaten the peace and balance if this world.",
 
-                 "attacked": "Look, I'm sorry.",
+                 "attacked": "Look at that leader with war declaration, nice job, mate. Show how evil you are!",
 
-                 "defeated": "The Golden Capital has fallen! What dark days...",
+                 "defeated": "VividVale has collapsed, we will respect you if you respect us...",
 
-                 "introduction": "Hello! Welcome to the Golden Capital of the world, Would you like to join us?",
+                 "introduction": "Welcome! We are VividVale and we hope for many allies.",
                 
 
-                 "neutralHello": "Oh, hey!",
+                 "neutralHello": "Hello mate.",
 
-                 "hateHello": "What?"
+                 "hateHello": "What do they take?"
 
 
-                 "tradeRequest": "Hey, Would you like some riches?",
+                 "tradeRequest": "Hey, Wanna trade?",
 
 
                  "outerColor": [130, 19, 26],
@@ -162,7 +162,7 @@
                  "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
 
 
-                 "cities": ["Vividstrone","Railak","Daybo River","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
+                 "cities": ["Vividstrone","Railak","Daybo River","Coleston","Murrayvale","Manstown","Coalak","Bensberg","Once-upon-tyme","Good-City"],
 
         },
 
