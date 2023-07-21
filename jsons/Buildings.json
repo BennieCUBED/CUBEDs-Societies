@@ -349,5 +349,20 @@
 
 	},
 
-]
+        {
 		
+		"name": "Church",
+		
+		"faith": 3,
+		
+		"cost": 200,
+		
+		"maintenance": 1,
+		
+		"requiredTech": "Theology",
+		
+		"uniques": ["Hidden when religion is disabled"]
+		
+	},
+
+]
