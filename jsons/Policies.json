@@ -93,7 +93,7 @@
          "column": 3,
 
      },
-
+            
      {
 
          "name": "Better Diplomacy",
@@ -101,18 +101,27 @@
          "row": 1,
          "column": 6,
 
-     },
+     
 
                 "name": "Power & Society Complete",
                 "uniques": [
-                ]
-
-           },
+                ],
+         
+     },
 
         ]
 
     },
-
+    
 ]
+     
+
+           
+
+        
+
+    
+
+
 
     
