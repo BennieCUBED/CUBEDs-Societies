@@ -333,7 +333,7 @@
 
 		]
 
-	 }
+	 },
 
 	 {
 
@@ -361,11 +361,19 @@
 		
 			},
 
-		]
+		        {
 
-	 }
+	                       "name": "Apprenticeship",
 
-]
+			       "row": 7,
+
+			       "prerequisites": ["Metal Work"],
+
+			       "uniques": [""]
+
+			       "quote": "'' -",
+
+
 
 
 
