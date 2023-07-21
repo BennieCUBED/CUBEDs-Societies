@@ -333,9 +333,39 @@
 
 		]
 
-	 },
+	 }
+
+	 {
+		 
+		"era": "Dark Era",
+		 
+		"techCost": 170,
+		 
+		"buildingCost": 150,
+		 
+		"wonderCost": 300,
+		 
+		"techs": [	
+
+	{			
+
+				"name": "Theology",
+		
+				"row": 2,
+		
+				"prerequisites": ["Exploration","Early Architecture"],
+		
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+		
+			},
+
+		]
+
+	 }
 
 ]
+
+
 
 	 
 
