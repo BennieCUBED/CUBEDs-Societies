@@ -96,6 +96,13 @@
 
      {
 
+         "name": "Better Diplomacy",
+         "uniques": ["Enables Open Borders agreements"],
+         "row": 1,
+         "column": 6,
+
+     },
+
                 "name": "Power & Society Complete",
                 "uniques": [
                 ]
