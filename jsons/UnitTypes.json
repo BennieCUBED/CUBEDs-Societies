@@ -77,8 +77,17 @@
 
           },
 
-]
+          {
 
+                    "name": "Support",
+
+                    "movementType": "Land",
+
+                    "uniques": ["All adjacent units heal [7] HP when healing"]
+
+          },
+          
+]
                     
 
 
