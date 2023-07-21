@@ -319,6 +319,18 @@
 
 			},
 
+			{
+
+				"name": "Early Architecture",
+
+				"row": 10,
+
+				"prerequisites": ["Construction","Bronze Working"],
+
+				"quote": "'' -",
+
+			},
+
 		]
 
 	 },
