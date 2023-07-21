@@ -20,4 +20,34 @@
 
          },
 
+         {
+                  
+                 "name": "Ancestor Worship",
+                  
+                 "type": "Pantheon",
+                  
+                 "uniques": ["[+1 Culture] from every [Shrine]"]
+                  
+         },
+
+         {
+
+                  "name": "Holy Spirits",
+
+                  "type": "Pantheon",
+
+                  "uniques": ["[+1 Production] from every [Shrine]"],
+
+         }
+
+         {
+
+                  "name": "God's Warriors",
+
+                  "type": "Pantheon",
+
+                  "uniques": ["May buy [All] units with [Faith] [in all cities]"]
+
+         },
+
 ]
