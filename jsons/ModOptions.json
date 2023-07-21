@@ -8,7 +8,8 @@
       "constants": {
             "cityStrengthBase": 10,
             "cityStrengthFromTechsMultiplier": 3,
-            "cityStrengthPerPop": 0.2
+            "cityStrengthPerPop": 0.2,
+            "policyCostModifier": 0.4,
 
       }
 
