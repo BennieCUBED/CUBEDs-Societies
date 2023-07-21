@@ -339,8 +339,6 @@
 
 	       "science": 3,
 
-	       "requiredBuilding": "Library",
-
 	       "isWonder": true,
 
 	       "cost": 300,
