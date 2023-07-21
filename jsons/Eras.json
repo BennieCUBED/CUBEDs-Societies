@@ -34,4 +34,21 @@
 
          },
 
+         {
+
+                 "name": "Dark Era",
+                  
+        "researchAgreementCost": 220,           
+        "startingSettlerCount": 2,                  
+        "startingWorkerCount": 1,               
+        "startingMilitaryUnitCount": 2, 
+        "settlerPopulation": 5,          
+        "baseUnitBuyCost": 230,            
+        "embarkDefense": 5,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+
+         },
+
 ]
