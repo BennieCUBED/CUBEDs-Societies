@@ -158,4 +158,21 @@
 					
 	},
 
+	{
+		"name": "Trading post",
+		
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		
+		"gold": 2,
+		
+		"turnsToBuild": 7,
+		
+		"techRequired": "Guilds",
+		
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		
+		"shortcutKey": "T"
+		
+	},
+
 ]
