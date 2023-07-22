@@ -365,4 +365,20 @@
 		
 	},
 
+	 {
+
+		 "name": "Dungeon",
+
+		 "happiness": 1,
+
+		 "cost": 240,
+
+		 "maintenance": 1,
+
+		 "requiredTech": "Guilds",
+
+		 "uniques": ["Remove extra unhappiness from annexed cities"]
+
+	 },
+
 ]
