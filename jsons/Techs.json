@@ -375,11 +375,26 @@
 
 			},
 
+		        {
+
+				"name": "Guilds",
+
+				"row": 3,
+
+				"prerequisites": ["Currency","Mathematics"],
+
+				"quote": "'' -",
+
+			},
+			
 		]
 
 	 },
 
 ]
+	 
+
+
 
 	 
 
