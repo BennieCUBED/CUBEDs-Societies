@@ -203,10 +203,9 @@
 
                  "uniqueName": "Creator of Society",
 
-                 "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
+                 "uniques": ["+1 Gold, +2 Food] per [5] population [in all cities] <with [Fish]>","[+25]% [Culture] <when at war>"],
 
-
-                 "cities": ["Cossis","Anzere","Ankis","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
+                 "cities": ["Cossis","Anzere","Ankis","Druzzic","Ertan","Vayric","Colliz","Amzisis Valley","Zorl","Mannez"],
 
         },
 
