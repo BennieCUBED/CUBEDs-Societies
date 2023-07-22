@@ -29,8 +29,6 @@
 
 		"cost": 40,
 
-		"obsoleteTech": "Bronze Working",
-
 		"upgradesTo": "Swordsman",
 
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
@@ -94,6 +92,10 @@
 		 "strength": 25,
 
 		 "requiredTech": "Bronze Working",
+
+		 "obsoleteTech": "Metal Casting",
+
+		 "upgradesTo": "Longswordsman",
 
 		 "requiredResource": "Copper",
 
@@ -348,7 +350,7 @@
 
 		"cost": 180,
 		
-		"requiredTech": "Iron Casting",
+		"requiredTech": "Metal Casting",
 	
 		"requiredResource": "Iron",
 		
