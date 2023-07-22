@@ -172,28 +172,28 @@
 
                  "adjective": ["Costazmaki"],
                 
-                 "leaderName": "Onzeer",
+                 "leaderName": "Onzeer II",
 
                  "startBias": ["Tundra","Forest"],
 
                  "preferredVictoryType": "Domination",
 
 
-                 "declearingWar": "Your cities are a shadow of what could be...",
+                 "declearingWar": "One day, Humanity will be united again. But you're in my way...",
 
-                 "attacked": "You can decleare war all you want, it means nothing to us!",
+                 "attacked": "War..? I never wanted to make you fall.",
 
-                 "defeated": "The Golden Capital has fallen! What dark days...",
+                 "defeated": "Costazmacia has fallen, Humanity will be united one day... It's a shame it won't be Costazmacia.",
 
-                 "introduction": "Hello! Welcome to the Golden Capital of the world, Would you like to join us?",
+                 "introduction": "Hey! It's cold outside, how about you come inside and talk about you're people to me.",
                 
 
-                 "neutralHello": "Oh, hey!",
+                 "neutralHello": "Good morning",
 
-                 "hateHello": "What?"
+                 "hateHello": "Huh? What now?"
 
 
-                 "tradeRequest": "Hey, Would you like some riches?",
+                 "tradeRequest": "Let's trade, you'll like it.",
 
 
                  "outerColor": [56, 100, 100],
