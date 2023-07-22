@@ -13,7 +13,7 @@
                  "preferredVictoryType": "Neutral",
 
 
-                 "declearingWar": "Your cities are a shadow of what could be...",
+                 "declaringWar": "Your cities are a shadow of what could be...",
 
                  "attacked": "You can decleare war all you want, it means nothing to us!",
 
@@ -57,7 +57,7 @@
                 "preferredVictoryType": "Culture",
 
 
-                "declearingWar": "What is your plan?",
+                "declaringWar": "What is your plan?",
 
                 "attacked": "What? This is outrageous..!",
 
@@ -96,7 +96,7 @@
                 "preferredVictoryType": "Domination",
 
 
-                "declearingWar": "I never wanted this to happen! But war is needed",
+                "declaringWar": "I never wanted this to happen! But war is needed",
 
                 "attacked": "Really? you must be a brave player...",
 
@@ -135,7 +135,7 @@
                  "preferredVictoryType": "Science",
 
 
-                 "declearingWar": "I'm sorry, but you threaten the peace and balance if this world.",
+                 "declaringWar": "I'm sorry, but you threaten the peace and balance if this world.",
 
                  "attacked": "Look at that leader with war declaration, nice job, mate. Show how evil you are!",
 
@@ -179,7 +179,7 @@
                  "preferredVictoryType": "Domination",
 
 
-                 "declearingWar": "One day, Humanity will be united again. But you're in my way...",
+                 "declaringWar": "One day, Humanity will be united again. But you're in my way...",
 
                  "attacked": "War..? I never wanted to make you fall.",
 
@@ -203,7 +203,7 @@
 
                  "uniqueName": "Creator of Society",
 
-                 "uniques": ["+1 Gold, +2 Food] per [5] population [in all cities] <with [Fish]>","[+25]% [Culture] <when at war>"],
+                 "uniques": ["[+1 Gold, +2 Food] per [5] population [in all cities] <with [Fish]>","[+25]% [Culture] <when at war>"],
 
                  "cities": ["Cossis","Anzere","Ankis","Druzzic","Ertan","Vayric","Colliz","Amzisis Valley","Zorl","Mannez"],
 
