@@ -365,7 +365,7 @@
 
 	                       "name": "Apprenticeship",
 
-			       "row": 7,
+			       "row": 8,
 
 			       "prerequisites": ["Metal Work"],
 
@@ -387,11 +387,29 @@
 
 			},
 			
+			{
+				
+				"name": "Metal Casting",
+				
+				"row": 7,
+				
+				"prerequisites": ["Mathematics","Metal Work"],
+
+				"uniques": ["Double quantity of [Iron] produced"],
+				
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib",
+				
+			},
+
 		]
 
 	 },
 
 ]
+
+	 
+
+
 	 
 
 
