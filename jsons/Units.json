@@ -336,4 +336,24 @@
 
 	},
 
+	{
+		
+		"name": "Longswordsman",
+		
+		"unitType": "Melee",
+		
+		"movement": 2,
+		
+		"strength": 35,
+
+		"cost": 180,
+		
+		"requiredTech": "Iron Casting",
+	
+		"requiredResource": "Iron",
+		
+		"attackSound": "metalhit"
+		
+	},
+
 ]
