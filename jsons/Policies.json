@@ -77,9 +77,9 @@
         "era": "Bronze & Iron Era",
         "priorities": {
             "Neutral": 1,
-            "Cultural": 1,
-            "Diplomatic": 2,
-            "Domination": 3,
+            "Cultural": 2,
+            "Diplomatic": 3,
+            "Domination": 2,
             "Scientific": 2,
         },
         "policies": [
@@ -117,13 +117,50 @@
                 "uniques": [
                 ]
          
-           }
+           },
 
         ]
 
-    }
+    },
+
+    {
+
+        "name": "Warfare",
+        "era": "Bronze & Iron Era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 1,
+            "Diplomatic": 1,
+            "Domination": 3,
+            "Scientific": 1,
+        },
+        "policies": [
+
+{
+
+        "name": "Discipline",
+        "uniques": [""],
+        "row": 1,
+        "column": 1, 
+        
+}, 
+
+{
+        
+                "name": "Warfare Complete",
+                "uniques": [
+                ]
+         
+           },
+
+        ]
+
+    },
 
 ]
+
+
+
 
 
 
