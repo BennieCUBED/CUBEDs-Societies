@@ -3,7 +3,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [30] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Melee","Gunpowder","Calvary","Scout","Siege","Ranged","Ranged Gunpowder","Anti-Calvary","Melee Water","Ranged Water","Submarine"],
+		"unitTypes": ["Melee","Gunpowder","Calvary","Recon","Siege","Ranged","Ranged Gunpowder","Anti-Calvary","Melee Water","Ranged Water","Submarine"],
         "row": 0,
         "column": 0
     },
@@ -21,7 +21,7 @@
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Melee","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 4,
         "row": 2
 	},
@@ -29,7 +29,7 @@
   	{
 		"name": "Drill I",
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 5,
         "row": 1
 	},
@@ -38,7 +38,7 @@
 		"name": "Drill II",
 		"prerequisites": ["Drill I"],
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 5,
         "row": 2
 	},
@@ -46,7 +46,7 @@
   	{
 		"name": "Scouting I",
 		"uniques": ["[+1] Sight"],
-		"unitTypes": ["Scout"],
+		"unitTypes": ["Recon"],
         "column": 8,
         "row": 1
 	},
@@ -71,7 +71,7 @@
   	{
 		"name": "Accuracy I",
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
-		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
+		"unitTypes": ["Siege","Ranged","Ranged Gunpowder"],
         "column": 1,
         "row": 1
     },
@@ -80,7 +80,7 @@
 		"name": "Accuracy II",
 		"prerequisites": ["Accuracy I"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>"],
-		"unitTypes": ["Siege","Archery","Ranged Gunpowder"],
+		"unitTypes": ["Siege","Ranged","Ranged Gunpowder"],
         "column": 1,
         "row": 2
     },
