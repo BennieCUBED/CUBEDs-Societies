@@ -113,6 +113,23 @@
 
         {
 
+            "name": "Colonisation",
+            "uniques": [""],
+            "requires": ["Labour","Better Diplomacy"],
+            "row": 2,
+            "column": 4,
+        },
+
+            {
+                "Diplomatic League",
+                "uniques": [""],
+                "requires": ["Better Diplomacy"],
+                "row": 2,
+                "column": 6,
+            },
+
+                {
+
                 "name": "Power & Society Complete",
                 "uniques": [
                 ]
@@ -144,6 +161,15 @@
         "column": 1, 
         
 }, 
+
+{
+
+        "name": "Strategy",
+        "uniques": [""],
+        "row": 1,
+        "column": 3,
+
+}
 
 {
         
