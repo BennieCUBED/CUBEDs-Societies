@@ -3,7 +3,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [30] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"unitTypes": ["Melee","Gunpowder","Calvary","Scout","Siege","Ranged","Ranged Gunpowder","Anti-Calvary","Melee Water","Ranged Water","Submarine"],
         "row": 0,
         "column": 0
     },
@@ -12,7 +12,7 @@
 
   		"name": "Shock I",
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Melee","Calvary","Armored","Anti-Calvary"],
         "column": 4,
         "row": 1
 	},
@@ -21,7 +21,7 @@
 		"name": "Shock II",
 		"prerequisites": ["Shock I"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+		"unitTypes": ["Melee","Gunpowder","Mounted","Armored"],
         "column": 4,
         "row": 2
 	},
