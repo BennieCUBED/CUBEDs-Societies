@@ -122,7 +122,7 @@
 
             {
                 "Diplomatic League",
-                "uniques": [""],
+                "uniques": ["Gifts of Gold to City-States generate [+25]% more Influence"],
                 "requires": ["Better Diplomacy"],
                 "row": 2,
                 "column": 6,
