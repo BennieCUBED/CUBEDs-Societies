@@ -51,6 +51,14 @@
                 "row": 2,
                 "column": 6,
             },
+
+            {
+                "name": "Survey",
+                "uniques": [""],
+                "requires": ["Organisation","Food Conservation"],
+                "row": 2,
+                "column": 3,
+            },
             
             {
                 "name": "Survival Complete",
