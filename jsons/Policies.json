@@ -156,7 +156,7 @@
 {
 
         "name": "Discipline",
-        "uniques": [""],
+        "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
         "row": 1,
         "column": 1, 
         
@@ -165,7 +165,7 @@
 {
 
         "name": "Strategy",
-        "uniques": [""],
+        "uniques": ["[+15]% Strength <for [Melee] units> <in [Land] tiles>"],
         "row": 1,
         "column": 3,
 
