@@ -54,7 +54,7 @@
 
             {
                 "name": "Survey",
-                "uniques": [""],
+                "uniques": ["Double movement in [Land] <for [Recon] units>"],
                 "requires": ["Organisation","Food Conservation"],
                 "row": 2,
                 "column": 3,
@@ -114,7 +114,7 @@
         {
 
             "name": "Colonisation",
-            "uniques": [""],
+            "uniques": ["Free [Settler] appears","[+30]% Production when constructing [Settler] units [in all cities]"],
             "requires": ["Labour","Better Diplomacy"],
             "row": 2,
             "column": 4,
