@@ -405,7 +405,38 @@
 
 	 },
 
-]
+         {
+
+		 "columnNumber": 5,
+
+		 "era": "Dark Era",
+
+		 "techCost": 200,
+
+		 "buildingCost": 180,
+
+		 "wonderCost": 400,
+
+		 "techs": [
+
+        {
+
+		"name": "",
+
+		"row": 1,
+
+		"prerequisites": ["Theology","Apprenticeship"],
+
+                "quote": "'' -.",
+
+	},
+
+		 ]
+
+	 },
+
+],
+	
 
 	 
 
