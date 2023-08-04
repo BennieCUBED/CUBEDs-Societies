@@ -394,3 +394,17 @@
 		 "requiredTech": "Education",
 
 	 },
+
+	 {
+
+		 "name": "University of Knowledge",
+
+		 "science": 7,
+
+		 "cost": 450,
+
+		 "requiredTech": "Education",
+
+	 },
+
+]
