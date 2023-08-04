@@ -381,4 +381,16 @@
 
 	 },
 
-]
+	 {
+
+		 "name": "University",
+
+		 "science": 3,
+
+		 "cost": 260,
+
+		 "maintenance": 2,
+
+		 "requiredTech": "Education",
+
+	 },
