@@ -39,7 +39,6 @@
 
                  "uniques": ["[20]% [Happiness] from each Trade Routes","[25]% [Culture] from each Trade Routes"],
 
-
                  "cities": ["Uralis","Bussul","Elsim","Usis","Anel","Erob","Lamile","Selassi","Floreese","Alsum"],
 
         },
@@ -78,7 +77,6 @@
 
                 "uniques": ["[+2 Production] from all [Culture] buildings <while the empire is happy>"]
 
-
                 "cities": ["Orokann","Solere","Tanndrun North","Tanndrun","Haus","Weulo","Anvert","Tiff","Farekovo","Sam","Road Hog"]
 
         },
@@ -116,7 +114,6 @@
                 "uniqueName": "Great Imperial",
 
                 "uniques": ["When defeating a [Wounded] unit, earn [30] Gold and recruit it"],
-
 
                 "cities": ["Hall","Beaco","Enerel","Skyton","Cersos","Anelip","Anstonia","Potalopia","Templeton"],
 
@@ -160,7 +157,6 @@
                  "uniqueName": "Southern Stars",
 
                  "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
-
 
                  "cities": ["Vividstrone","Railak","Daybo River","Coleston","Murrayvale","Manstown","Coalak","Bensberg","Once-upon-tyme","Good-City"],
 
@@ -283,9 +279,23 @@
 
 		"adjective": ["Ceyli"],
 
-		"cityStateType": 
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "All you fo is take, it's my turn to take!",
+
+		"attacked": "Ugh... You suck",
+
+		"defeated": "My people want stand for this!",
+
+		"outerColor": [0, 0, 0,],
+
+		"innerColor": []
         
-                  
+                "cities": ["Ceylihn"],
+
+	},
+
+]
 
 
 
