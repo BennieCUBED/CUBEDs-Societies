@@ -11,4 +11,15 @@
      
     },
 
+   {
+        "name": "Mercantile",
+     
+        "friendBonusUniques": ["[+2 Gold] [in capital]"],
+     
+        "allyBonusUniques": ["[+3 Gold] [in capital]", "[+1 Gold] [in all cities]"],
+     
+        "color": [252, 186, 3],
+     
+    },
+
 ]
