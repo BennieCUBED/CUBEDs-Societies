@@ -433,13 +433,25 @@
 
 	         },
 
-            ]
+            {
+
+		    "name": "Education",
+
+		    "row": 4,
+
+		    "prerequisites": ["Guilds"],
+
+		    "uniques": ["[+2 Science] in [All] cities]"],
+
+		    "quote": "'' -.",
 
 	},
 
 ]
 	
+	 },
 
+]
 	 
 
 
