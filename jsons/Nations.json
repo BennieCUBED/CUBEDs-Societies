@@ -242,7 +242,7 @@
 
 		"outerColor": [57, 57, 230],
 
-		"innerColor": [130, 87, 0],
+		"innerColor": [252, 186, 3],
 
 
 		"uniqueName": "Golden Sands",
@@ -289,7 +289,7 @@
 
 		"outerColor": [0, 0, 0,],
 
-		"innerColor": []
+		"innerColor": [252, 186, 3]
         
                 "cities": ["Ceylihn"],
 
