@@ -15,8 +15,21 @@
     
   },
 
-]
-
+  {
+    "name": "Support",
+    "description": "Bro?.",
+    "influence": 20,
+    "duration": 30,
+      "weightForCityStateType": {
+          "Cultured": 0.5,
+          "Maritime": 2,
+          "Mercantile": 2,
+          "Militaristic": 3,
+          "Religious": 1
+      },
     
+  },
+
+]  
 
     
