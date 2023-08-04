@@ -211,8 +211,49 @@
 
 	{
 
-		"
+		"name": "Alihn Ahn",
+  
+                "adjective": ["Alihnic"]
+		
+		"leaderName": "Nhalo",
+		
+                "startBias": ["Desert","Flood plain"],
 
+		"preferredVictoryType": "Culture",
+
+
+		"startIntroPart1": "Alihn Ahn is a nation known for it's instesity of it's riches, and for their love of it, begining on the desert, is where their new story begins",
+
+		"startIntroPart2": "Will you leade Alihn Ahn to riches, Can you build a civilisation that can stand against the test of time?",
+		
+
+		"declaringWar": "I've had enough of lookig  at your poor cities!",
+
+		"attacked": "Why should this be!? Our riches will blind you!",
+
+		"defeated": "Hmm! What now? want to laugh as you bring everything away..?",
+
+		"introduction": "Oh hello!, Have you come to my shining cities for guidance?",
+
+
+		"neutralHello": "Good Morning!",
+
+		"hateHello": "Hmm?",
+
+
+		"tradeRequest": "I have waited ages to ask you this!!",
+
+
+		"outerColor": [57, 57, 230],
+
+		"innerColor": [130, 87, 0],
+
+
+		"uniqueName": "Golden Sands",
+
+		"uniques": ["[+2 gold] for [All] cities on [Desert] tiles"],
+
+		"cities": ["Ahnil","Ipitol","Sunnum","Berhn","Slypi","Ollom","Fhnor","Diytip","Molospipi","Sulhnel","Burstel Ahn","Kes"],
 	
 	{
                 
