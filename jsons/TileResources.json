@@ -14,7 +14,7 @@
 
 		                "improvement": "Fishing Boats",
            
-                		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>","Generated on every [10] tiles <in [Featureless] [Coast] tiles>"],
+                		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>","Generated on every [15] tiles <in [Featureless] [Coast] tiles>"],
 
         },
 
@@ -318,6 +318,43 @@
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Tundra] tiles>"],
 
+	},
+
+	{
+		"name": "Ivory",
+		
+		"resourceType": "Luxury",
+
+		"revealedBy": "Trading",
+		
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		
+		"gold": 2,
+
+		"happiness": 1,
+		
+		"improvement": "Camp",
+		
+		"improvementStats": {"gold": 1},
+		
+		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>"],
+		
+	},
+
+	{
+		"name": "Jewelry",
+		
+		"resourceType": "Luxury",
+		
+		"gold": 2,
+
+		"happiness",
+		
+		"uniques": ["Can only be created by Mercantile City-States"],
+		
 	},
 
 ]
