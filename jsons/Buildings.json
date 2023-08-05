@@ -445,6 +445,23 @@
 	},
 
 	{
+		
+		"name": "Armory",
+		
+		"cost": 280,
+		
+		"maintenance": 1,
+		
+		"requiredBuilding": "Barracks",
+		
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		
+		"requiredTech": "Heavy Plating",
+		
+	},
+
+	{
+		
 		"name": "Utopia Project",
 		
 		"cost": 1500,
