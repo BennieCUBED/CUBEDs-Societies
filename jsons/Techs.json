@@ -447,11 +447,27 @@
 
 	},
 
-]
-	
+        {
+
+		"name": "Sieging",
+
+		"row": 5,
+
+		"prerequisites": ["Early Sieging","Apprenticeship"],
+
+		"quote": "'' -.",
+
+	},
+
+		 ]
+
 	 },
 
 ]
+	
+	 
+
+
 	 
 
 
