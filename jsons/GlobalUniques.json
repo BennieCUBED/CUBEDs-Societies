@@ -9,7 +9,6 @@
         "Rebel units may spawn <when below [-20] Happiness>",
         "[-1] Sight <for [Embarked] units>"],
         "[+25]% growth [in all cities] <when between [10] and [1] Happiness>",
-        "[+35]% growth [in all cities] <when above [10] Happiness>",
         "[+25]% [Production] [in all cities] <when above [10] Happiness>",
         "[+15]% Strength <for [All] units> <when above [10] Happiness>",
 }
