@@ -465,7 +465,7 @@
 
 		"row": 7,
 
-		"prerequisites": "Metal Casting",
+		"prerequisites": ["Metal Casting"],
 
 		"quote": "'STEEL' -No-one",
 		
