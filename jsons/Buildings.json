@@ -407,4 +407,21 @@
 
 	 },
 
+         {
+
+		
+		"name": "Mediaeval Walls",
+		
+		"cityStrength": 10,
+		
+		"cityHealth": 65,
+		
+		"cost": 300,
+		
+		"requiredTech": "Sieging",
+		
+		"uniques": ["Destroyed when the city is captured"]
+		
+	},
+
 ]
