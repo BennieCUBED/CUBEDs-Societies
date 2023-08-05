@@ -424,6 +424,26 @@
 		
 	},
 
+        {
+		
+		"name": "Walls of the North",
+
+		"isWonder": true,
+
+		"gold": 5,
+
+		"culture": 3,
+		
+		"cityStrength": 30,
+		
+		"cityHealth": 70,
+		
+		"cost": 650,
+		
+		"requiredTech": "Sieging",
+		
+	},
+
 	{
 		"name": "Utopia Project",
 		
