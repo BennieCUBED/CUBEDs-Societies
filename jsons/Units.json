@@ -249,7 +249,7 @@
 		
 		"requiredTech": "Horse Riding",
 
-		"obsoleteTech": "Metal Plating",
+		"obsoleteTech": "Heavy Plating",
 
 		"upgradesTo": "Knight",
 		
@@ -362,7 +362,7 @@
 	
 		"requiredResource": "Iron",
 
-		"obsoleteTech": "Metal Plating",
+		"obsoleteTech": "Heavy Plating",
 
 		"upgradesTo": "Man-at-Arms",
 		
@@ -470,7 +470,7 @@
 		
 		"cost": 280,
 		
-		"requiredTech": "Metal Plating",
+		"requiredTech": "Heavy Plating",
 		
 		"requiredResource": "Horses",
 		
