@@ -424,4 +424,16 @@
 		
 	},
 
-]
+	{
+		"name": "Utopia Project",
+		
+		"cost": 1500,
+		
+		"isNationalWonder": true,
+		
+		"uniques": ["Hidden until [2] social policy branches have been completed", "Triggers a global alert upon build start",
+			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
+		
+	},
+
+
