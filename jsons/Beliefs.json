@@ -38,7 +38,7 @@
 
                   "uniques": ["[+1 Production] from every [Shrine]"],
 
-         }
+         },
 
          {
 
@@ -47,6 +47,16 @@
                   "type": "Pantheon",
 
                   "uniques": ["May buy [All] units with [Faith] [in all cities]"]
+
+         },
+
+         {
+
+                  "name": "God's Expansion",
+
+                  "type": "Pantheon",
+
+                  "uniques": [""]
 
          },
 
