@@ -481,6 +481,7 @@
 	},
 
 	{
+		
 		"name": "Great Prophet",
 		
 		"unitType": "Civilian",
@@ -502,6 +503,7 @@
 	},
 
 	{
+		
 		"name": "Missionary",
 		
 		"unitType": "Civilian",
