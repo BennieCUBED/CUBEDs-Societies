@@ -16,4 +16,12 @@
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many movies and shows. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
 
+    {
+        "name": "Religious",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Become the world religion"],
+        "victoryString": "You founded the One True Faith. Many false gods and religions have been concocted and forgotten, but your people were the Chosen Ones, and have spread the True Word across the globe. The World will long be blessed with your prayers and prophesies!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many religions. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+
 ]
