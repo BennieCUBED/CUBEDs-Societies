@@ -476,7 +476,7 @@
 		
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		
-		"attackSound": "horse"
+		"attackSound": "horse",
 		
 	},
 
@@ -494,9 +494,10 @@
 			"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
 			"Takes your religion over the one in their birth city"],
+		
 		"movement": 2,
 		
-		"religiousStrength": 1000
+		"religiousStrength": 1000,
 		
 	},
 
@@ -508,9 +509,10 @@
 		"uniques": ["Can [Spread Religion] [2] times", "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+		
 		"movement": 4,
 		
-		"religiousStrength": 1000
+		"religiousStrength": 1000,
 		
 	},
 
