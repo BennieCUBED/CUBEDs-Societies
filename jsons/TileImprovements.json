@@ -22,7 +22,7 @@
 
 				"name": "Farm",
 		
-		"terrainsCanBeBuiltOn": ["Grassland"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plain"],
 		
 		"food": 1,
 		
@@ -80,7 +80,7 @@
 
 		"techRequired": "Mining",
 
-		"uniques": ["[+1 Production] <after discovering [Iron Mining]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Metal Working]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 
 		"shortcutKey": "Q"
 	},
