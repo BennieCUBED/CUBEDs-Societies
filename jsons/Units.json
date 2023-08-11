@@ -513,7 +513,7 @@
 	{
 		"name": "Composite Bowman",
 		
-		"unitType": "Archery",
+		"unitType": "Ranged",
 		
 		"movement": 2,
 		
@@ -524,8 +524,31 @@
 		"cost": 75,
 		
 		"requiredTech": "Mathematics",
+
+		"obsoleteTech": "Machinery",
+
+		"upgradesTo": "Ceossbowman",
 		
-		"attackSound": "arrow"
+		"attackSound": "arrow",
+		
+	},
+
+	{
+		"name": "Crossbowman",
+		
+		"unitType": "Ranged",
+		
+		"movement": 2,
+		
+		"strength": 30,
+		
+		"rangedStrength": 40,
+		
+		"cost": 230,
+		
+		"requiredTech": "Machinery",
+		
+		"attackSound": "crossbow",
 		
 	},
 
