@@ -61,7 +61,7 @@
         "startingGold": 50,
         "startingCulture": 300,
         "settlerPopulation": 2,
-        "settlerBuildings": ["Shrine","Monument"],
+        "settlerBuildings": ["Shrine","Monument","Basic Housing I","Wooden Harbor","Crafting Area","Entertainment Area","Lighthouse"],
         "startingObsoleteWonders": ["Stepping Stones to God","The Great Museum"],
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
