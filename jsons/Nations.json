@@ -138,7 +138,7 @@
                  "preferredVictoryType": "Science",
 
 
-                 "declaringWar": "I'm sorry, but you threaten the peace and balance if this world.",
+                 "declaringWar": "I'm sorry, but you threaten the peace and balance of this world.",
 
                  "attacked": "Look at that leader with war declaration, nice job, mate. Show how evil you are!",
 
@@ -185,7 +185,7 @@
 
                  "attacked": "War..? I never wanted to make you fall.",
 
-                 "defeated": "Costazmacia has fallen, Humanity will be united one day... It's a shame it won't be Costazmacia.",
+                 "defeated": "Costazmacia has fallen, Humanity will be united one day... It's a shame it won't be our Monarchy.",
 
                  "introduction": "Hey! It's cold outside, how about you come inside and talk about you're people to me.",
                 
@@ -229,7 +229,7 @@
 		"startIntroPart2": "Will you leade Alihn Ahn to riches, Can you build a civilisation that can stand against the test of time?",
 		
 
-		"declaringWar": "I've had enough of lookig  at your poor cities!",
+		"declaringWar": "I've had enough of looking at your poor cities!",
 
 		"attacked": "Why should this be!? Our riches will blind you!",
 
@@ -289,11 +289,11 @@
 
 		"cityStateType": "Mercantile",
 
-		"declaringWar": "All you fo is take, it's my turn to take!",
+		"declaringWar": "All you do is take, it's my turn to take!",
 
 		"attacked": "Ugh... You suck",
 
-		"defeated": "My people want stand for this!",
+		"defeated": "My people will not stand for this!",
 
 		"outerColor": [0, 0, 0],
 
