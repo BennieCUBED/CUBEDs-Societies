@@ -511,6 +511,8 @@
 
 		"prerequisites": ["Celestial Navigation"],
 
+		"uniques": ["Enables [Embarked] units to enter ocean tiles"],
+
 		"quote": "'' -.",
 
 	},
