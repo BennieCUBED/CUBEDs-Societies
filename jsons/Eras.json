@@ -51,4 +51,21 @@
 
          },
 
-]
+         {
+        "name": "Discovery Era",
+        "researchAgreementCost": 250,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Pikeman",
+        "startingGold": 50,
+        "startingCulture": 300,
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Shrine","Monument"],
+        "startingObsoleteWonders": [""],
+        "baseUnitBuyCost": 300,
+        "embarkDefense": 8,
+        "startPercent": 37,
+        "citySound": "cityRenaissance",
+        "iconRGB": [104, 58, 183]
+    },
