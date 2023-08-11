@@ -479,7 +479,7 @@
 
 		"prerequisites": ["Metal Casting","Apprenticeship"],
 
-		"uniques": [""],
+		"uniques": ["[+1 Production] from [Lumber Mill] tiles [in all cities]"],
 
 		"quote": "'I'd imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.' Hugo Cabret-.",
 
