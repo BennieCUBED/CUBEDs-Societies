@@ -575,7 +575,7 @@
 		
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 	
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
 	},
 
 	{
@@ -603,7 +603,7 @@
 		
 		"hurryCostModifier": 20,
 		
-		"attackSound": "horse"
+		"attackSound": "horse",
 		
 	},
 
