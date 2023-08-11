@@ -62,7 +62,7 @@
         "startingCulture": 300,
         "settlerPopulation": 2,
         "settlerBuildings": ["Shrine","Monument"],
-        "startingObsoleteWonders": [""],
+        "startingObsoleteWonders": ["Stepping Stones to God","The Great Museum"],
         "baseUnitBuyCost": 300,
         "embarkDefense": 8,
         "startPercent": 37,
