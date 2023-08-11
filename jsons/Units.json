@@ -510,4 +510,20 @@
 		"religiousStrength": 1000
 	},
 
-]
+	{
+		"name": "Composite Bowman",
+		
+		"unitType": "Archery",
+		
+		"movement": 2,
+		
+		"strength": 20,
+		
+		"rangedStrength": 25,
+		
+		"cost": 75,
+		
+		"requiredTech": "Construction",
+		
+		"attackSound": "arrow"
+	},
