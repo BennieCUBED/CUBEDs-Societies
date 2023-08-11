@@ -489,9 +489,37 @@
 
 	 },
 
+         {
+
+		 "columnNumber": 6,
+
+		 "era": "Discovery Era",
+
+		 "techCost": 240,
+
+		 "buildingCost": 210,
+
+		 "wonderCost": 500,
+
+		 "techs": [
+
+        {
+
+		"name": "Cartography",
+
+		"row": 1,
+
+		"prerequisites": ["Celestial Navigation"],
+
+		"quote": "'' -.",
+
+	},
+
+		 ]
+
+	 },
+
 ]
-
-
 	
 	 
 
