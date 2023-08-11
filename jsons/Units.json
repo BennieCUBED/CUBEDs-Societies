@@ -523,7 +523,10 @@
 		
 		"cost": 75,
 		
-		"requiredTech": "Construction",
+		"requiredTech": "Mathematics",
 		
 		"attackSound": "arrow"
+		
 	},
+
+]
