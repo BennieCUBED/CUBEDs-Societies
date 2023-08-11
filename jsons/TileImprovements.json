@@ -22,7 +22,7 @@
 
 				"name": "Farm",
 		
-		"terrainsCanBeBuiltOn": ["Grassland","Plain"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
 		
 		"food": 1,
 		
