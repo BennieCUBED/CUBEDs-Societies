@@ -471,6 +471,20 @@
 		
 	},
 
+	{
+
+		"name": "Machinery",
+
+		"row": 8,
+
+		"prerequisites": ["Metal Casting","Apprenticeship"],
+
+		"uniques": [""],
+
+		"quote": "'' -.",
+
+	},
+
 		 ]
 
 	 },
