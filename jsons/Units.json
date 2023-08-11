@@ -552,4 +552,57 @@
 		
 	},
 
-]
+        {
+		"name": "Striker",
+		
+		"unitType": "Melee",
+
+		"uniqueTo": "VividVale",
+		
+		"movement": 3,
+		
+		"strength": 20,
+		
+		"cost": 90,
+		
+		"requiredTech": "Bronze Working",
+
+		"obsoleteTech": "Heavy Plating",
+
+		"upgradesTo": "Longswordsman",
+
+		"requiredResource": "Copper",
+		
+		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
+	
+		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Golden Calvary",
+		
+		"unitType": "Calvary",
+
+		"uniqueTo": "",
+		
+		"movement": 4,
+		
+		"strength": 30,
+		
+		"cost": 50,
+		
+		"requiredTech": "Horse Riding",
+
+		"obsoleteTech": "Heavy Plating",
+
+		"upgradesTo": "Knight",
+		
+		"requiredResource": "Horses",
+	
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		
+		"hurryCostModifier": 20,
+		
+		"attackSound": "horse"
+		
+	},
