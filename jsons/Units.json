@@ -190,6 +190,10 @@
 		
 		"requiredTech": "Bronze Working",
 
+		"obsoleteTech": "Heavy Plating",
+
+		"upgradesTo": "Longswordsman",
+
 		"requiredResource": "Copper",
 		
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
@@ -228,6 +232,10 @@
 		"cost": 90,
 		
 		"requiredTech": "Bronze Working",
+
+		"obsoleteTech": "Heavy Plating",
+
+		"upgradesTo": "Pikeman",
 
 		"requiredResource": "Copper",
 		
