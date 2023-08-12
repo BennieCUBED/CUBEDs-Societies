@@ -9,7 +9,7 @@
             "cityStrengthBase": 15,
             "cityStrengthFromTechsMultiplier": 3,
             "cityStrengthPerPop": 0.3,
-            "policyCostModifier": 0.2,
+            "policyCostModifier": -0.5,
 
       }
 
