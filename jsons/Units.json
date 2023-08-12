@@ -633,4 +633,22 @@
 		
 	},
 
+        {
+
+		 "name": "Explorer",
+
+		 "unitType": "Recon",
+
+		 "movement": 2,
+
+		 "strength": 24,
+
+		 "requiredTech": "Celestial Navigation",
+
+		 "cost": 175,
+
+		 "attackSound": "normalhit",
+
+	},
+
 ]
