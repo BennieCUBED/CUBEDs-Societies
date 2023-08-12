@@ -201,11 +201,11 @@
 		"unitCostModifier": -1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 2,
-		"buildingCostModifier": 1,
+		"buildingCostModifier": -100,
 		"policyCostModifier": -100,
-		"unhappinessModifier": 1,
+		"unhappinessModifier": -100,
 		"barbarianBonus": 0.4,
-		"barbarianSpawnDelay": 1,
+		"barbarianSpawnDelay": 10,
 		"playerBonusStartingUnits": [Settler], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
 		"aiCityGrowthModifier": 2, // that is to say it'll take them 1.6 times as long to grow the city
 		"aiUnitCostModifier": 2,
@@ -220,7 +220,7 @@
 		"aiUnhappinessModifier": 2,
 		"aisExchangeTechs": True,
 		"turnBarbariansCanEnterPlayerTiles": 0,
-		"clearBarbarianCampReward": 100
+		"clearBarbarianCampReward": 100,
 
 	},
 
