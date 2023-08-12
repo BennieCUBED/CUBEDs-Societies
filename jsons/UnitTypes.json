@@ -101,7 +101,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["All adjacent units heal [7] HP when healing"]
+                    "uniques": ["[+50]% Strength <vs [Melee] units>"],
 
           },
           
