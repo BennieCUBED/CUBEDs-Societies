@@ -461,7 +461,11 @@
 
 		"requiredTech": "Heavy Plating",
 
-		"uniques": ["[+50]% Strength <vs [Ranged] units>"]
+		"obsoleteTech": "Gunpowder",
+
+		"upgradesTo": "Musketman",
+
+		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"]
 
 		"attackSound": "metalhit",
 
@@ -604,6 +608,26 @@
 		"hurryCostModifier": 20,
 		
 		"attackSound": "horse",
+		
+	},
+
+	{
+		
+		"name": "Musketman",
+		
+		"unitType": "Gunpowder",
+		
+		"movement": 2,
+		
+		"strength": 50,
+		
+		"cost": 300,
+		
+		"requiredTech": "Gunpowder",
+
+		"uniques": ["[+50]% Strength <vs [Melee] units>"],
+		
+		"attackSound": "shot",
 		
 	},
 
