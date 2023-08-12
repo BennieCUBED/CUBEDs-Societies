@@ -625,6 +625,8 @@
 		
 		"requiredTech": "Gunpowder",
 
+		"requiredResource": "Niter",
+
 		"uniques": ["[+50]% Strength <vs [Melee] units>"],
 		
 		"attackSound": "shot",
