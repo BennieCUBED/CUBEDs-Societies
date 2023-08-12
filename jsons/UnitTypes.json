@@ -95,6 +95,16 @@
 
           },
 
+          {
+
+                    "name": "Gunpowder",
+
+                    "movementType": "Land",
+
+                    "uniques": ["All adjacent units heal [7] HP when healing"]
+
+          },
+          
 ]
                     
 
