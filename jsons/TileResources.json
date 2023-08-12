@@ -367,7 +367,7 @@
 
 		"production": 1,
 
-		"uniques": ["Generated with weight [20] <in [Plains] Regions>","Generated with weight [25] <in [Grassland] Regions>","Generated with weight [25] <in [Desert] Regions>"],
+		"uniques": ["Generated with weight [20] <in [Featureless] [Plains] Regions>","Generated with weight [30] <in [Featureless] [Grassland] Regions>","Generated with weight [30] <in [Featureless] [Desert] Regions>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
 
 	},
 
