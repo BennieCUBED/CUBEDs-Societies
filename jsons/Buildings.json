@@ -401,6 +401,8 @@
 
 		 "science": 7,
 
+		 "isWonder": true,
+
 		 "cost": 450,
 
 		 "requiredTech": "Education",
@@ -473,6 +475,20 @@
 		
 	},
 
+	{
+		
+		"name": "Bank",
+		
+		"gold": 2,
+
+		"Cost": 320,
+		
+		"percentStatBonus": {"gold": 25},
+		
+		"requiredBuilding": "Market",
+		
+		"requiredTech": "Banking"
+		
+	},
+
 ]
-
-
