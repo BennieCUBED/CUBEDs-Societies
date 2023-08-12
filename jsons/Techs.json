@@ -517,6 +517,18 @@
 
 	},
 
+	{
+
+		"name": "Gunpowder",
+
+		"row": 7,
+
+		"prerequisites": ["Heavy Plating","Sieging"],
+
+		"quote": "'Muskets speak louder than words.' -I dont remember lol",
+
+	 },
+
 		 ]
 
 	 },
