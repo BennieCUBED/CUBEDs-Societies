@@ -365,6 +365,8 @@
 
 		"revealedBy": "Gunpowder",
 
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert"],
+
 		"production": 1,
 
 		"uniques": ["Generated with weight [20] <in [Featureless] [Plains] Regions>","Generated with weight [30] <in [Featureless] [Grassland] Regions>","Generated with weight [30] <in [Featureless] [Desert] Regions>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
