@@ -527,4 +527,22 @@
 
 	},
 
+	{
+
+		"name": "Water Mill",
+		
+		"maintenance": 2,
+		
+		"food": 2,
+		
+		"production": 1,
+		
+		"cost": 80,
+		
+		"uniques": ["Must be on [River]"],
+		
+		"requiredTech": ""
+
+	},
+
 ]
