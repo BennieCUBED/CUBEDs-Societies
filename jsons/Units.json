@@ -651,4 +651,26 @@
 
 	},
 
+	{
+
+	        "name": "Attack Dog",
+		 
+		"unitType": "Companion",
+
+		"movement": 3,
+
+		"strength": 8,
+
+		"requiredTech": "Taming",
+
+		"requiredResource": "Dogs",
+
+		"cost": 60,
+
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+
+		"attackSound": "normalhit",
+
+	},
+
 ]
