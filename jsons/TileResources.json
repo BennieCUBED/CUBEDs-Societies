@@ -373,4 +373,21 @@
 
 	},
 
+        {
+
+		"name": "Wine",
+		
+		"resourceType": "Luxury",
+		
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		
+		"gold": 2,
+		
+		"improvement": "Plantation",
+		
+		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>"],
+
+	},
+
 ]
