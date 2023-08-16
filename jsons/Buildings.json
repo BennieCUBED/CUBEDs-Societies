@@ -557,6 +557,10 @@
 
 		"uniques": ["[+1 Production] from [Horses] tiles [in this city]"],
 
-		"requiredTech": 
+		"requiredTech": "Horse Riding",
+
+	},
 
 ]
+
+
