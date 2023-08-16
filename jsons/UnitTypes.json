@@ -105,6 +105,16 @@
 
           },
           
+          {
+
+                    "name": "Companion",
+
+                    "movementType": "Land",
+
+                    "uniques": [""],
+
+          },
+
 ]
                     
 
