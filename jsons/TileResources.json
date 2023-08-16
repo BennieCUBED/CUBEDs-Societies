@@ -365,7 +365,7 @@
 
 		"revealedBy": "Gunpowder",
 
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert"],
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill"],
 
 		"production": 1,
 
