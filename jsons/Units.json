@@ -562,6 +562,8 @@
 		"unitType": "Melee",
 
 		"uniqueTo": "VividVale",
+
+		"replaces": "Spearman",
 		
 		"movement": 3,
 		
@@ -588,6 +590,8 @@
 		"unitType": "Calvary",
 
 		"uniqueTo": "Alihn Ahn",
+
+		"replaces": "Knight",
 		
 		"movement": 4,
 		
