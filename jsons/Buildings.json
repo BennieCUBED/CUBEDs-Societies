@@ -513,6 +513,8 @@
 
 		"name": "Bar",
 
+		"requiredNearbyImprovedResources": ["Wine"],
+
 		"food": 1,
 
 		"happiness": 2,
