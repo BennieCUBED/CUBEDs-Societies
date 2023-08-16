@@ -491,4 +491,20 @@
 		
 	},
 
+	{
+
+		"name": "Shipyard",
+
+		"production": 1,
+
+		"gold": 2,
+
+		"cost": 340,
+
+		"requiredBuilding": "Wooden Harbor",
+
+		"requiredTech": "Mass Production",
+
+		"uniques": ["Must be next to [Coast]",""
+
 ]
