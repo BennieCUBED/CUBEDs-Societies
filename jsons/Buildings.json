@@ -505,6 +505,24 @@
 
 		"requiredTech": "Mass Production",
 
-		"uniques": ["Must be next to [Coast]",""
+		"uniques": ["Must be next to [Coast]"],
+
+	},
+
+	{
+
+		"name": "Bar",
+
+		"food": 1,
+
+		"happiness": 2,
+
+		"cost": 300,
+
+		"requiredTech": "Mass Production",
+
+		"uniques": ["[+20]% Yield from every [Plantation]"],
+
+	},
 
 ]
