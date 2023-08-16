@@ -543,6 +543,20 @@
 
 	 },
 
+	 {
+
+		 "name": "Mass Production",
+
+		 "row": 2,
+
+		 "prerequisites": ["Education","Machinery"],
+
+		 "uniques": [""],
+
+		 "quote": "'' -.",
+
+	 },
+
 		 ]
 
 	 },
