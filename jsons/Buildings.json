@@ -537,11 +537,11 @@
 		
 		"production": 1,
 		
-		"cost": 80,
+		"cost": 110,
 		
 		"uniques": ["Must be on [River]"],
 		
-		"requiredTech": ""
+		"requiredTech": "Mathematics",
 
 	},
 
