@@ -545,4 +545,18 @@
 
 	},
 
+	{
+
+		"name": "Stable",
+
+		"maintenance": 1,
+
+		"production": 1,
+
+		"cost": 130,
+
+		"uniques": ["[+1 Production] from [Horses] tiles [in this city]"],
+
+		"requiredTech": 
+
 ]
