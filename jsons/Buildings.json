@@ -207,6 +207,8 @@
 		"percentStatBonus": {"gold": 30},
 	
 		"requiredTech": "Currency",
+
+		"uniques": ["Enables conversion of city production to [Gold]"],
 		 
 	},
 
