@@ -565,11 +565,11 @@
 
 		 "prerequisites": ["Education"],
 
-		 "uniques": [""],
+		 "uniques": ["[+1 Gold, +1 Science] from all [Library] buildings"],
 
 		 "quote": "'' -.",
 
-		 
+	 },
 
 		 ]
 
