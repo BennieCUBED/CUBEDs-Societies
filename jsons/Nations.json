@@ -137,6 +137,8 @@
 
                  "preferredVictoryType": "Science",
 
+		 "favoredReligion": "CUBEism",
+
 
                  "declaringWar": "I'm sorry, but you threaten the peace and balance of this world.",
 
@@ -179,6 +181,8 @@
                  "startBias": ["Tundra","Forest"],
 
                  "preferredVictoryType": "Domination",
+
+		 "favoredReligion": "Northspiritusism",
 
 
                  "declaringWar": "One day, Humanity will be united again. But you're in my way...",
