@@ -199,9 +199,9 @@
 
         {
 
-		"name": "Fort's Lumber Mill",
+		"name": "Fortoulen Lumber Mill",
 
-		"uniqueTo": "Fort"
+		"uniqueTo": "Fortoulen"
 
 		"replaces": "Lumber Mill",
 
@@ -217,5 +217,9 @@
 
 		"techRequired": "Wood Cutting",
 
-		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]"]
+		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]"],
+
+	},
+
+]
 		
