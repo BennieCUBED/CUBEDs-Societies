@@ -205,6 +205,8 @@
 		"cost": 130,
 	
 		"percentStatBonus": {"gold": 30},
+
+	        "requiredBuilding": "Trading Market",
 	
 		"requiredTech": "Currency",
 
@@ -251,6 +253,8 @@
 		"maintenance": 2,
 		
 		"production": 3,
+
+		"requiredBuilding": "Crafting Area",
 		
 		"requiredTech": "Metal Work"
 		
@@ -310,6 +314,8 @@
 		"happiness": 2,
 		
 		"cost": 160,
+
+		"requiredBuilding": "Entertainment Area",
 		
 		"requiredTech": "Early Architecture",
 		
@@ -328,6 +334,8 @@
 		"cost": 160,
 		
 		"uniques": ["Destroyed when the city is captured"],
+
+		"requiredBuilding": "Monument",
 		
 		"requiredTech": "Early Architecture"
 		
