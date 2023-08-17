@@ -262,6 +262,53 @@
 		"cities": ["Ahnil","Ipitol","Sunnum","Berhn","Slypi","Ollom","Fhnor","Diytip","Molospipi","Sulhnel","Burstel Ahn","Kes"],
 
 	},
+
+	{
+
+		"name": "Fortoulen",
+
+		"adjective": ["Fortoulen","Fortoulean"],
+		
+	        "leaderName": "Loneltili the Wandering",
+
+		"startBias": ["Jungle","Forest"],
+
+		"preferredVictoryType": "Culture",
+
+
+		"startIntroPart1": "Fortoulen, The great and mysterious north, filled with beautiful jungles and forest. Many no not of the bloodshed between the other southern tribes and empires. but with your mind, Loneltili, Fortoulen shall thrive",
+
+		"startIntroPart2": "Oh Loneltili, can you defend against the southern empires? Can you build a civilisation that can stand against the test of time?",
+
+
+		"declaringWar": "War is the only way we can have peace, accept our pain!",
+
+		"attacked": "We are not strangers to war, you have failed to think. Now we shall turn your men around...",
+
+		"defeated": "I should have known to leave you alone, and now, i'm an alone wanderer.",
+
+		"introduction": "Hello Wanderer! We come from far and wide to greet you to our society, for we are Fortoulen!",
+
+
+		"neutralHello": "Welcome...",
+
+		"hateHello": "we are listening...",
+
+
+		"tradeRequest": "We want to know abou you, friend, for we are a keen society",
+
+		"outerColor": [],
+
+		"innerColor": [],
+
+
+		"uniqueName": "Curious Society",
+
+		"uniques": [""],
+
+		"cities": ["Totstilo","Loilou","Amteci","Nouletso","Fortoulen","Tecto","Lozali","Setec","Loulic","Varume Toltel","Teatolt","Quelaoti","Antoli","Loitozalitoc","Toltol","Toiloc"],
+
+	},
 	
 	{
                 
