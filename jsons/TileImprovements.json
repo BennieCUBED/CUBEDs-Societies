@@ -197,4 +197,25 @@
 		
 	},
 
-]
+        {
+
+		"name": "Fort's Lumber Mill",
+
+		"uniqueTo": "Fort"
+
+		"replaces": "Lumber Mill",
+
+                "terrainsCanBeBuiltOn": ["Jungle","Forest"],
+
+		"production": 1,
+
+		"food": 2,
+
+		"happiness": 1,
+
+		"turnsToBuild": 5,
+
+		"techRequired": "Wood Cutting",
+
+		"uniques": ["Pillaging this improvement yields approximately [+30 Gold]"]
+		
