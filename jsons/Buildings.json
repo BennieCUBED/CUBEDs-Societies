@@ -561,6 +561,20 @@
 
 	},
 
+	{
+
+		"name": "Printer",
+
+		"maintenance": 1,
+
+		"science": 2,
+
+		"cost": 260,
+
+		"uniques": ["Enables conversion of city production to [Science]"],
+
+	},
+
 ]
 
 
