@@ -603,6 +603,20 @@
 
 	},
 
+	{
+
+		"name": "House of Verß",
+
+		"isWonder": true,
+
+		"culture": 5,
+
+		"cost": 730,
+
+		"requiredTech": "Architecture",
+
+		"uniques": [""],
+
+	},
+
 ]
-
-
