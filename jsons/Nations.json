@@ -297,9 +297,9 @@
 
 		"tradeRequest": "We want to know abou you, friend, for we are a keen society",
 
-		"outerColor": [],
+		"outerColor": [248,217,2],
 
-		"innerColor": [],
+		"innerColor": [205,0,1],
 
 
 		"uniqueName": "Curious Society",
