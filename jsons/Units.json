@@ -213,10 +213,14 @@
 		"cost": 70,
 
 		"requiredTech": "Sailing",
+
+		"obsoleteTech": "Exploration",
+
+		"upgradesTo": "Trireme",
 		
 		"uniques": ["Cannot enter ocean tiles"],
 		
-		"attackSound": "nonmetalhit"
+		"attackSound": "arrow",
 		
 	},
 
@@ -283,6 +287,10 @@
 
 		 "requiredTech": "Exploration",
 
+		 "obsoleteTech": "Celestial Navigation",
+
+		 "upgradesTo": "Explorer",
+
 		 "cost": 50,
 
 		 "attackSound": "normalhit",
@@ -329,6 +337,8 @@
 		"cost": 50,
 		
 		"requiredTech": "Exploration",
+
+		"obsoleteTech": "Cartography",
 		
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		
@@ -420,6 +430,10 @@
 		"cost": 260,
 		
 		"requiredTech": "Sieging",
+
+		"obsoleteTech": "Chemistry",
+
+		"upgradesTo": "Cannon",
 		
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
@@ -716,5 +730,29 @@
 		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
 		
 		"attackSound": "cannon"
+
+	},
+
+	{
+
+		"name": "Frigate",
+
+		"unitType": "Ranged Water",
+
+		"movement": 4,
+
+		"strength": 35,
+
+		"rangedStrength": 45,
+
+		"cost": 375,
+
+		"requiredTech": "Square Rigging",
+
+		"requiredResource": "Niter",
+
+		"attackSound": "cannon",
+
+	},
 
 ]
