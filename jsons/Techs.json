@@ -629,6 +629,16 @@
 
 	},
 
+	{
+
+		"name": "Square Rigging",
+
+		"row": 1,
+
+		"prerequisites": ["Cartography","Education"],
+
+		"quote": "'It's not the towering sails, but the unseen wind that moves a ship.' -.",
+
 		 ]
 
 	 },
