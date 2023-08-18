@@ -111,7 +111,17 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["[2] Sight"],
+                    "uniques": ["[1] Sight"],
+
+          },
+
+          {
+
+                    "name": "Ranged Water",
+
+                    "movementType": "Water",
+
+                    "uniques": ["[+50]% Strength <vs [Embarked] units>"]
 
           },
 
