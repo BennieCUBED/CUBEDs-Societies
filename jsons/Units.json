@@ -695,8 +695,26 @@
 
 		"cost": 340,
 
-	        "attackSound": "shot",
+	        "attackSound": "cannon",
 
-	},		
+	},
+
+	{
+
+		"name": "Caravel",
+		
+		"unitType": "Melee Water",
+		
+		"movement": 4,
+		
+		"strength": 40,
+		
+		"cost": 375,
+		
+		"requiredTech": "Cartography",
+
+		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
+		
+		"attackSound": "cannon"
 
 ]
