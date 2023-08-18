@@ -677,4 +677,26 @@
 
 	},
 
+	{
+
+		"name": "Cannon",
+
+		"unitType": "Siege",
+
+		"movement": 2,
+
+		"strength": 40,
+
+		"rangedStrength": 55,
+
+		"requiredTech": "Chemistry",
+
+		"requiredResource": "Niter",
+
+		"cost": 340,
+
+	        "attackSound": "shot",
+
+	},		
+
 ]
