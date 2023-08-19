@@ -14,7 +14,7 @@
 
               "name": "Culture Gain",
               "notification": "Ancient Arts have been found in some decorative buildings...",
-              "uniques": [""],
+              "uniques": ["Gain [50]-[80] [Culture]"],
               "color": "",
 
        },
@@ -23,7 +23,7 @@
 
               "name": "Survivor's",
               "notification": "Some survivor's have been found hiding within the ruins.",
-              "uniques": [""],
+              "uniques": ["[2] population in a random city"],
               "color": "",
 
        },
