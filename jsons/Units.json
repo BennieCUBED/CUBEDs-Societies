@@ -475,6 +475,8 @@
 
 		"requiredTech": "Heavy Plating",
 
+		"requiredResource": "Iron",
+
 		"obsoleteTech": "Gunpowder",
 
 		"upgradesTo": "Musketman",
