@@ -302,11 +302,11 @@
 		"innerColor": [122, 81, 43],
 
 
-		"uniqueName": "Curious Society",
+		"uniqueName": "Natural Society",
 
 		"uniques": ["Gain [20] [Food] <upon gaining a [Recon] unit>","Cannot build [Lumber mill]"],
 
-		"cities": ["Totstilo","Loilou","Amteci","Nouletso","Fortoulen","Tecto","Lozali","Setec","Loulic","Varume Toltel","Teatolt","Quelaoti","Antoli","Loitozalitoc","Toltol","Toiloc"],
+		"cities": ["Totstilo","Loilou","Amteki","Nouletso","Fortoulen","Tekto","Lozali","Setek","Loulic","Varume Toltel","Teatolt","Quelaoti","Antoli","Loitozalitok","Toltol","Toilok"],
 
 	},
 	
