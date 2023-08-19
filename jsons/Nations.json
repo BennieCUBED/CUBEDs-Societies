@@ -164,7 +164,7 @@
 
                  "uniqueName": "Southern Stars",
 
-                 "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]","[3] Movement "],
+                 "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]","[3] Movement <for [All] units> <in [Coastal] tiles>"],
 
                  "cities": ["Vividstrone","Railak","Daybo River","Coleston","Murrayvale","Manstown","Coalak","Bensberg","Once-upon-tyme","Good-City"],
 
