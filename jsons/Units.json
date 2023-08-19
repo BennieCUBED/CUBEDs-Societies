@@ -769,7 +769,7 @@
 		
 		"movement": 3,
 		
-		"strength": 21,
+		"strength": 35,
 		
 		"cost": 120,
 		
@@ -781,7 +781,7 @@
 		
 		"requiredResource": "Iron",
 		
-		"promotions": ["Amphibious"],
+		"promotions": ["Shock I"],
 		
 		"hurryCostModifier": 20,
 		
