@@ -61,6 +61,16 @@
          },
 
          {
+
+                  "name": "Slaves of God",
+
+                  "type": "Pantheon",
+
+                  "uniques": ["Gain [30]-[50] [Faith] <upon gaining a [Worker] unit>"],
+
+         },
+
+         {
                   
                   "name": "Asceticism",
                   
