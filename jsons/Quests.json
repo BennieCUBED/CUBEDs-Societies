@@ -30,6 +30,50 @@
     
   },
 
-]  
+  {
+    "name": "Clear Barbarian Camp",
+    "description": "Barbarian's have been threatening our village for far too long! Stop them at once!",
+    "type": "Global",
+    "influence": 50,
+    "minimumCivs": 1,
+      "weightForCityStateType": {
+          "Cultured": 3,
+          "Maritime": 3,
+          "Mercantile": 3,
+          "Militaristic": 9,
+          "Religious": 3
+      },
 
-    
+  },
+
+    {
+       "name": "Connect Resource",
+       "description": "Seeing that there may be [tileResource] nearby, I recommend you add that to your society.",
+         "weightForCityStateType": {
+             "Cultured": 1,
+             "Maritime": 1.7,
+             "Mercantile": 3
+             "Militaristic": 0.9
+             "Religious": 0.5,
+      },
+
+    },
+
+  {
+    "name": "Contest Culture",
+    "description": "The civilization with the largest Culture growth will gain a reward.",
+    "type": "Global",
+    "duration": 25,
+    "minimumCivs": 3,
+      "weightForCityStateType": {
+          "Cultured": 2.5,
+          "Maritime": 0.5,
+          "Mercantile": 0.5,
+          "Militaristic": 1,
+          "Religious": 0.6
+      },
+
+  },
+
+]
+  
