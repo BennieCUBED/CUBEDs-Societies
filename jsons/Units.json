@@ -757,4 +757,36 @@
 
 	},
 
+        {
+
+		"name": "Berserker",
+		
+		"unitType": "Melee",
+		
+		"replaces": "Longswordsman",
+		
+		"uniqueTo": "Barbarians",
+		
+		"movement": 3,
+		
+		"strength": 21,
+		
+		"cost": 120,
+		
+		"requiredTech": "Metal Casting",
+		
+		"upgradesTo": "Musketman",
+		
+		"obsoleteTech": "Gunpowder",
+		
+		"requiredResource": "Iron",
+		
+		"promotions": ["Amphibious"],
+		
+		"hurryCostModifier": 20,
+		
+		"attackSound": "metalhit"
+
+	},
+
 ]
