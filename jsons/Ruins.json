@@ -4,9 +4,28 @@
 
 
               "name": "Scientific scrolls found within the ruins",
-              "notification": "Scientific scrolls found within the ruins",
-              "uniques": [""],
+              "notification": "Scientific scrolls found within the ruins!",
+              "uniques": ["Gain [50]-[80] [Science]"],
               "color": "#7f7fff",
 
        }
         
+       {
+
+              "name": "Culture Gain",
+              "notification": "Ancient Arts have been found in some decorative buildings...",
+              "uniques": [""],
+              "color": "",
+
+       },
+
+       {
+
+              "name": "Survivor's",
+              "notification": "Some survivor's have been found hiding within the ruins.",
+              "uniques": [""],
+              "color": "",
+
+       },
+
+]
