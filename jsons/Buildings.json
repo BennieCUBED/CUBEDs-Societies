@@ -24,7 +24,7 @@
 
          {
 
-                  "name": "Monument",
+                        "name": "Monument",
            
               		"culture": 2,
                    
@@ -618,5 +618,25 @@
 		"uniques": ["[2] Free Social Policies","[+25]% growth [in this city]"],
 
 	},
+
+	{
+
+		"name": "Holy Field's",
+
+		"faith": 2,
+
+		"food": 1,
+
+		"cost": 200,
+
+		"requiredTech": "Theology",
+
+		"uniques": ["Hidden when religion is disabled"],
+
+	},
+
+]
+
+		
 
 ]
