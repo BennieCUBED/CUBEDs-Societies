@@ -102,6 +102,16 @@
 
          {
 
+                  "name": "Holy Fields",
+
+                  "type": "Follower",
+
+                  "uniques": ["May buy [Holy Field's] buildings with [Faith] [in cities following this religion]"],
+
+         },
+
+         {
+
                   "name": "Tithe",
                   
                   "type": "Founder",
