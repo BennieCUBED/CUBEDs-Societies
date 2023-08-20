@@ -641,6 +641,18 @@
 
 	},
 
+	{
+
+		"name": "Overseas Trading",
+
+		"row": 5,
+
+		"prerequisites": ["Mass Production","Banking"],
+
+	},
+
+			 
+
 		 ]
 
 	 },
