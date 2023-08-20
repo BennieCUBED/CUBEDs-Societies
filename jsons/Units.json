@@ -499,6 +499,10 @@
 		"cost": 280,
 		
 		"requiredTech": "Heavy Plating",
+
+		"obsoleteTech": "Metallurgy",
+
+		"upgradesTo": "Lancer",
 		
 		"requiredResource": "Horses",
 		
@@ -786,6 +790,26 @@
 		"hurryCostModifier": 20,
 		
 		"attackSound": "metalhit"
+
+	},
+
+	{
+
+		"name": "Lancer",
+
+		"unitType": "Calvary",
+
+		"movement": 4,
+
+		"strength": 65,
+
+		"cost": 325,
+
+		"requiredTech": "Metallurgy",
+
+		"requiredResource": "Horses",
+
+		"attackSound": "horse",
 
 	},
 
