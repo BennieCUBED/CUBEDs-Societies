@@ -641,7 +641,17 @@
 
 	},
 
-			 
+	{
+
+		"name": "Metallurgy😭",
+
+		"row": 8,
+
+		"prerequisites": ["Mass Production"],
+
+		"quote": "'' -.",
+
+	},
 
 		 ]
 
