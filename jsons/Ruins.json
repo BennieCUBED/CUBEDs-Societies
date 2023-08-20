@@ -28,4 +28,9 @@
 
        },
 
-]
+       {
+
+              "name": "New Unit",
+              "notification": "Some Mercenaries have been found fortifying and abandoned building, willing to join us!",
+              "uniques": [""],
+              "color": "#8782c4",
