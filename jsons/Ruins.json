@@ -32,7 +32,7 @@
 
               "name": "New Unit",
               "notification": "Some Mercenaries have been found fortifying and abandoned building, willing to join us!",
-              "uniques": ["Free [EraUnit] found in the ruins"],
+              "uniques": ["Free [Swordman] found in the ruins"],
               "color": "#8782c4",
 
        },
