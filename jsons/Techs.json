@@ -595,7 +595,7 @@
 
 		"row": 10,
 
-		"prerequisites": ["Mass Production","Education"],
+		"prerequisites": ["Mass Production"],
 	 
                 "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
 
@@ -673,7 +673,16 @@
 
 	 {
 
+	         "name": "Coal Power",
+
+		 "row": 7,
+
+		 "prerequisites": ["Chemistry","Economics"],
+
+		 "quote": "'' -.",
+
 	 },
+		 
 
 		 ]
 
