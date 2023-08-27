@@ -635,6 +635,22 @@
 
 	},
 
+        {
+
+		"name": "Factory",
+
+		"production": 3,
+
+		"cost": 265,
+
+		"requiredResource": "Coal",
+
+		"requiredBuilding": "Workshop",
+
+		"requiredTech": "Coal Power",
+
+	},
+
 ]
 
 		
