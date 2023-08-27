@@ -649,7 +649,7 @@
 
 		"prerequisites": ["Mass Production"],
 
-		"quote": "'' -.",
+		"quote": "'METAL' -???.",
 
 	},
 
@@ -657,9 +657,29 @@
 
 	 },
 
-]
+         {
 
-	 
+		 "columnNumber": 8,
+
+		 "era": "Industrial Era",
+	
+          	 "techCost": 400,
+
+		 "buildingCost": 300,
+
+		 "wonderCost": 800,
+
+		 "techs": [
+
+	 {
+
+	 },
+
+		 ]
+
+	 },
+
+]
 
 
 
