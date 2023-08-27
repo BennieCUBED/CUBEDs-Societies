@@ -70,4 +70,21 @@
         "iconRGB": [104, 58, 183]
     },
 
-]
+         {
+        "name": "Industrial Era",
+        "researchAgreementCost": 280,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 4,
+        "startingMilitaryUnit": "Musketman",
+        "startingGold": 100,
+        "startingCulture": 400,
+        "settlerPopulation": 3,
+        "settlerBuildings": ["Shrine","Monument","Basic Housing I","Wooden Harbor","Crafting Area","Entertainment Area","Lighthouse","Trading Market","Workshop"],
+        "startingObsoleteWonders": ["Stepping Stones to God","The Great Museum","Walls of the North"],
+        "baseUnitBuyCost": 300,
+        "embarkDefense": 10,
+        "startPercent": 50,
+        "citySound": "shot",
+        "iconRGB": [150, 2, 234]
+    },
