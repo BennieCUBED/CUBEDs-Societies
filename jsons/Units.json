@@ -561,6 +561,8 @@
 		"name": "Crossbowman",
 		
 		"unitType": "Ranged",
+
+		"range": 1,
 		
 		"movement": 2,
 		
@@ -649,6 +651,10 @@
 		
 		"requiredTech": "Gunpowder",
 
+		"obsoleteTech": "Rifling",
+
+		"upgradesTo": "Rifleman",
+
 		"requiredResource": "Niter",
 
 		"uniques": ["[+50]% Strength <vs [Melee] units>"],
@@ -703,6 +709,8 @@
 
 		"unitType": "Siege",
 
+		"range": 1,
+
 		"movement": 2,
 
 		"strength": 40,
@@ -744,6 +752,8 @@
 		"name": "Frigate",
 
 		"unitType": "Ranged Water",
+
+		"range": 1,
 
 		"movement": 4,
 
@@ -831,4 +841,23 @@
 		"attackSound": "shot"
 	},
 
+	{
+		"name": "Gatling Gun",
+		
+		"unitType": "Ranged Gunpowder",
+		
+		"range": 1,
+		
+		"movement": 2,
+		
+		"strength": 50,
+		
+		"rangedStrength": 50,
+		
+		"cost": 335,
+		
+		"requiredTech": "Coal Power",
+
+		"attackSound": "machinegun"
+	},
 ]
