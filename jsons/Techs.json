@@ -323,7 +323,7 @@
 
 				"name": "Early Architecture",
 
-				"row": 10,
+				"row": 9,
 
 				"prerequisites": ["Construction","Bronze Working"],
 
@@ -682,7 +682,16 @@
 		 "quote": "'The key words of violent economics are urbanization, industrialization, centralization, efficiency, quantity, speed.' -E.F. Schumacher.",
 
 	 },
+
+	 {
 		 
+		 "name": "Rifling",
+
+		 "row":  6
+
+		 "quote": "'' -.",
+
+	 },
 
 		 ]
 
