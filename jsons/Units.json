@@ -803,7 +803,7 @@
 
 		"strength": 65,
 
-		"cost": 325,
+		"cost": 335,
 
 		"requiredTech": "Metallurgy😭",
 
@@ -811,6 +811,24 @@
 
 		"attackSound": "horse",
 
+	},
+
+	{
+		"name": "Rifleman",
+		
+		"unitType": "Gunpowder",
+		
+		"movement": 2,
+		
+		"strength": 60,
+		
+		"cost": 325,
+		
+		"requiredTech": "Rifling",
+
+		"uniques": ["[+50]% Strength <vs [Melee] units>"],
+		
+		"attackSound": "shot"
 	},
 
 ]
