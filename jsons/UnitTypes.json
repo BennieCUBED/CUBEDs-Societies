@@ -125,6 +125,15 @@
 
           },
 
+          {
+                    "name": "Ranged Gunpowder",
+
+                    "movementType": "Land",
+
+                    "uniques": ["[+50]% Strength <vs [Melee] units>"],
+
+          },
+
 ]
                     
 
