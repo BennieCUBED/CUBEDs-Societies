@@ -399,6 +399,28 @@
 
         {
 
+	        "name": "Toletil",
+
+		"adjective": ["Toletil","Toleti"],
+
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Your fall will be quick!",
+
+		"attacked": "War? Our people will enjoy this..!",
+
+		"defeated": "Even if we have fallen... our city-state will thrive.",
+
+		"outerColor": [0, 0, 0],
+
+		"innerColor": [252, 186, 3],
+        
+                "cities": ["Toletil"],
+
+	},
+
+        {
+
 		"name": "Barbarians",
 		
 		"outerColor": [0,0,0],
