@@ -219,7 +219,7 @@
 
 		"name": "Alihn Ahn",
   
-                "adjective": ["Alihnic"]
+                "adjective": ["Ali"]
 		
 		"leaderName": "Nhalo",
 		
@@ -267,7 +267,7 @@
 
 		"name": "Fortoulen",
 
-		"adjective": ["Fortoulen","Fortoulean"],
+		"adjective": ["Fortoulen","Fortoulenese"],
 		
 	        "leaderName": "Loneltili the Wandering",
 
@@ -309,6 +309,30 @@
 		"cities": ["Totstilo","Loilou","Amteki","Nouletso","Fortoulen","Tekto","Lozali","Setek","Loulic","Varume Toltel","Teatolt","Quelaoti","Antoli","Loitozalitok","Toltol","Toilok"],
 
 	},
+
+	{       "name": "Grendale",
+
+		"adjective": ["Grendalean"],
+
+		"leaderName": "Edmerl",
+
+		"startBias": ["Grassland","Plains"],
+
+		"preferredVictoryType": "Science",
+
+
+		"startIntroPart1": "Vast lush land... This is a sign that Grenland is here. Grendale, starting off as a colony that came from south Costi rose to the top for it's fertile home. Grendale also allowed independance for VividVale, which eventually made Grendale unpopular and 'Uncultured', but who can save Grendale from this? And this is where Edmerl came in to power",
+
+		"startIntroPart2": "Will you bring Grendale back to the spotlight? Can you build a civilization that can stand the test of time?",
+
+
+		"declaringWar": "Your intent for violence has forced us to go to war!",
+
+		"attacked": "Grendale will not surrender to you, no matter how hard you try!",
+
+		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten",
+
+		"introduction": "Hello and welcome to Grenland! And I am Edmerl, President of the cultured Grenland",
 	
 	{
                 
