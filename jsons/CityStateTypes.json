@@ -22,4 +22,15 @@
      
     },
 
+    { 
+       "name": "Militarisctic",
+
+       "friendBonusUniques": ["[+25]% Production when constructing [All] units [in capital]"],
+
+       "allyBonusUniques": ["Provides military units every ≈[15] turns"],
+
+       "color": [252, 3, 3],
+
+    },
+
 ]
