@@ -301,7 +301,6 @@
 
 		"innerColor": [122, 81, 43],
 
-
 		"uniqueName": "Natural Society",
 
 		"uniques": ["Gain [20] [Food] <upon gaining a [Recon] unit>","Cannot build [Lumber mill]"],
@@ -318,7 +317,7 @@
 
 		"startBias": ["Grassland","Plains"],
 
-		"preferredVictoryType": "Science",
+		"preferredVictoryType": "Culture",
 
 
 		"startIntroPart1": "Vast lush land... This is a sign that Grenland is here. Grendale, starting off as a colony that came from south Costi rose to the top for it's fertile home. Grendale also allowed independance for VividVale, which eventually made Grendale unpopular and 'Uncultured', but who can save Grendale from this? And this is where Edmerl came in to power",
@@ -333,7 +332,25 @@
 		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten",
 
 		"introduction": "Hello and welcome to Grenland! And I am Edmerl, President of the cultured Grenland",
-	
+
+
+		"neutralHello": "Welcome!",
+
+		"hateHello": "What now?",
+
+
+		"tradeRequest": "As president Edmerl, I Suggest a humble delegation",
+
+		"outerColor": [8, 13, 138],
+
+		"innerColor": [255, 255, 255],
+
+		"uniqueName": "Cultured",
+
+		"cities": ["Earldale","Toulson Creek","Panetole","Holesberg","Etterdale","Florvale","Winsi","Rockson","Havee","Casetoll","Paners Town","Reel","Wenton","Burneray","Damberg","Uye"],
+
+	},
+		
 	{
                 
 		"name": "A'Arya",
