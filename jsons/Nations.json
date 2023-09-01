@@ -347,6 +347,8 @@
 
 		"uniqueName": "Cultured",
 
+		"uniques": ["[+30]% Yield from every [Farm]","[+2 Culture] <before the [Discovery era]>"],
+
 		"cities": ["Earldale","Toulson Creek","Panetole","Holesberg","Etterdale","Florvale","Winsi","Rockson","Havee","Casetoll","Paners Town","Reel","Wenton","Burneray","Damberg","Uye"],
 
 	},
