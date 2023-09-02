@@ -689,6 +689,20 @@
 
 		 "row":  6
 
+		 "prerequisites": ["Metallurgy","Chemistry"],
+
+		 "quote": "'' -.",
+
+	 },
+
+	 {
+
+		 "name": "Working Conditions",
+
+		 "row": 3,
+
+		 "prerequisites": ["Economics"],
+
 		 "quote": "'' -.",
 
 	 },
