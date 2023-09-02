@@ -184,6 +184,7 @@
 
         "name": "Martial Law",
         "uniques": ["[+10]% Yield from every [All]"],
+        "requires": ["Discipline"],
         "row": 2,
         "column": 1,
 
@@ -193,6 +194,7 @@
 
         "name": "Geographic Specialisations",
         "uniques": ["[+15]% Strength <for [Melee] units> <in [Open terrain] tiles>","[+15]% Strength <for [Ranged] units> <in [Rough terrain] tiles>"],
+        "requires": ["Strategy"],
         "row": 2,
         "column": 3,
 
@@ -202,6 +204,7 @@
 
         "name": "Marches",
         "uniques": ["[+0.5 Culture] <for [All] units>"],
+        "requires": ["Combat Tradition"],
         "row": 2,
         "column": 6,
 
