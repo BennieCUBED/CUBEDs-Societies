@@ -183,7 +183,7 @@
 {
 
         "name": "Martial Law",
-        "uniques": [""],
+        "uniques": ["[+10]% Yield from every [All] //building"],
         "row": 2,
         "column": 1,
 
