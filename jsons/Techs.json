@@ -706,6 +706,12 @@
 		 "quote": "'Hard work beats talent when talent doesn't work hard.' -Tim Notke.",
 
 	 },
+	 {
+		 "name": "Scientific Theory",
+		 "row": 5,
+		 "prerequisites": ["Chemistry"],
+		 "quote": "'' -.",
+	 },
 
 		 ]
 
