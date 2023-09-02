@@ -331,7 +331,7 @@
 
 		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten",
 
-		"introduction": "Hello and welcome to Grenland! And I am Edmerl, President of the cultured Grenland",
+		"introduction": "Hello and welcome to Grendale! And I am Edmerl, President of this cultured nation",
 
 
 		"neutralHello": "Welcome!",
@@ -413,7 +413,7 @@
 
 		"outerColor": [0, 0, 0],
 
-		"innerColor": [252, 186, 3],
+		"innerColor": [173, 9, 9],
         
                 "cities": ["Toletil"],
 
