@@ -666,6 +666,14 @@
 		"uniques": ["[+1 Gold] from each Trade Route"],
 
 	},
+	{
+		"name": "Public School",
+		"science": 3,
+		"happiness": 0.5,
+		"cost": 275,
+		"requiredBuilding": "University",
+		"requiredTech": "Scientific Theory",
+	},
 
 ]
 
