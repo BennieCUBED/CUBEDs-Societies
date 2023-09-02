@@ -172,6 +172,15 @@
 }
 
 {
+
+        "name": "Combat Tradition",
+        "uniques": [""],
+        "row": 1,
+        "column": 6,
+
+},
+
+{
         
                 "name": "Warfare Complete",
                 "uniques": [
