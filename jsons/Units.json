@@ -860,4 +860,16 @@
 
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Slinger",
+		"unitType": "Ranged",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 7,
+		"cost": 40,
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow",
+	},
 ]
