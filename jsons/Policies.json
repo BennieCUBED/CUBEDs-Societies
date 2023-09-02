@@ -174,7 +174,7 @@
 {
 
         "name": "Combat Tradition",
-        "uniques": [""],
+        "uniques": ["Gain [35] [Culture] <upon declaring war with a major Civilization>"],
         "row": 1,
         "column": 6,
 
