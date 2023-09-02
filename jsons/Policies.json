@@ -183,7 +183,7 @@
 {
 
         "name": "Martial Law",
-        "uniques": ["[+10]% Yield from every [All] //building"],
+        "uniques": ["[+10]% Yield from every [All]"],
         "row": 2,
         "column": 1,
 
@@ -192,7 +192,7 @@
 {
 
         "name": "Geographic Specialisations",
-        "uniques": [""],
+        "uniques": ["[+15]% Strength <for [Melee] units> <in [Open terrain] tiles>","[+15]% Strength <for [Ranged] units> <in [Rough terrain] tiles>"],
         "row": 2,
         "column": 3,
 
