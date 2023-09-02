@@ -880,7 +880,7 @@
 		"strength": 25,
 		"rangedStrength": 31,
 		"cost": 80,
-		"requiredTech": "The Wheel",
+		"requiredTech": "Horse Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
