@@ -651,6 +651,20 @@
 
 	},
 
+	{
+
+		"name": "Stock Exchange",
+
+		"gold": 3,
+
+		"cost": 290,
+
+		"requiredBuilding": "Bank",
+
+		"requiredTech": "Working Conditions",
+
+	},
+
 ]
 
 		
