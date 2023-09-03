@@ -674,6 +674,13 @@
 		"requiredBuilding": "University",
 		"requiredTech": "Scientific Theory",
 	},
+	{
+		"name": "Military Academy",
+		"cost": 260,
+		"requiredBuilding": "Armory",
+		"requiredTech": "Military Science",
+		"uniques": ["New [Military] units start with [25] Experience [in this city]"],
+	},
 
 ]
 
