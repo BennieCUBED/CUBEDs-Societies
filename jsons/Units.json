@@ -817,6 +817,10 @@
 
 		"requiredTech": "Metallurgy😭",
 
+		"upgradesTo": "Calvary",
+
+		"obsoleteTech": "Military Science",
+
 		"requiredResource": "Horses",
 
 		"attackSound": "horse",
@@ -895,6 +899,7 @@
 		"cost": 370,
 		"hurryCostModifier": 20,
 		"requiredTech": "Military Science",
+		"requiredResource": "Horses",
 		"attackSound": "horse",
 	},
 ]
