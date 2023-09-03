@@ -675,7 +675,7 @@
 
 	         "name": "Coal Power",
 
-		 "row": 7,
+		 "row": 6,
 
 		 "prerequisites": ["Chemistry","Economics"],
 
@@ -687,7 +687,7 @@
 		 
 		 "name": "Rifling",
 
-		 "row":  6
+		 "row":  7,
 
 		 "prerequisites": ["Metallurgy😭","Chemistry"],
 
@@ -717,6 +717,11 @@
 		 "row": 2,
 		 "prerequisites": ["Chemistry","Economics"],
 		 "uniques": ["[+2 Food] from every [Farm]"],
+	 },
+	 {
+		 "name": "Military Science",
+		 "row": 8,
+		 "prerequisites": ["Metallurgy😭"],
 	 },
 
 		 ]
