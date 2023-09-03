@@ -253,5 +253,12 @@
 
                  "uniques": ["Gives a defensive bonus of 30%"],
 	},
+	{
+		"name": "Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
+		"turnsToBuild": 6,
+		"requiredTech": "Basic Sheltering",
+		"uniques": ["Gives a defensive bonus of 25%"],
+	},
 
 ]
