@@ -242,5 +242,16 @@
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile units from time to time"}]
 
 	},
+	{
+                 "name": "Trench Line", 
+
+                 "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"], 
+
+                 "turnsToBuild": 4, 
+
+                 "techRequired": "Military Science", 
+
+                 "uniques": ["Gives a defensive bonus of 30%"],
+	},
 
 ]
