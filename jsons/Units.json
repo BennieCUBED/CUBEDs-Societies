@@ -887,4 +887,14 @@
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow",
 	},
+	{
+		"name": "Calvary",
+		"unitType": "Calvary",
+		"movement": 4,
+		"strength": 75,
+		"cost": 370,
+		"hurryCostModifier": 20,
+		"requiredTech": "Military Science",
+		"attackSound": "horse",
+	},
 ]
