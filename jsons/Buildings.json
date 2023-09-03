@@ -369,7 +369,7 @@
 		
 		"requiredTech": "Theology",
 		
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Hidden when religion is disabled","Unbuildable"],
 		
 	},
 
@@ -631,7 +631,7 @@
 
 		"requiredTech": "Theology",
 
-		"uniques": ["Hidden when religion is disabled"],
+		"uniques": ["Hidden when religion is disabled","Unbuildable"],
 
 	},
 
@@ -669,7 +669,7 @@
 	{
 		"name": "Public School",
 		"science": 3,
-		"happiness": 0.5,
+		"happiness": 1,
 		"cost": 275,
 		"requiredBuilding": "University",
 		"requiredTech": "Scientific Theory",
