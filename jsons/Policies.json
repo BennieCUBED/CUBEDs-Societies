@@ -203,7 +203,7 @@
 {
 
         "name": "Marches",
-        "uniques": ["[+0.5 Culture] <for [All] units>"],
+        "uniques": ["[+1 Culture] <for [All] units>"],
         "requires": ["Combat Tradition"],
         "row": 2,
         "column": 6,
