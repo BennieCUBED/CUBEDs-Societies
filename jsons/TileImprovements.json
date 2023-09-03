@@ -251,14 +251,27 @@
 
                  "techRequired": "Military Science", 
 
-                 "uniques": ["Gives a defensive bonus of 30%"],
+                 "uniques": ["Gives a defensive bonus of 30%","Can be built outside your borders"],
 	},
 	{
 		"name": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 6,
 		"requiredTech": "Basic Sheltering",
-		"uniques": ["Gives a defensive bonus of 25%"],
+		"uniques": ["Gives a defensive bonus of 25%","Can be built outside your borders"],
+	},
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 3,
+		"techRequired": "Trading",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
 	},
 
 ]
