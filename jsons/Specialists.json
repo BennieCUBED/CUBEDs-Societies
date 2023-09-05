@@ -5,5 +5,11 @@
      		"faith": 2,
 	    	"color": [255,255,255]
 	  },
+    {
+        "name": "Merchant",
+        "gold": 3,
+        "greatPersonPoints": {"Great Merchant": 3},
+        "color": [255,215,0]
+    },
 
   ]
