@@ -13,6 +13,8 @@
 		                "food": 1,
 
 		                "improvement": "Fishing Boats",
+
+	                        "improvementStats": {"food": 1},
            
                 		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>","Generated on every [15] tiles <in [Featureless] [Coast] tiles>"],
 
@@ -34,6 +36,8 @@
 
 		                "improvement": "Pasture",
 
+		                "improvementStats": {"food": 1},
+
 		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [5] tiles <in [Featureless] [Hill] tiles>","Generated on every [18] tiles <in [Featureless] [Plains] tiles>"],
 
 	},
@@ -51,6 +55,10 @@
 		"food": 1,
 
 		"production": 1,
+
+		"improvement": "Pasture",
+
+		"improvementStats": {"food": 1},
 		
 	        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [10] tiles <in [Featureless] [Hill] tiles>","Generated on every [12] tiles <in [Featureless] [Plains] tiles>"], 
 
@@ -87,6 +95,8 @@
 		"food": 2,
 		
 		"improvement": "Farm",
+
+		"improvementStats": {"food": 2},
 		
 		"uniques": ["Generated on every [20] tiles <in [Grassland] tiles>",
 					"Generated on every [8] tiles <in [Featureless] [Tundra] tiles> <in [Hill] Regions>",
@@ -104,6 +114,8 @@
 		"gold": 2,
 		
 		"improvement": "Plantation",
+
+		"improvementStats": {"happiness": 2,"food": 1,},
 		
 		"uniques": ["Generated with weight [20] <in [Flood plains] tiles>",
 					"Generated with weight [10] <in [Grassland] Regions>",
@@ -143,6 +155,8 @@
 		"food": 1,
 		
 		"improvement": "Plantation",
+
+		"improvementStats": {"food": 1},
 		
 	        "uniques": ["Generated on every [10] tiles <in [Featureless] [Grassland] tiles>","Generated on every [5] tiles <in [Featureless] [Hill] tiles>"],
 							
@@ -290,6 +304,8 @@
 		"happiness": 1
 		
 		"improvement": "Plantation",
+
+		"improvementStats": {"culture": 1},
 		
 		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
 					"Generated with weight [5] <in [Jungle] Regions>",
@@ -311,6 +327,8 @@
 		"gold": 1,
 
 		"improvement": "Plantation",
+
+		"improvementStats": {"happiness": 1,"food": 1},
 
 		"uniques": ["Generated with weight [20] <in [Grassland] Regions>",
 					"Generated with weight [15] <in [Plains] Regions>",
@@ -371,6 +389,8 @@
 
 		"improvement": "Mine",
 
+		"improvementStats": {"production": 2},
+
 		"uniques": ["Generated with weight [20] <in [Featureless] [Plains] tiles>","Generated with weight [30] <in [Featureless] [Grassland] tiles>","Generated with weight [30] <in [Featureless] [Desert] tiles>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
 
 	},
@@ -386,6 +406,8 @@
 		"gold": 2,
 		
 		"improvement": "Plantation",
+
+		"improvementStats": {"happiness": 2},
 		
 		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
 					"Generated with weight [15] <in [Hybrid] Regions>"],
@@ -406,8 +428,20 @@
 
 		"improvement": "Mine",
 
+		"improvementStats": {"gold": 1,"production": 2,},
+
 		"uniques": ["Generated with weight [15] <in [Featureless] [Plains] tiles>","Generated with weight [25] <in [Featureless] [Grassland] tiles>","Generated with weight [40] <in [Featureless] [Desert] tiles>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
 
+	},
+	{
+		"name": "Archeological Spot",
+		"resourceType": "Bonus",
+		"revealedBy": "Archaeology",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill","Snow","Tundra"],
+		"culture": 1,
+		"improvement": "Archeological Site",
+	        "improvementStats": {"culture": 2},
+		"uniques": ["Generated with weight [8] <in [Featureless] [Plains] tiles>","Generated with weight [10] <in [Featureless] [Grassland] tiles>","Generated with weight [5] <in [Hill] tiles>"],
 	},
 
 ]
