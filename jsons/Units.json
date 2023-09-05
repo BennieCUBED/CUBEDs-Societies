@@ -13,7 +13,7 @@
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
 			"Requires at least [3] population"],
 		 
-		"hurryCostModifier": 20
+		"hurryCostModifier": 40
 
 	 },
 
@@ -905,10 +905,18 @@
     {
         "name": "Great Merchant",
         "unitType": "Civilian",
-        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [20] Influence",
         "Can instantly construct a [Customs house] improvement <by consuming this unit>",
         "Is part of Great Person group [Merchant]",
             "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
         "movement": 4
     },
+	{
+		"name": "Archeologist",
+		"unitType": "Civilian",
+		"movement": 4,
+		"cost": 250,
+		"requiredTech": "Archaeology",
+		"uniques": ["Can instantly construct a [Archeological Site] improvement <by consuming this unit>","Unbuildable"],
+	},
 ]
