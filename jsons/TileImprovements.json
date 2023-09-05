@@ -31,11 +31,11 @@
 		"techRequired": "Agriculture",
 		
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			"[+0.5 Food] for each adjacent [Farm] <after discovering [Crop Variety]>",
-			"[+0.5 Food] for each adjacent [Pasture] <after discovering [Crop Variety]>",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Crop Variety]>",
-			"[+1 Food] from [Fresh water] tiles <after discovering [Crop Variety]>",
-			"[+1 Food] from [non-fresh water] tiles <after discovering [Crop Variety]>",
+			"[+1 Food] for each adjacent [Farm] <after discovering [Crop Variety]>",
+			"[+1 Food] for each adjacent [Pasture] <after discovering [Fertiliser]>",
+			"[+2 Food] from [Fresh water] tiles <after discovering [Crop Variety]>",
+			"[+2 Food] from [Fresh water] tiles <after discovering [Crop Variety]>",
+			"[+2 Food] from [non-fresh water] tiles <after discovering [Fertiliser]>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		
 		"shortcutKey": "F"
@@ -278,6 +278,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"gold": 6,
 		"turnsToBeBuilt": 12,
+		"uniques": ["Great Improvement","Pillaging this improvement yields approximately [+75 Gold]","Removes removable features when built"],
 	},		
 
 ]
