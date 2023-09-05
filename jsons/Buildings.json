@@ -206,6 +206,8 @@
 	
 		"percentStatBonus": {"gold": 30},
 
+	        "greatPersonPoints": {"gold": 1},
+
 	        "requiredBuilding": "Trading Market",
 	
 		"requiredTech": "Currency",
@@ -492,6 +494,8 @@
 		"Cost": 320,
 		
 		"percentStatBonus": {"gold": 25},
+
+	        "greatPersonPoints": {"gold": 1},
 		
 		"requiredBuilding": "Market",
 		
@@ -658,6 +662,8 @@
 		"gold": 3,
 
 		"cost": 290,
+
+	        "greatPersonPoints": {"gold": 2},
 
 		"requiredBuilding": "Bank",
 
