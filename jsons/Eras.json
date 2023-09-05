@@ -85,7 +85,7 @@
         "baseUnitBuyCost": 300,
         "embarkDefense": 10,
         "startPercent": 50,
-        "citySound": "shot",
+        "citySound": "cityIndustrial",
         "iconRGB": [150, 2, 234]
     },
 ]
