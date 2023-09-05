@@ -280,6 +280,13 @@
 		"turnsToBeBuilt": 12,
 		"techRequired": "Currency",
 		"uniques": ["Great Improvement","Pillaging this improvement yields approximately [+75 Gold]","Removes removable features when built"],
-	},		
+	},
+	{
+		"name": "Archeological Site",
+		"terriansCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+		"culture": 1,
+		"techRequired": "Archaeology",
+		"uniques": ["Can be built outside your borders","Unbuildable","Pillaging this improvement yields approximately [+15 Gold]]"],
+	},
 
 ]
