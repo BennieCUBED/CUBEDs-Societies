@@ -206,7 +206,7 @@
 	
 		"percentStatBonus": {"gold": 30},
 
-	        "greatPersonPoints": {"gold": 1},
+	        "greatPersonPoints": {"Great Merchant": 1},
 
 	        "requiredBuilding": "Trading Market",
 	
@@ -495,7 +495,7 @@
 		
 		"percentStatBonus": {"gold": 25},
 
-	        "greatPersonPoints": {"gold": 1},
+	        "greatPersonPoints": {"Great Merchant": 1},
 		
 		"requiredBuilding": "Market",
 		
@@ -663,7 +663,7 @@
 
 		"cost": 290,
 
-	        "greatPersonPoints": {"gold": 2},
+	        "greatPersonPoints": {"Great Merchant": 2},
 
 		"requiredBuilding": "Bank",
 
