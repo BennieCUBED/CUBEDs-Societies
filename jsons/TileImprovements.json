@@ -278,6 +278,7 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"gold": 6,
 		"turnsToBeBuilt": 12,
+		"techRequired": "Currency",
 		"uniques": ["Great Improvement","Pillaging this improvement yields approximately [+75 Gold]","Removes removable features when built"],
 	},		
 
