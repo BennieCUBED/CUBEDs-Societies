@@ -265,7 +265,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
 		"techRequired": "Trading",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"uniques": ["Can be built outside your borders", "Costs [100] [Gold] per turn"],
 		"shortcutKey": "R",
         "civilopediaText": [
             {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
@@ -273,5 +273,11 @@
             {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
         ]
 	},
+	{
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
+		"gold": 6,
+		"turnsToBeBuilt": 12,
+	},		
 
 ]
