@@ -892,7 +892,7 @@
 		"attackSound": "arrow",
 	},
 	{
-		"name": "Calvary",
+		"name": "Cavalry",
 		"unitType": "Calvary",
 		"movement": 4,
 		"strength": 75,
@@ -902,4 +902,13 @@
 		"requiredResource": "Horses",
 		"attackSound": "horse",
 	},
+    {
+        "name": "Great Merchant",
+        "unitType": "Civilian",
+        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+        "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+        "Is part of Great Person group [Merchant]",
+            "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+        "movement": 4
+    },
 ]
