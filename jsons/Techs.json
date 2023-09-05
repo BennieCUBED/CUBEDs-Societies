@@ -724,6 +724,11 @@
 		 "prerequisites": ["Metallurgy😭"],
 		 "quote": "'However beautiful the strategy, you should occasionally look at the results.' -Winston Churchill.",
 	 },
+	 {
+		 "name": "Archaeology",
+		 "row": 2,
+		 "prerequisites": ["Square Rigging"],
+	 },
 
 		 ]
 
