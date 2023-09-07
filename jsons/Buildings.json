@@ -700,7 +700,7 @@
 		"cost": 280,
 		"requiredBuilding": "Sewer",
 		"requiredTech": "Sanitation",
-		"uniques": [""],
+		"uniques": ["[+3 Food] in cities on [Coastal] tiles"],
 	},
 		
 
