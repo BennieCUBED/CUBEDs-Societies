@@ -694,6 +694,14 @@
 		"requiredTech": "Sanitation",
 		"uniques": ["[+15]% growth [in all cities]"],
 	},
+	{
+		"name": "Water Filtration System",
+		"food": 2,
+		"cost": 280,
+		"requiredBuilding": "Sewer",
+		"requiredTech": "Sanitation",
+		"uniques": [""],
+	},
 		
 
 ]
