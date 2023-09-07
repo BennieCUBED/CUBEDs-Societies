@@ -288,5 +288,18 @@
 		"techRequired": "Archaeology",
 		"uniques": ["Can be built outside your borders","Unbuildable","Pillaging this improvement yields approximately [+15 Gold]]"],
 	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Locomotives",
+		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+	]
+	},
 
 ]
