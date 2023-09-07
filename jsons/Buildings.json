@@ -692,7 +692,7 @@
 		"food": 2,
 		"cost": 300,
 		"requiredTech": "Sanitation",
-		"uniques": [""],
+		"uniques": ["[+15]% growth [in all cities]"],
 	},
 		
 
