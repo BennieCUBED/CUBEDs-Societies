@@ -919,4 +919,16 @@
 		"requiredTech": "Archaeology",
 		"uniques": ["Can instantly construct a [Archeological Site] improvement <by consuming this unit>","Unbuildable"],
 	},
+	{
+	         "name": "Shieldsman",
+		 "unitType": "Melee",
+		 "uniqueTo": "Iroztia",
+		 "replaces": "Swordsman",
+		 "movement": 2,
+		 "strength": 25,
+		 "requiredTech": "Bronze Working",
+		 "obsoleteTech": "Metal Casting",
+		 "upgradesTo": "Longswordsman",
+		 "cost": 120,
+	},
 ]
