@@ -352,6 +352,31 @@
 		"cities": ["Earldale","Toulson Creek","Panetole","Holesberg","Etterdale","Florvale","Winsi","Rockson","Havee","Casetoll","Paners Town","Reel","Wenton","Burneray","Damberg","Uye"],
 
 	},
+	{
+		"name": "Iroztia",
+		"adjective": ["Irozti"],
+		"leaderName": "Ozten the Great",
+		"startBias": ["Grassland","Avoid [Desert]"],
+		"preferredVictoryType": "Science",
+
+		"startIntroPart1": "Iroztia, located in South Costi is a large developed monarchy known for its peaceful approach to conflict, as long as Iroztia has many peaceful neighbours, Iroztia will rise for power.",
+		"startIntroPart2": "Will you develop a great Society under your great reign? Will you create a civilisation that can stand the test of time?",
+
+		"declaringWar": "We are fed up will every word you make! I won't care about having to destroy your society...",
+		"attacked": "Hm!? Your soldiers will fall before they ever stand upon our land!",
+		"defeated": "My monarchy... My... Everything...",
+		"introduction": "Hello! Who must you be? I am the great Ozten. Ozten the Great!",
+
+		"neutralHello": "Hello!",
+		"hateHello": "WHAT!",
+
+		"tradeRequest": "Ozten and my people are willing to share, how about ye?",
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Power In Peace",
+		"cities": ["Hollz","Zinti","Szomerce","Kroupy","Derz","Zeep","Olkerztomm","Hoizeekez","Alszo Town","Arsoe","Sollzeek","Terrnez"],
+	},
+		
 		
 	{
                 
