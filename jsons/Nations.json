@@ -371,8 +371,8 @@
 		"hateHello": "WHAT!",
 
 		"tradeRequest": "Ozten and my people are willing to share, how about ye?",
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [107, 107, 107],
+		"innerColor": [232, 221, 12],
 		"uniqueName": "Power In Peace",
 		"cities": ["Hollz","Zinti","Szomerce","Kroupy","Derz","Zeep","Olkerztomm","Hoizeekez","Alszo Town","Arsoe","Sollzeek","Terrnez"],
 	},
