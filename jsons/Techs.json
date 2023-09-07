@@ -734,8 +734,23 @@
 
 	 },
 
-]
+{
+		 "columnNumber": 9,
+		 "era": "Industrial Era",
+          	 "techCost": 480,
+		 "buildingCost": 375,
+		 "wonderCost": 900,
+		 "techs": [	
+{
+	"name": "Locomotives",
+	"row": 3,
+	"prerequisites": ["Working Conditions","Coal Power"],
+	"quote": "'' -.",
+},
+		 ]
+},
 
+]
 
 
 	 
