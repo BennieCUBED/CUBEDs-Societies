@@ -747,6 +747,12 @@
 	"prerequisites": ["Working Conditions","Coal Power"],
 	"quote": "'Trains are wonderful.... To travel by train is to see nature and human beings, towns and churches and rivers, in fact, to see life.' -Agatha Christie.",
 },
+{
+	"name": "Sanitation",
+	"row": 5,
+	"prerequisites": ["Fertiliser","Working Conditions"],
+	"quote": "'No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.' -Sylvia Burwell.",
+},
 		 ]
 },
 
