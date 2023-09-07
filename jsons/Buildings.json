@@ -687,6 +687,14 @@
 		"requiredTech": "Military Science",
 		"uniques": ["New [Military] units start with [25] Experience [in this city]"],
 	},
+	{
+		"name": "Sewer",
+		"food": 2,
+		"cost": 300,
+		"requiredTech": "Sanitation",
+		"uniques": [""],
+	},
+		
 
 ]
 
