@@ -374,6 +374,7 @@
 		"outerColor": [107, 107, 107],
 		"innerColor": [232, 221, 12],
 		"uniqueName": "Power In Peace",
+		"uniques": ["[+2 Gold] <when not at war>","[+2 Science] <when not at war>"],
 		"cities": ["Hollz","Zinti","Szomerce","Kroupy","Derz","Zeep","Olkerztomm","Hoizeekez","Alszo Town","Arsoe","Sollzeek","Terrnez"],
 	},
 		
