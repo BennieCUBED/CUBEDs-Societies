@@ -239,7 +239,13 @@
                 "row": 1,
                 "column": 1,
             },
-{   
+{
+                "name": "Medieval Faires",
+                "uniques": ["[+1 Gold, +1 Production] from [Farm] tiles"],
+                "row": 1,
+                "column": 2,
+},
+    {
                 "name": "Aesthetics Complete",
                 "uniques": [
                 ]
