@@ -452,7 +452,7 @@
 		"attacked": "We may not be powerful, but atleast we have the spirit..!",
 		"defeated": "Your stronger than i thought...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [],
+		"innerColor": [10, 245, 72],
 		"cities": ["Zolsk"],
 	},
 		
