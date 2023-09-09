@@ -235,9 +235,10 @@
         "policies": [
             {
                 "name": "Ancestrial Buildings", // Change the name probbably
-                "uniques": [""],
+                "uniques": ["[+2 Culture] from all [Culture] buildings"],
                 "row": 1,
                 "column": 1,
+            },
 {   
                 "name": "Aesthetics Complete",
                 "uniques": [
