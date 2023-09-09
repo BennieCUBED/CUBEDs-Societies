@@ -32,5 +32,11 @@
        "color": [252, 3, 3],
 
     },
+    {
+       "name": "Productive",
+       "friendBonusUniques": ["[+2 Production] [in capital]"],
+       "allyBonusUniques": ["[+3 Production] [in capital]", "[+1 Production] [in all cities]"],
+       "color": [10, 245, 72],
+    },
 
 ]
