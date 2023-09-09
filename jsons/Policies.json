@@ -241,7 +241,7 @@
             },
 {
                 "name": "Medieval Faires",
-                "uniques": ["[+1 Gold, +1 Production] from [Farm] tiles"],
+                "uniques": ["[+1 Gold, +1 Production] from [Trading post] tiles"],
                 "row": 1,
                 "column": 2,
 },
