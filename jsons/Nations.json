@@ -452,9 +452,21 @@
 		"attacked": "We may not be powerful, but atleast we have the spirit..!",
 		"defeated": "Your stronger than i thought...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [10, 245, 72],
+		"innerColor": [214, 114, 6],
 		"cities": ["Zolsk"],
 	},
+	{
+		"name": "Albenpal",
+		"adjective": ["Albenpalian"],
+		"cityStateType": "Productive", // Chnage later please for food 'n stuff, BennieCUBED.
+		"declaringWar": "Your people are ruining our way of life!",
+		"attacked": "No! You cannot do this, what have we ever done to you?",
+		"defeated": "Maybe later, we will have peace throught citisenship..?",
+		"outerColor": [0, 0, 0"],
+		"innerColor": [214, 114, 6],
+		"cities": ["Albenpal"],
+	},
+		
 		
 
         {
