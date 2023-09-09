@@ -446,7 +446,7 @@
 	{
 		"name": "Salt",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Coastal"],
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Forest"],
 		"food": 2,
 		"improvment": "Quarry",
 		"improvementStats": {"food": 1, "happiness": 1},
