@@ -447,7 +447,7 @@
 	{
 		"name": "Zolsk",
 		"adjective": ["Zolksi","Zolsk"],
-		"cityStateType": "",
+		"cityStateType": "Productive",
 		"declaringWar": "For our might or yours, war has to be done...",
 		"attacked": "We may not be powerful, but atleast we have the spirit..!",
 		"defeated": "Your stronger than i thought...",
