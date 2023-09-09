@@ -713,6 +713,7 @@
 	{
 		"name": "Campsite",
 		"uniqueTo": "VividVale",
+		"replaces": "Entertainment Area",
 		"food": 1,
 		"happiness": 1,
 	        "cost": 50,
@@ -720,10 +721,16 @@
 	        "maintenance": 1,
 	        "requiredTech": "Construction",
 	},
-		
+	{
+		"name": "Community Counsel",
+		"uniqueTo": "Iroztia",
+		"culture": 2,
+		"happiness": 1,
+		"cost": 100,
+		"hurryCostModifier": 70,
+		"maintenance": 1,
+		"requiredTech": "",
+	},		
 
 ]
-
-		
-
 
