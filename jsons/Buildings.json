@@ -513,6 +513,8 @@
 
 		"cost": 340,
 
+		"maintenance": 2,
+
 		"requiredBuilding": "Wooden Harbor",
 
 		"requiredTech": "Mass Production",
@@ -550,6 +552,8 @@
 		"production": 1,
 		
 		"cost": 110,
+
+		"maintenance": 1,
 		
 		"uniques": ["Must be on [River]"],
 		
@@ -582,6 +586,8 @@
 		"science": 2,
 
 		"cost": 260,
+
+		"maintenance": 1,
 
 		"requiredBuilding": "University",
 
@@ -677,6 +683,7 @@
 		"science": 3,
 		"happiness": 1,
 		"cost": 275,
+		"maintenance": 1,
 		"requiredBuilding": "University",
 		"requiredTech": "Scientific Theory",
 	},
@@ -698,9 +705,20 @@
 		"name": "Water Filtration System",
 		"food": 2,
 		"cost": 280,
+		"maintenance": 2,
 		"requiredBuilding": "Sewer",
 		"requiredTech": "Sanitation",
 		"uniques": ["[+3 Food] in cities on [Coastal] tiles"],
+	},
+	{
+		"name": "Campsite",
+		"uniqueTo": "VividVale",
+		"food": 1,
+		"happiness": 1,
+	        "cost": 50,
+	        "hurryCostModifier": 50,
+	        "maintenance": 1,
+	        "requiredTech": "Construction",
 	},
 		
 
