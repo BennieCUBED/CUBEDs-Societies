@@ -11,6 +11,7 @@
           "Mercantile": 3.5,
           "Militaristic": 2,
           "Religious": 3
+          "Productive": 3.5
       },
     
   },
@@ -26,6 +27,7 @@
           "Mercantile": 2,
           "Militaristic": 3,
           "Religious": 1
+          "Productive": 1.5,
       },
     
   },
@@ -42,6 +44,7 @@
           "Mercantile": 3,
           "Militaristic": 9,
           "Religious": 3
+          "Productive": 2,
       },
 
   },
@@ -52,9 +55,10 @@
          "weightForCityStateType": {
              "Cultured": 1,
              "Maritime": 1.7,
-             "Mercantile": 3
+             "Mercantile": 4,
              "Militaristic": 0.9
              "Religious": 0.5,
+             "Productive": 4,
       },
 
     },
@@ -66,11 +70,12 @@
     "duration": 25,
     "minimumCivs": 3,
       "weightForCityStateType": {
-          "Cultured": 2.5,
+          "Cultured": 4.5,
           "Maritime": 0.5,
           "Mercantile": 0.5,
           "Militaristic": 1,
           "Religious": 0.6
+          "Productive": 0.5,
       },
 
   },
