@@ -147,8 +147,8 @@
         "priorities": {
             "Neutral": 1,
             "Cultural": 1,
-            "Diplomatic": 1,
-            "Domination": 3,
+            "Diplomatic": 0.5,
+            "Domination": 5,
             "Scientific": 1,
         },
         "policies": [
@@ -222,7 +222,31 @@
 
     },
 
+    {
+        "name": "Aesthetics",
+        "era": "Dark Era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 4,
+            "Diplomatic": 2,
+            "Domination": 1,
+            "Scientific": 2,
+        },
+        "policies": [
+            {
+                "name": "Ancestrial Buildings", // Change the name probbably
+                "uniques": [""],
+                "row": 1,
+                "column": 1,
+{   
+                "name": "Aesthetics Complete",
+                "uniques": [
+                ]
+           },
+        ]
+    },
 ]
+                
 
 
 
