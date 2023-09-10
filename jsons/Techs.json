@@ -756,7 +756,7 @@
 {
 	"name": "Dynamite",
 	"row": 8,
-	"prerequisites": ["Fertilizer","Military Science"],
+	"prerequisites": ["Fertiliser","Military Science"],
 	"uniques": ["[+1 Production] from [Mine] tiles"],
 	"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson",
 },
