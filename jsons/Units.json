@@ -827,6 +827,8 @@
 
 		"requiredResource": "Horses",
 
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee] units>"],
+
 		"attackSound": "horse",
 
 	},
@@ -908,6 +910,7 @@
 		"hurryCostModifier": 20,
 		"requiredTech": "Military Science",
 		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee] units>"],
 		"attackSound": "horse",
 	},
     {
