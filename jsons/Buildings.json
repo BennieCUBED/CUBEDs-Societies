@@ -735,7 +735,7 @@
 	{
 		"name": "Hydro Plant",
 		"production": 1,
-		"requiredResource": "Aluminum",
+		"requiredResource": "Aluminium",
 		"cost": 350,
 		"hurryCostModifier": 20,
 		"maintenance": 2,
@@ -747,6 +747,7 @@
 		"name": "Coal Power Plant",
 		"production": 4,
 		"happiness": 1,
+		"requiredResource": "Coal",
 		"cost": 330,
 		"hurryCostModifier": 50,
 		"maintenance": 2,
