@@ -739,6 +739,7 @@
 		"cost": 350,
 		"hurryCostModifier": 20,
 		"maintenance": 2,
+		"requiredBuilding": "Coal Power Plant",
 		"uniques": ["Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
 		"requiredTech": "Electricity",
 	},
@@ -749,7 +750,8 @@
 		"cost": 330,
 		"hurryCostModifier": 50,
 		"maintenance": 2,
-		"uniques": [""],
+		"requiredBuilding": "Factory",
+		"uniques": ["[-15]% Yield from every [Land]"],
 		"requiredTech": "Electricity",
 	},
 
