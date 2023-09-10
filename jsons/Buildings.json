@@ -720,6 +720,7 @@
 	        "hurryCostModifier": 50,
 	        "maintenance": 1,
 	        "requiredTech": "Construction",
+		"uniques": ["[+1 Production] from [Pasture] tiles"],
 	},
 	{
 		"name": "Community Counsel",
