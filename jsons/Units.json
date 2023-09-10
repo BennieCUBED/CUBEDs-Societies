@@ -798,6 +798,8 @@
 		"obsoleteTech": "Gunpowder",
 		
 		"requiredResource": "Iron",
+
+		"uniques": ["May capture killed [All] units"],
 		
 		"promotions": ["Shock I"],
 		
@@ -883,6 +885,7 @@
 		"cost": 40,
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
+		"uniques": ["May capture killed [All] units"],
 		"attackSound": "arrow",
 	},
 	{
@@ -897,7 +900,7 @@
 		"requiredTech": "Horse Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Heavy Plating",
-		"uniques": ["No defensive terrain bonus"],
+		"uniques": ["No defensive terrain bonus","May capture killed [All] units"],
 		"promotions": ["Accuracy I"],
 		"attackSound": "arrow",
 	},
