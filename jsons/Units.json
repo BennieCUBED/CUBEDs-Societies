@@ -709,7 +709,7 @@
 
 		"unitType": "Siege",
 
-		"range": 1,
+		"range": 2,
 
 		"movement": 2,
 
@@ -718,6 +718,10 @@
 		"rangedStrength": 55,
 
 		"requiredTech": "Chemistry",
+
+		"obsoleteTech": "Dynamite",
+
+		"upgradesTo": "Artillery",
 
 		"requiredResource": "Niter",
 
@@ -753,7 +757,7 @@
 
 		"unitType": "Ranged Water",
 
-		"range": 1,
+		"range": 2,
 
 		"movement": 4,
 
@@ -853,6 +857,8 @@
 		"range": 1,
 		
 		"movement": 2,
+
+		"range": 2,
 		
 		"strength": 50,
 		
@@ -869,6 +875,7 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
+		"range": 2,
 		"strength": 4,
 		"rangedStrength": 7,
 		"cost": 40,
@@ -881,6 +888,7 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Barbarians",
 		"movement": 4,
+		"range": 2,
 		"strength": 25,
 		"rangedStrength": 31,
 		"cost": 80,
@@ -947,4 +955,19 @@
 		"uniques": ["[+60]% Strength <vs [Melee] units>"],		
 		"attackSound": "shot",
 	},
+	{
+		"name": "Artillery",
+		"unitType": "Siege",
+		"replaces": "Cannon",
+		"movement": 2,
+		"range": 2,
+		"strength": 45,
+		"rangedStrength": 80,
+		"cost": 300,
+		"hurryCostModifier": 65,
+		"requiredTech": "Dynamite",
+                "attackSound": "cannon",
+	},
+		
+		
 ]
