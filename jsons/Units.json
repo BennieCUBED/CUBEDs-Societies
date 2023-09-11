@@ -719,10 +719,6 @@
 
 		"requiredTech": "Chemistry",
 
-		"obsoleteTech": "Dynamite",
-
-		"upgradesTo": "Artillery",
-
 		"requiredResource": "Niter",
 
 		"cost": 340,
