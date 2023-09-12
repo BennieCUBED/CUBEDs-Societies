@@ -753,19 +753,6 @@
 	"prerequisites": ["Fertiliser","Working Conditions"],
 	"quote": "'No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.' -Sylvia Burwell.",
 },
-{
-	"name": "Dynamite",
-	"row": 8,
-	"prerequisites": ["Fertiliser","Military Science"],
-	"uniques": ["[+1 Production] from [Mine] tiles"],
-	"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson",
-},
-{
-	"name": "Electricity",
-	"row": 4,
-	"prerequisites": ["Scientific Theory"],
-	"quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne",
-},
 		 ]
 },
 
