@@ -5,7 +5,7 @@
                     
                  "movementType": "Land",
                     
-                 "uniques": ["[+50]% Strength<vs [Calvary] units>"],                
+                 "uniques": ["[+50]% Strength <vs [Calvary] units>"],                
 
           },
 
@@ -55,7 +55,7 @@
                     
                  "movementType": "Land",
                     
-                 "uniques": ["[+50]% Strength<vs [Melee] units>"],                
+                 "uniques": ["[+50]% Strength <vs [Melee] units>"],                
 
           },
           
