@@ -452,22 +452,4 @@
 		"improvementStats": {"food": 1, "happiness": 1},
 		"uniques": ["Generated with weight [17] <in [Featureless] [Plains] tiles>","Generated with weight [12] <in [Featureless] [Grassland] tiles>","Generated with weight [8] <in [Featureless] [Flood plains] tiles>"],
 	},
-	{
-		"name": "Aluminium",
-		"resourceType": "Strategic",
-		"revealedBy": "Electricity",
-		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
-		"production": 1,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [15] <in [Featureless] [Tundra] tiles>",
-					"Generated with weight [15] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [39] <in [Hill] tiles>",
-					"Minor deposits generated with weight [20] <in [Jungle] tiles>",
-					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3},
-	},
-
-
 ]
