@@ -766,6 +766,12 @@
     "prerequisites": ["Scientific Theory"],
     "quote": "'Is it a fact - or have I dreamt it - that, by means of electricity, the world of matter has become a great nerve, vibrating thousands of miles in a breathless point of time?' - Nathaniel Hawthorne",
 },
+{
+        "name": "Biology",
+	"row": 2,
+	"prerequisites": ["Archaeology","Scientific Theory"],
+	"quote": "'If the brain were so simple we could understand it, we would be so simple we couldn't.' - Lyall Watson"
+},
 		 ]
 },
 
