@@ -716,6 +716,10 @@
 
 		"requiredTech": "Chemistry",
 
+		"obsoleteTech": "Dynamite",
+
+		"upgradesTo": "Artillery",
+
 		"requiredResource": "Niter",
 
 		"cost": 340,
@@ -954,5 +958,16 @@
 		"uniques": ["[+60]% Strength <vs [Melee] units>"],		
 		"attackSound": "shot",
 	},
+{
+        "name": "Artillery",
+        "unitType": "Siege",
+        "movement": 2,
+        "strength": 45,
+        "rangedStrength": 65,
+        "cost": 400,
+        "hurryCostModiefier": 75,
+        "requiredTech": "Dynamite",
+        "attackSound": "artillery",
+    },
 		
 ]
