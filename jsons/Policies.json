@@ -247,7 +247,7 @@
 },
 {
                 "name": "Music and Dance",
-                "uniques": [""],
+                "uniques": ["[+10]% [Culture] <while the empire is happy>","[+20]% [Culture]<during We Love The King Day>"],
                 "row": 1,
                 "column": 5,
 },
