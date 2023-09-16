@@ -243,7 +243,13 @@
                 "name": "Medieval Faires",
                 "uniques": ["[+1 Gold, +1 Production] from [Trading post] tiles"],
                 "row": 1,
-                "column": 2,
+                "column": 3,
+},
+{
+                "name": "Music and Dance",
+                "uniques": [""],
+                "row": 1,
+                "column": 5,
 },
     {
                 "name": "Aesthetics Complete",
