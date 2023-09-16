@@ -757,7 +757,7 @@
     },
 	{
 		"name": "Hospital",
-		"food": 1,
+		"food": 3,
 		"happiness": 1,
 		"cost": 300,
 		"hurryCostModifier": 50,
@@ -772,7 +772,6 @@
 		"cost": 275,
 		"hurryCostModifier": 40,
 		"requiredBuilding": "Hospital",
-		"uniques": [""],
 		"requiredTech": "Biology",
 	},
 ]
