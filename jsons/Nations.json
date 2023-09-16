@@ -460,14 +460,25 @@
 	{
 		"name": "Albenpal",
 		"adjective": ["Albenpalian"],
-		"cityStateType": "Productive", // Chnage later please for food 'n stuff, BennieCUBED
+		"cityStateType": "Maritime", // Chnage later please for food 'n stuff, BennieCUBED -DONE!
 		"declaringWar": "Your people are ruining our way of life!",
 		"attacked": "No! You cannot do this, what have we ever done to you?",
-		"defeated": "Maybe later, we will have peace throught citisenship..?",
+		"defeated": "Maybe later, we will have peace through citisenship..?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [214, 114, 6],
 		"cities": ["Albenpal"],
 	},
+	{
+		"name": "Braritzall",
+		"adjective": ["Braritzi"],
+		"cityStateType": "Religious",
+		"declaringWar": "We will form our great empire if you fail too.",
+		"attacked": "You will pay...",
+		"defeated": "No, No, This cant be...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Braritzall"],
+	},		
 				
 
         {
