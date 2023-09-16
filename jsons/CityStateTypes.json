@@ -38,5 +38,19 @@
        "allyBonusUniques": ["[+3 Production] [in capital]", "[+1 Production] [in all cities]"],
        "color": [10, 245, 72],
     },
+ {
+        "name": "Religious",
+        "friendBonusUniques":  [
+            "[+3 Faith] <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>"
+        ],
+        "color": [255, 255, 255]
+ },
 
 ]
