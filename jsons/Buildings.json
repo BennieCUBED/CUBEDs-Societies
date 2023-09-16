@@ -755,6 +755,25 @@
         "uniques": ["[-15]% Yield from every [Land]"],
         "requiredTech": "Electricity",
     },
-
+	{
+		"name": "Hospital",
+		"food": 1,
+		"happiness": 1,
+		"cost": 300,
+		"hurryCostModifier": 50,
+		"maintenance": 1,
+		"uniques": [""],
+		"requiredTech": "Biology",
+	},
+	{
+		"name": "Clinic",
+		"happiness": 2,
+		"food": 1,
+		"cost": 275,
+		"hurryCostModifier": 40,
+		"requiredBuilding": "Hospital",
+		"uniques": [""],
+		"requiredTech": "Biology",
+	},
 ]
 
