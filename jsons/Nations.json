@@ -476,7 +476,7 @@
 		"attacked": "You will pay...",
 		"defeated": "No, No, This cant be...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [],
+		"innerColor": [255, 255, 255],
 		"cities": ["Braritzall"],
 	},		
 				
