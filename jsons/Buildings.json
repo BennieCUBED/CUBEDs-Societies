@@ -762,7 +762,7 @@
 		"cost": 300,
 		"hurryCostModifier": 50,
 		"maintenance": 1,
-		"uniques": [""],
+		"uniques": ["[+1 Food, +1 Happiness] <if [Clinic] is constructed>"],
 		"requiredTech": "Biology",
 	},
 	{
