@@ -714,8 +714,8 @@
 		"name": "Campsite",
 		"uniqueTo": "VividVale",
 		"replaces": "Entertainment Area",
-		"food": 1,
-		"happiness": 1,
+		"food": 2,
+		"happiness": 2,
 	        "cost": 50,
 	        "hurryCostModifier": 50,
 	        "maintenance": 1,
@@ -773,6 +773,16 @@
 		"hurryCostModifier": 40,
 		"requiredBuilding": "Hospital",
 		"requiredTech": "Biology",
+	},
+	{
+		"name": "Sports Club",
+		"uniqueTo": "Grendale",
+		"replaces": "Theatre",
+		"happiness": 2,
+		"food": 1,
+		"cost": 280,
+		"hurryCostModifier": 50,
+		"requiredTech": "Printing Press",
 	},
 ]
 
