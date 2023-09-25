@@ -398,8 +398,8 @@
 		"hateHello": "Get them away from me..!",
 
 		"tradeRequest": "Here, lets trade. You could also rest by the water if you're tired.",
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [13, 145, 117],
+		"innerColor": [10, 207, 164],
 		"uniqueName": "Motu Archipelago",
 		"uniques": [""],
 		"cities": ["Motunai","Tema","Honu'auene","Ta'naito","Poipoi","Yaminonee","Ou'Hama","Panipae","Noninoni","Ngote'gai","Tee'p'hu"],
