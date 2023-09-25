@@ -379,13 +379,37 @@
 		"uniques": ["[+2 Gold] <when not at war>","[+2 Science] <when not at war>"],
 		"cities": ["Hollz","Zinti","Szomerce","Kroupy","Derz","Zeep","Olkerztomm","Hoizeekez","Alszo Town","Arsoe","Sollzeek","Terrnez"],
 	},
-		
+	{
+		"name": "Motunai",
+		"adjective": ["Moti","Motunese"],
+		"leaderName": "Ame'nee",
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Neutral",
+
+		"startIntroPart1": "The people of Motunai are well known in the Western Archipelago for living amoung islands, which the clan owning around 144 island at its time, with one of the tribes greatest chieftains, Ame'nee",
+		"startIntroPart1": "The people of Motunai yearn for you attention, Ame'nee. Can you build a civilisation that can stand the test of time?",
+
+		"declaringWar": "First, we will have your islands. Next, your people!",
+		"attacked": "So you want to take us? We are united throughout every island around us...",
+		"defeated": "Well... This turned out badly...",
+		"introduction": "Oooooo, Visitors..! May i show you around on our palm wood boats?",
+
+		"neutralHello": "Hello, Hello",
+		"hateHello": "Get them away from me..!",
+
+		"tradeRequest": "Here, lets trade. You could also rest by the water if you're tired.",
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Motu Archipelago",
+		"uniques": [""],
+		"cities": ["Motunai","Tema","Honu'auene","Ta'naito","Poipoi","Yaminonee","Ou'Hama","Panipae","Noninoni","Ngote'gai","Tee'p'hu"],
+	},
 		
 	{
                 
-		"name": "A'Arya",
+		"name": "A'Anya",
                 
-		"adjective": ["Aryan"],
+		"adjective": ["Anyan"],
                 
 		"cityStateType": "Maritime",
 
