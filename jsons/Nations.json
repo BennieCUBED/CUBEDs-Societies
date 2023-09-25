@@ -502,7 +502,30 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Braritzall"],
-	},		
+	},
+	{
+		"name": "Ene'hai'te",
+		"adjective": ["Ene","Enehaiteness"],
+		"cityStateType": "Maritime",
+		"declaringWar": "Ha Ha! To war!",
+		"attacked": "So be it! We never wanted you here anyways.",
+		"defeated": "I could say this for everyone: WE DON'T WANT THIS!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [214, 114, 6],
+		"cities": ["Ene'hai'te"],
+	},
+	{
+		"name": "Rhenßier",
+		"adjective": ["Rhenzi"],
+		"cityStateType": "Militaristic",
+		"declaringWar": "As king of this land, I order for your surrender.",
+		"attacked": "Oh... So now we are at war?",
+		"defeated": "I weep as we become one of the low-states...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 9, 9],
+		"cities": ["Rhenssier"],
+	},
+		
 				
 
         {
