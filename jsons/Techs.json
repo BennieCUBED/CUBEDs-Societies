@@ -786,7 +786,7 @@
 				 "name": "Mechanics",
 				 "row": 7,
 				 "prerequisites": ["Dynamite"],
-				 "uniques": [""],
+				 "uniques": ["[+1 Production] from all [Production] buildings"],
 				 "quote": "'' -.",
 			 },
 			 {
