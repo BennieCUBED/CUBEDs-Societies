@@ -993,7 +993,7 @@
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Exploration",
 		"upgradesTo": "Trireme",	
-		"uniques": ["Cannot enter ocean tiles"],	
+		"uniques": ["Cannot enter ocean tiles","May create improvements on water resources"],	
 		"attackSound": "arrow",
 	},
 		
