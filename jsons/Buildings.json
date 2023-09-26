@@ -799,5 +799,6 @@
 		"hurryCostModifier": 65,
 		"uniques": ["+1 Gold, +1 Production] from [Railroad] tiles [in all cities]"],
 		"requiredTech": "Mechanics",
+	},
 ]
 
