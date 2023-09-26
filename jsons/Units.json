@@ -845,6 +845,10 @@
 		
 		"requiredTech": "Rifling",
 
+		"upgradesTo": "Great War Infantry",
+
+		"obsoleteTech": "Mechanics",
+
 		"uniques": ["[+50]% Strength <vs [Melee] units>"],
 		
 		"attackSound": "shot"
@@ -969,5 +973,14 @@
         "requiredTech": "Dynamite",
         "attackSound": "artillery",
     },
-		
+	{
+		"name": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Mechanics",
+		"uniques": ["[+50]% Strength <vs [Melee] units>"],
+		"attackSound": "shot"
+	},
 ]
