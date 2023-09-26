@@ -88,4 +88,22 @@
         "citySound": "cityIndustrial",
         "iconRGB": [150, 2, 234]
     },
+         {
+        "name": "Modern Era",
+        "researchAgreementCost": 310,
+        "startingSettlerCount": 2,
+        "startingWorkerCount": 3,
+        "startingMilitaryUnitCount": 4,
+        "startingMilitaryUnit": "Rifleman",
+        "startingGold": 150,
+        "startingCulture": 550,
+        "settlerPopulation": 4,
+        "settlerBuildings": ["Shrine","Monument","Basic Housing I","Wooden Harbor","Crafting Area","Entertainment Area","Lighthouse","Trading Market","Workshop","Circus"],
+        "startingObsoleteWonders": ["Stepping Stones to God","The Great Museum","Walls of the North"],
+        "baseUnitBuyCost": 340,
+        "embarkDefense": 14,
+        "startPercent": 72,
+        "citySound": "cityModern",
+        "iconRGB": [15, 175, 15],
+         },
 ]
