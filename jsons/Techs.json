@@ -775,6 +775,28 @@
 },
 		 ]
 },
-
+{
+		 "columnNumber": 9,
+		 "era": "Modern Era",
+          	 "techCost": 550,
+		 "buildingCost": 440,
+		 "wonderCost": 1000,
+		 "techs": [
+			 {
+				 "name": "Mechanics",
+				 "row": 7,
+				 "prerequisites": ["Dynamite"],
+				 "uniques": [""],
+				 "quote": "'' -.",
+			 },
+			 {
+				 "name": "Radio",
+				 "row": 4,
+				 "prerequisites": ["Electricity"],
+				 "quote": "'RADIO' -No-one.",
+			 },
 ]
+},
+]
+		
 
