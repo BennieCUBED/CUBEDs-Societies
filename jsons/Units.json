@@ -983,4 +983,18 @@
 		"uniques": ["[+50]% Strength <vs [Melee] units>"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Outrigger Island Canoe",
+		"unitType": "Melee Water",
+		"uniqueTo": "Motunai",
+		"movement": 3,
+		"strength": 20,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Exploration",
+		"upgradesTo": "Trireme",	
+		"uniques": ["Cannot enter ocean tiles"],	
+		"attackSound": "arrow",
+	},
+		
 ]
