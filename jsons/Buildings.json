@@ -792,6 +792,12 @@
 		"hurryCostModifier": 60,
 		"requiredTech": "Radio",
 	},
-		
+	{
+		"name": "Service Station",
+		"production": 3,
+		"cost": 330,
+		"hurryCostModifier": 65,
+		"uniques": [""],
+		"requiredTech": "Mechanics",
 ]
 
