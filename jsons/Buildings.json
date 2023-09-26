@@ -784,5 +784,14 @@
 		"hurryCostModifier": 50,
 		"requiredTech": "Printing Press",
 	},
+	{
+		"name": "Radio Station",
+		"culture": 2,
+		"happiness": 1,
+		"cost": 330,
+		"hurryCostModifier": 60,
+		"requiredTech": "Radio",
+	},
+		
 ]
 
