@@ -401,7 +401,7 @@
 		"outerColor": [13, 145, 117],
 		"innerColor": [10, 207, 164],
 		"uniqueName": "Motu Archipelago",
-		"uniques": ["[+2 Food] from every [Water]","[+2 Gold] from every [Water] tile <starting from the [Discovery Era]>"],
+		"uniques": ["[+2 Food] from every [Water]","[+2 Gold] from every [Water] <starting from the [Discovery Era]>"],
 		"cities": ["Motunai","Tema","Honu'auene","Ta'naito","Poipoi","Yaminonee","Ou'Hama","Panipae","Noninoni","Ngote'gai","Tee'p'hu"],
 	},
 		
