@@ -987,6 +987,7 @@
 		"name": "Outrigger Island Canoe",
 		"unitType": "Melee Water",
 		"uniqueTo": "Motunai",
+		"replaces": "Galley",
 		"movement": 3,
 		"strength": 20,
 		"cost": 40,
