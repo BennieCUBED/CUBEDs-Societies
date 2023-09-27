@@ -468,4 +468,13 @@
         "majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
         "minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3},
     },
+	{
+		"name": "Rice",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Jungle","Flood plains"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 2},
+		"uniques": ["Generated on every [12] tiles <in [Grassland] tiles>","Generated on every [12] tiles <in [Jungle] tiles>","Generated on every [5] tiles <in [Flood plains] tiles>"],
+	},
 ]
