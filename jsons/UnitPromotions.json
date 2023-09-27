@@ -12,7 +12,7 @@
 
   		"name": "Shock I",
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
-		"unitTypes": ["Melee","Calvary","Armored","Anti-Calvary"],
+		"unitTypes": ["Melee","Calvary","Armored","Anti-Calvary","Gunpowder"],
         "column": 4,
         "row": 1
 	},
@@ -23,7 +23,7 @@
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
 		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 4,
-        "row": 2
+        "row": 3,
 	},
 
   	{
@@ -31,7 +31,7 @@
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 5,
-        "row": 1
+        "row": 1,
 	},
 
   	{
@@ -40,7 +40,7 @@
 		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Melee","Gunpowder","Calvary","Armored","Anti-Calvary"],
         "column": 5,
-        "row": 2
+        "row": 3,
 	},
 
   	{
@@ -84,5 +84,14 @@
         "column": 1,
         "row": 2
     },
+	{
+		"name": "Elites",
+		"prerequisites": ["Shock II","Drill II"],
+		"uniques": ["[+20]% Strength <when fighting in [Open terrain] tiles>","[+20]% Strength <when fighting in [Rough terrain] tiles>"],
+		"unitTypes": ["Melee","Calvary","Gunpowder","Armored","Anti-Calvary"],
+	"column": 6,
+	"row": 2,
+	},
+		
 
 ]
