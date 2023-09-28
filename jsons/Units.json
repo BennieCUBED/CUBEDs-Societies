@@ -997,13 +997,16 @@
 		"uniques": ["Cannot enter ocean tiles","May create improvements on water resources"],	
 		"attackSound": "arrow",
 	},
-	// {
-		// "name": "Ironclad",
-	         //  "unitType": "Melee Water",
-		// "movement": 4,
-		// "strength": 40,
-		// "cost": 400,
-		// "hurryCostModifier": 35,
-		// "requiredTech": "Coal Power",
+	 {
+		 "name": "Ironclad",
+	         "unitType": "Melee Water",
+		 "movement": 4,
+		 "strength": 40,
+		 "cost": 400,
+		 "hurryCostModifier": 35,
+		 "requiredTech": "Coal Power",
+		 "uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
+		 "attackSound": "arrow",
+	 },
 		
 ]
