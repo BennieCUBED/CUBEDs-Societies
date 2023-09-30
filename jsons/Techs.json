@@ -211,6 +211,8 @@
 
 				"prerequisites": ["Taming","Crop Variety","Fences"],
 
+				"uniques": ["Enables Open Borders agreements"],
+
 				"quote": "'Do more of what works and less of what doesn't.' -Steve Clark",
 
 			},
