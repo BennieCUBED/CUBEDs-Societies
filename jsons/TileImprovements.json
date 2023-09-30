@@ -301,5 +301,21 @@
             {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
 	]
 	},
+	{
+				"name": "Oil well",	
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],	
+		"food": 1,		
+		"turnsToBuild": 8,		
+		"techRequired": "Steel Working",
+		"uniques": 
+            ["Can only be built to improve a resource", "Can only be built on [Land] tiles","Pillaging this improvement yields approximately [+60 Gold]"],
+		"shortcutKey": "O",
+	},
+	{
+		"name": "Offshore Platform",
+		"techRequired": "Steel Working",
+		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "P",
+	},	
 
 ]
