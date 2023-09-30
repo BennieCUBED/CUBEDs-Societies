@@ -800,5 +800,17 @@
 		"uniques": ["+1 Gold, +1 Production] from [Railroad] tiles [in all cities]"],
 		"requiredTech": "Mechanics",
 	},
+	{
+		"name": "Oil Power Plant",
+        "production": 4,
+        "happiness": 1,
+        "requiredResource": "Oil",
+        "cost": 375,
+        "hurryCostModifier": 65,
+        "maintenance": 2,
+        "requiredBuilding": "Factory",
+        "uniques": ["[-10]% Yield from every [Land]"],
+        "requiredTech": "Refining",
+	},
 ]
 
