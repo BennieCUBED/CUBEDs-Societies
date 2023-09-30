@@ -787,7 +787,7 @@
 				 "row": 7,
 				 "prerequisites": ["Dynamite"],
 				 "uniques": ["[+1 Production] from all [Production] buildings"],
-				 "quote": "'' -.",
+				 "quote": "'Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts.' -B.J. Palmer.",
 			 },
 			 {
 				 "name": "Radio",
@@ -795,7 +795,13 @@
 				 "prerequisites": ["Electricity"],
 				 "quote": "'RADIO' -No-one.",
 			 },
-]
+			 {
+				 "name": "Steel Working",
+				 "row": 3,
+				 "prerequisites": ["Electricity","Locomotives"],
+				 "quote": "'' -.",
+			 },
+		 ]
 },
 ]
 		
