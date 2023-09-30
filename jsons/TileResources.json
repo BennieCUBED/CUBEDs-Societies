@@ -503,6 +503,7 @@
 	{
 		"name": "Spices",
 		"resourceType": "Luxury",
+		"revealedBy": "Trading",
 		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
 		"gold": 2,
 		"improvement": "Plantation",
