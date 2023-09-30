@@ -383,6 +383,8 @@
 
 				"prerequisites": ["Currency","Mathematics"],
 
+				"uniques": ["Enables Defensive Pacts"],
+
 				"quote": "'' -",
 
 			},
