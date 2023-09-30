@@ -801,6 +801,12 @@
 				 "prerequisites": ["Electricity","Locomotives"],
 				 "quote": "'' -.",
 			 },
+			 {
+				 "name": "Refining",
+				 "row": 8,
+				 "prerequisites": ["Locomotives","Electricity"],
+				 "quote": "'' -.",
+			 },
 		 ]
 },
 ]
