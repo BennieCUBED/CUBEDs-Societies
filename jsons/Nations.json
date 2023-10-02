@@ -425,7 +425,8 @@
 		"tradeRequest": "So uh, are you up for a deal, friend?",
 		"outerColor": [255, 255, 255],
 		"innerColor": [3, 157, 252],
-		"uniqueName": "Conquest of Middle Costi",
+		"uniqueName": "Conquest of Middle Costi", 
+		"uniques": ["[+25]% Production when constructing [Melee] units [in all cities] <when at war>","[+50]% Golden Age length"],
 		"cities": ["Ennez Middle","Jaklinn","Wannes Town","Torrburg","Ammtun East","Dattner Town","Ammtun North","Comminne","North Village"],
 	},	
 		
