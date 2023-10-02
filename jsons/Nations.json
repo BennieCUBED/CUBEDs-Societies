@@ -423,8 +423,8 @@
 		"hateHello": "...",
 
 		"tradeRequest": "So uh, are you up for a deal, friend?",
-		"outerColor": [25, 0, 130],
-		"innerColor": [25, 0, 0],
+		"outerColor": [255, 255, 255],
+		"innerColor": [3, 157, 252],
 		"uniqueName": "Conquest of Middle Costi",
 		"cities": ["Ennez Middle","Jaklinn","Wannes Town","Torrburg","Ammtun East","Dattner Town","Ammtun North","Comminne","North Village"],
 	},	
