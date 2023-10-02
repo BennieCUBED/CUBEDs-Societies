@@ -321,6 +321,8 @@
 
 		"preferredVictoryType": "Culture",
 
+		"favoredReligion": "CUBEism",
+
 
 		"startIntroPart1": "Vast lush land... This is a sign that Grenland is here. Grendale, starting off as a colony that came from south Costi rose to the top for it's fertile home. Grendale also allowed independance for VividVale, which eventually made Grendale unpopular and 'Uncultured', but who can save Grendale from this? And this is where Edmerl came in to power",
 
@@ -360,6 +362,7 @@
 		"leaderName": "Ozten the Great",
 		"startBias": ["Grassland","Avoid [Desert]"],
 		"preferredVictoryType": "Science",
+		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Iroztia, located in South Costi is a large developed monarchy known for its peaceful approach to conflict, as long as Iroztia has many peaceful neighbours, Iroztia will rise for power.",
 		"startIntroPart2": "Will you develop a great Society under your great reign? Will you create a civilisation that can stand the test of time?",
@@ -410,6 +413,7 @@
 		"leaderName": "Lannen Pottesttas",
 		"startBias": ["Avoid [Desert]","Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
+		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Lannen, once starting his life around rural towns inbetween two great kingdoms. He rose to power against everyone against him, conquering a great amount of land during his lifetime. only for the Jarrids to collaspe, within only a couple years after his death.",
 		"startIntroPart2": "Lannen, can you build a civilisation that can stand the test of time?",
