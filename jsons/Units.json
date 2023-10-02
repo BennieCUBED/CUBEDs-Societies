@@ -1008,5 +1008,27 @@
 		 "uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
 		 "attackSound": "arrow",
 	 },
+	{
+		"name": "Deos Homines",
+
+		"unitType": "Melee",
+
+		"movement": 2,
+
+		"strength": 40,
+
+		"cost": 160,
+
+		"requiredTech": "Heavy Plating",
+
+		"obsoleteTech": "Gunpowder",
+
+		"upgradesTo": "Musketman",
+
+		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>","Can Spread Religion"],
+
+		"attackSound": "metalhit",
+
+	},
 		
 ]
