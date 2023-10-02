@@ -1013,6 +1013,10 @@
 
 		"unitType": "Melee",
 
+		"uniqueTo": "The Jarrids",
+
+		"replaces": "Man-at-Arms",
+
 		"movement": 2,
 
 		"strength": 40,
