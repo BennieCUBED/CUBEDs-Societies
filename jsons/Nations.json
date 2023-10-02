@@ -257,7 +257,7 @@
 
 		"uniqueName": "Golden Sands",
 
-		"uniques": ["[+4 Gold] for [All] cities on [Desert] tiles","May buy [All] units with [Gold] [in all cities]"],
+		"uniques": ["[+4 Gold] for [All] cities on [Desert] tiles","May buy [All] units with [Culture] [in all cities]"],
 
 		"cities": ["Ahnil","Ipitol","Sunnum","Berhn","Slypi","Ollom","Fhnor","Diytip","Molospipi","Sulhnel","Burstel Ahn","Kes"],
 
@@ -315,7 +315,7 @@
 
 		"adjective": ["Grendalean"],
 
-		"leaderName": "Edmerl",
+		"leaderName": "Edmerl H. Ridges",
 
 		"startBias": ["Grassland","Plains"],
 
@@ -407,6 +407,28 @@
 	{
 		"name": "The Jarrids",
 		"adjective": ["Jarrids"],
+		"leaderName": "Lannen Pottesttas",
+		"startBias": ["Avoid [Desert]","Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Lannen, once starting his life around rural towns inbetween two great kingdoms. He rose to power against everyone against him, conquering a great amount of land during his lifetime. only for the Jarrids to collaspe, within only a couple years after his death.",
+		"startIntroPart2": "Lannen, can you build a civilisation that can stand the test of time?",
+
+		"declaringWar": "To battle! You will see our might! for God is with us...",
+		"attacked": "Wha- huh!? why do you torment us only now..?",
+		"defeated": "My reign comes to an end... time goes so quick...",
+		"introduction": "Heh... I am Lannen, i have been chosen by my people to rule- okay, long story short, its nice to meet you!",
+
+		"neutralHello": "Hey!",
+		"hateHello": "...",
+
+		"tradeRequest": "So uh, are you up for a deal, friend?",
+		"outerColor": [25, 0, 130],
+		"innerColor": [25, 0, 0],
+		"uniqueName": "Conquest of Middle Costi",
+		"cities": ["Ennez Middle","Jaklinn","Wannes Town","Torrburg","Ammtun East","Dattner Town","Ammtun North","Comminne","North Village"],
+		
+		
 		
 	{
                 
