@@ -453,8 +453,8 @@
 		"hateHello": "Are you trying to say something?",
 
 		"tradeRequest": "It seems you have a reason to exist after all...",
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [252, 65, 3],
+		"innerColor": [122, 81, 43],
 		"uniqueName": "Southern Dominance",
 		"uniques": ["[All] units gain the [Jaguar Pride] promotion","[+3 Production] <for [7] turns> <when at war>"],
 		"cities": ["Noustekim","Zalekek","Telizim","Aleloitiki","Ameklou","Liktou","Fouleizeki","Zili","Melialali","Tilizek"],
