@@ -432,7 +432,33 @@
 		"uniqueName": "Conquest of Middle Costi", 
 		"uniques": ["[+25]% Production when constructing [Melee] units [in all cities] <when at war>","[+50]% Golden Age length"],
 		"cities": ["Ennez Middle","Jaklinn","Wannes Town","Torrburg","Ammtun East","Dattner Town","Ammtun North","Comminne","North Village"],
-	},	
+	},
+	{
+		"name": "Noustekim",
+		"adjective": ["Nousteki","Noustekimese"],
+		"leaderName": "Zamitzi",
+		"startBias": ["Jungle","Plains"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Wouleto",
+
+		"startIntroPart1": "Noustekim is a powerful tribe, conquering most of their enemies without mercy."
+		"startIntroPart2": "Noustekim is strong, but it is threatened. Zamitzi, can you build a civilisation that can stand the test of time?",
+
+		"declaringWar": "I always knew we would go to war at some point. Prepare for collapse!",
+		"attacked": "Hahaha! You? You couldn't hurt a small city-state if you tried!",
+		"defeated": "I was wrong to fight you, but i know your people will suffer soon, VERY SOON!",
+		"introduction": "Welcome to Noustekim lands. Just make sure not to get in my way.",
+
+		"neutralHello": "What is it?",
+		"hateHello": "Are you trying to say something?",
+
+		"tradeRequest": "It seems you have a reason to exist after all...",
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Southern Dominance",
+		"uniques": [""],
+		"cities": ["Noustekim","Zalekek","Telizim","Aleloitiki","Ameklou","Liktou","Fouleizeki","Zili","Melialali","Tilizek"],
+	},
 		
 	{
                 
