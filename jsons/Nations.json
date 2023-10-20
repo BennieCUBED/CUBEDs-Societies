@@ -580,9 +580,28 @@
 		"innerColor": [173, 9, 9],
 		"cities": ["Rhenssier"],
 	},
-		
-				
-
+	{
+		"name": "Touleki",
+		"adjective": ["Touleki"],
+		"cityStateType": "Maritime",
+		"declaringWar": "You have fallen into our trap!",
+		"attacked": "You, and your society will regret this..!",
+		"defeated": "Leave me alone, you've done enough...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [214, 114, 6],
+		"cities": ["Touleki"],
+	},
+	{
+		"name": "Bepiri",
+		"adjective": ["Bepiri"],
+		"cityStateType": "Cultured",
+		"declaringWar": "For freedom!",
+		"attacked": "We never wanted to resort to violence.",
+		"defeated": "Chained, and entire society just like that...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [190, 3, 252],
+		"cities": ["Bepiri"],
+	},
         {
 
 		"name": "Barbarians",
