@@ -52,5 +52,15 @@
         ],
         "color": [255, 255, 255]
  },
+   {
+        "name": "Cultured",
+     
+        "friendBonusUniques": ["[+2 Culture] [in capital]"],
+     
+        "allyBonusUniques": ["[+2 Culture] [in capital]", "[+1 Culture] [in all cities]"],
+     
+        "color": [56, 255, 112],
+     
+    },
 
 ]
