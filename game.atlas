@@ -1,0 +1,273 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bar
+  rotate: false
+  xy: 419, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Church
+  rotate: false
+  xy: 140, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Crafting Area
+  rotate: false
+  xy: 419, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dungeon
+  rotate: false
+  xy: 276, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Entertainment Area
+  rotate: false
+  xy: 555, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mediaeval Walls
+  rotate: false
+  xy: 827, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Printer
+  rotate: false
+  xy: 963, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shipyard
+  rotate: false
+  xy: 1099, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stepping Stones to God
+  rotate: false
+  xy: 1504, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Great Museum
+  rotate: false
+  xy: 1637, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+BuildingIcons/Trading Market
+  rotate: false
+  xy: 1235, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/University of Knowledge
+  rotate: false
+  xy: 419, 111
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Archeological Site
+  rotate: false
+  xy: 4, 100
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fortoulen Lumber Mill
+  rotate: false
+  xy: 691, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trench Line
+  rotate: false
+  xy: 1903, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/Costazmacia
+  rotate: false
+  xy: 768, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Fortoulen
+  rotate: false
+  xy: 876, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Grendale
+  rotate: false
+  xy: 984, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iroztia
+  rotate: false
+  xy: 1092, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Motunai
+  rotate: false
+  xy: 1235, 247
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/Noustekim
+  rotate: false
+  xy: 1371, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Jarrids
+  rotate: false
+  xy: 1770, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/VividVale
+  rotate: false
+  xy: 412, 4
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+ResourceIcons/Aluminium
+  rotate: false
+  xy: 552, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dogs
+  rotate: false
+  xy: 555, 380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Niter
+  rotate: false
+  xy: 827, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pumpkin
+  rotate: false
+  xy: 4, 236
+  size: 407, 272
+  orig: 407, 272
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Archeological Spot
+  rotate: false
+  xy: 4, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dogs
+  rotate: false
+  xy: 44, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Niter
+  rotate: false
+  xy: 84, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 124, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bombard
+  rotate: false
+  xy: 4, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms
+  rotate: false
+  xy: 44, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarrisa
+  rotate: false
+  xy: 84, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Bombard
+  rotate: false
+  xy: 660, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Man-at-Arms
+  rotate: false
+  xy: 691, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarissa
+  rotate: false
+  xy: 963, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Supplier
+  rotate: false
+  xy: 1099, 244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
