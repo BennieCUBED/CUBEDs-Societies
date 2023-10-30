@@ -599,7 +599,7 @@
 	},
 	{
 		"name": "Touleki",
-		"North Wouleto",
+		"style": "North Wouleto",
 		"adjective": ["Touleki"],
 		"cityStateType": "Maritime",
 		"declaringWar": "You have fallen into our trap!",
