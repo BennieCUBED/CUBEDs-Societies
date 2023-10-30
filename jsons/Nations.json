@@ -129,6 +129,8 @@
 
                  "name": "VividVale",
 
+		"style": "VividValean",
+
                  "adjective": ["Vividvalean"],
                 
                  "leaderName": "BennieCUBED",
@@ -538,6 +540,7 @@
 	},
 	{
 		"name": "Albenpal",
+		"style": "VividValean",
 		"adjective": ["Albenpalian"],
 		"cityStateType": "Maritime", // Chnage later please for food 'n stuff, BennieCUBED -DONE!
 		"declaringWar": "Your people are ruining our way of life!",
@@ -593,6 +596,7 @@
 	},
 	{
 		"name": "Bepiri",
+		"VividValean",
 		"adjective": ["Bepiri"],
 		"cityStateType": "Cultured",
 		"declaringWar": "For freedom!",
