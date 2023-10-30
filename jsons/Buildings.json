@@ -357,6 +357,8 @@
 
 	       "requiredTech": "Early Architecture",
 
+		"quote": "'It is quite hard to imagine. That a story of civilisations, their storys, places, wars, lives. that everything about thousands of years would lay in this here room...' -Onzeer II.",
+
 	},
 
         {
@@ -417,6 +419,8 @@
 
 		 "requiredTech": "Education",
 
+		 "quote": "'...Everything you all need to know is in here. NEVER had i ever had to re-educate anyone that comes through these doors...' -Rentice Disce, 13th Principal.",
+
 	 },
 
          {
@@ -453,6 +457,8 @@
 		"cost": 650,
 		
 		"requiredTech": "Sieging",
+
+		"quote": "'...Then give me the strongest materials, dig me the deepest moat, invent me the most deadly of weapons, and bring me the toughest soldiers!' -Lannen Pottesttas.",
 		
 	},
 
@@ -626,6 +632,8 @@
 		"requiredTech": "Architecture",
 
 		"uniques": ["[2] Free Social Policies","[+25]% growth [in this city]"],
+
+		"quote": "'Welcome to the Verß, adjust your sight to the modern architecture and fall in love with the scenic view. We hope you enjoy your stay at the House of Verß.' -Mayor of Verß.",
 
 	},
 
