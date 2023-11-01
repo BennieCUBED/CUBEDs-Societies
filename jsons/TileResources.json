@@ -487,7 +487,6 @@
 		"improvementStats": {"production": 3},
 		"uniques": ["Deposits in [Coast] tiles always provide [4] resources",
 					"Guaranteed with Strategic Balance resource option",
-					"Generated with weight [65] <in [Marsh] tiles> <in tiles without [Hill]>",
 					"Generated with weight [40] <in [Featureless] [Tundra] tiles>",
 					"Generated with weight [60] <in [Featureless] [Snow] tiles>",
 					"Generated with weight [65] <in [Featureless] [Desert] tiles>",
