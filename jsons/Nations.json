@@ -409,8 +409,8 @@
 		"hateHello": "Get them away from me..!",
 
 		"tradeRequest": "Here, lets trade. You could also rest by the water if you're tired.",
-		"outerColor": [13, 145, 117],
-		"innerColor": [10, 207, 164],
+		"outerColor": [10, 116, 93],
+		"innerColor": [59, 216, 182],
 		"uniqueName": "Motu Archipelago",
 		"uniques": ["[+2 Food] from every [Water]","[+2 Gold] from every [Water] <starting from the [Discovery Era]>"],
 		"cities": ["Motunai","Tema","Honu'auene","Ta'naito","Poipoi","Yaminonee","Ou'Hama","Panipae","Noninoni","Ngote'gai","Tee'p'hu"],
@@ -437,7 +437,7 @@
 
 		"tradeRequest": "So uh, are you up for a deal, friend?",
 		"outerColor": [255, 255, 255],
-		"innerColor": [3, 157, 252],
+		"innerColor": [2, 149, 239],
 		"uniqueName": "Conquest of Middle Costi", 
 		"uniques": ["[+25]% Production when constructing [Melee] units [in all cities] <when at war>","[+50]% Golden Age length"],
 		"cities": ["Ennez Middle","Jaklinn","Wannes Town","Torrburg","Ammtun East","Dattner Town","Ammtun North","Comminne","North Village"],
@@ -463,8 +463,8 @@
 		"hateHello": "Are you trying to say something?",
 
 		"tradeRequest": "It seems you have a reason to exist after all...",
-		"outerColor": [252, 65, 3],
-		"innerColor": [122, 81, 43],
+		"outerColor": [252, 103, 53],
+		"innerColor": [97, 64, 34],
 		"uniqueName": "Southern Dominance",
 		"uniques": ["[All] units gain the [Jaguar Pride] promotion","[+3 Production] <for [7] turns> <when at war>"],
 		"cities": ["Noustekim","Zalekek","Telizim","Aleloitiki","Ameklou","Liktou","Fouleizeki","Zili","Melialali","Tilizek"],
