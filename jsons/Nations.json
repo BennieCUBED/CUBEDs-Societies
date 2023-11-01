@@ -112,9 +112,9 @@
                 "tradeRequest": "We would like to trade.",
 
 
-                "outerColor": [186, 165, 108],
+                "outerColor": [192, 174, 122],
 
-                "innerColor": [207, 16, 6],
+                "innerColor": [186, 14, 5],
 
 
                 "uniqueName": "Great Imperial",
@@ -206,9 +206,9 @@
                  "tradeRequest": "Let's trade, you'll like it.",
 
 
-                 "outerColor": [214, 11, 11],
+                 "outerColor": [228, 96, 96],
 
-                 "innerColor": [130, 87, 0],
+                 "innerColor": [0, 255, 0],
 
 
                  "uniqueName": "Creator of Society",
