@@ -95,7 +95,6 @@
 	{
 		"name": "Jaguar Pride",
 		"uniques": ["[+30]% Strength bonus for [All] units within [2] tiles"],
-		"unitTypes": ["Melee","Calvary","Gunpowder","Armored","Anti-Calvary","Ranged","Siege","Ranged Gunpowder","Recon"],
 	},
 		
 
