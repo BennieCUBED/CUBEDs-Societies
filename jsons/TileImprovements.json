@@ -316,6 +316,13 @@
 		"techRequired": "Steel Working",
 		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "P",
-	},	
+	},
+	{
+		"name": "Construction Site",
+		"production": 3,
+		"requiredTech": "Infrastructure",
+		"uniques": ["Pillaging this improvement yields approximately [+40 Gold]"],
+	},
+		
 
 ]
