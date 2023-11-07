@@ -231,6 +231,8 @@
 
 		"preferredVictoryType": "Culture",
 
+		"favoredReligion": "Sahn",
+
 
 		"startIntroPart1": "Alihn Ahn is a nation known for it's instesity of it's riches, and for their love of it, begining on the desert, is where their new story begins",
 
@@ -396,6 +398,7 @@
 		"leaderName": "Ame'nee",
 		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Neutral",
+		"favoredReligion": "Occideninsulaiduimism",
 
 		"startIntroPart1": "The people of Motunai were well known in the Western Archipelago for its many inhabitants living amoung islands, which the tribe owned around one hundred and more islands at its time, with one of the tribes greatest chieftains, Ame'nee",
 		"startIntroPart2": "The people of Motunai yearn for you attention, Ame'nee. Can you build a civilisation that can stand the test of time?",
