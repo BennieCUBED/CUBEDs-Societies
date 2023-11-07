@@ -811,6 +811,12 @@
 				 "prerequisites": ["Locomotives","Electricity"],
 				 "quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves' -Albert Einstein.",
 			 },
+			 {
+				 "name": "Infrastructure",
+				 "row": 10,
+				 "prerequisites": ["Electricity","Dynamite"],
+				 "quote": "'You and I come by road or rail. But economists travel on infrastructure. -Margaret Thatcher.",
+			 },
 		 ]
 },
 ]
