@@ -731,7 +731,7 @@
 		"uniques": ["[+1 Production] from [Pasture] tiles"],
 	},
 	{
-		"name": "Community Counsel",
+		"name": "Community Counsil",
 		"uniqueTo": "Iroztia",
 		"culture": 2,
 		"happiness": 1,
@@ -819,6 +819,16 @@
         "requiredBuilding": "Factory",
         "uniques": ["[-10]% Yield from every [Land]"],
         "requiredTech": "Refining",
+	},
+	{
+		"name": "Fidei Monumenta",
+		"isWonder": true,
+		"faith": 3,
+		"culture": 2,
+		"cost": 650,
+		"requiredTech": "Theology",
+		"uniques": ["Free [Prophet] appears"],
+		"quote": "'A grand monument, erected by only the people who followed their God. They did it, not for their own success, but for the one that looked over them.' -Lemei Manus.",
 	},
 ]
 
