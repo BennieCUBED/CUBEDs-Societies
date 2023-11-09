@@ -251,6 +251,21 @@
                 "row": 1,
                 "column": 5,
 },
+{
+                "name": "Funerals",
+                "uniques": ["[+3 Culture] per [3] population [in all cities]"],
+                "requires": ["Ancestrial Buildings"],
+                "row": 2,
+                "column" 1,
+},
+{
+                "name": "Carnivals",
+                "uniques": ["[+17]% [Gold] <while the empire is happy>","[+20]% [Culture] <while the empire is happy>","[+15]% [Happiness] <while the empire is happy>"],
+                "requires": ["Medieval Faires","Music and Dance"],
+                "row": 2,
+                "column": 3,
+},
+    
     {
                 "name": "Aesthetics Complete",
                 "uniques": [
