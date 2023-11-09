@@ -819,6 +819,22 @@
 			 },
 		 ]
 },
+{
+			 "columnNumber": 11,
+		 "era": "Modern Era",
+          	 "techCost": 600,
+		 "buildingCost": 535,
+		 "wonderCost": 1100,
+		 "techs": [
+			 {
+				 "name": "Water Tight Sealing",
+				 "row": 1,
+				 "prerequisites": ["Mechanics"],
+				 "quote": "'' -.",
+			 
+			 },
+		 ]
+},
 ]
 		
 
