@@ -286,7 +286,7 @@
 		"terriansCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
 		"culture": 1,
 		"techRequired": "Archaeology",
-		"uniques": ["Can be built outside your borders","Unbuildable","Pillaging this improvement yields approximately [+15 Gold]]"],
+		"uniques": ["Can be built outside your borders","Can only be built to improve a resource","Pillaging this improvement yields approximately [+15 Gold]]"],
 	},
 	{
 		"name": "Railroad",
