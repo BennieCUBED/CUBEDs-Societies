@@ -321,7 +321,7 @@
 		"name": "Construction Site",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Snow","Tundra","Desert","Hill"],
 		"production": 3,
-		"requiredTech": "Infrastructure",
+		"techRequired": "Infrastructure",
 		"uniques": ["Pillaging this improvement yields approximately [+40 Gold]"],
 	},
 		
