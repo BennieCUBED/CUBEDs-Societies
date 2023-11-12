@@ -651,6 +651,30 @@
 		"innerColor": [190, 3, 252],
 		"cities": ["Bepiri"],
 	},
+	{
+		"name": "Cazzieka",
+		"style": "North Costi",
+		"adjective": ["Cazzi","Cazziekan"],
+		"cityStateType": "Militaristic",
+		"declaringWar": "Now you have crossed the line, and that line is our borders!",
+		"attacked": "Fool! We will tear you apart!",
+		"defeated": "Defeated?? What a lair! Get outta my sight..!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 9, 9],
+		"cities": ["Cazzieka"],
+	},
+	{
+		"name": "Sanhir",
+		"adjective": ["Sannoman","Sanhirian"],
+		"cityStateType": "Religious",
+		"declaringWar": "God will guide us, and send a fire to burn down your people...",
+		"attacked": "Sanhir, our nations will not fall!",
+		"defeated": "Sanhir has been put to the grave. Leave me alone, I need to pray now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": "[Sanhir"],
+        },
+		
         {
 
 		"name": "Barbarians",
