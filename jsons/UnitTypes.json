@@ -140,6 +140,21 @@
                     "uniques": ["[+50]% Strength <vs [Melee] units>"],
 
           },
+    {
+        "name": "Light Aircraft",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep"]
+    },
+    {
+        "name": "Heavy Aircraft",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+    },
 
 ]
                     
