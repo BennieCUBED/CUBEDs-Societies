@@ -672,7 +672,7 @@
 		"defeated": "Sanhir has been put to the grave. Leave me alone, I need to pray now...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
-		"cities": "[Sanhir"],
+		"cities": ["Sanhir"],
         },
 		
         {
