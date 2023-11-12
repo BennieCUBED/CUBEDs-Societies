@@ -514,4 +514,15 @@
 					"Doesn't generate naturally <in [Hill] tiles>",
 					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
 	},
+	{
+		"name": "Furs",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Tundra"],
+		"gold": 2,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1,"happiness": 1,},
+		"uniques": ["Generated with weight [30] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Forest] Regions>",
+					"Generated near City States with weight [5]"]
+	},
 ]
