@@ -830,5 +830,12 @@
 		"uniques": ["Free [Prophet] appears"],
 		"quote": "'A grand monument, erected by only the people who followed their God. They did it, not for their own success, but for the one that looked over them.' -Lemei Manus.",
 	},
+	{
+		"name": "Water Park",
+		"happiness": 2,
+		"cost": 360,
+		"hurryCostModifier": 70,
+		"requiredTech": "Water Tight Sealing",
+	},
 ]
 
