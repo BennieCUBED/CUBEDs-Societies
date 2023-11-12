@@ -839,6 +839,12 @@
 				 "prerequisites": ["Mechanics","Steel Working"],
 				 "quote": "'' -.",
 			 },
+			 {
+				 "name": "Combustion",
+				 "row": 5,
+				 "prerequisites": ["Mechanics"],
+				 "quote": "'' -.",
+			 },
 		 ]
 },
 ]
