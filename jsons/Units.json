@@ -935,7 +935,7 @@
 		"uniques": ["Can instantly construct a [Archeological Site] improvement <by consuming this unit>","Unbuildable"],
 	},
 	{
-	         "name": "Shieldsman",
+	         "name": "Fortoulen Clubber",
 		 "unitType": "Melee",
 		 "uniqueTo": "Fortoulen",
 		 "replaces": "Swordsman",
