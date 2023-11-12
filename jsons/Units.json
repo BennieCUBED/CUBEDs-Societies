@@ -1034,5 +1034,42 @@
 		"attackSound": "metalhit",
 
 	},
+	{
+		"name": "Submarine",
+		"unitType": "Submarine",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 55,
+		"cost": 410,
+		"requiredTech": "Water Tight Sealing",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo",
+	},
+	{
+		"name": "Triplane",
+		"unitType": "Light Aircraft",
+		"movement": 1,
+		"strength": 35,
+		"rangedStrength": 35,
+		"range": 5,
+		"interceptRange": 5,
+		"cost": 380,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Great War Bomber",
+		"unitType": "Heavy Aircraft",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 6,
+		"cost": 400,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"attackSound": "bombing"
+	},
 		
 ]
