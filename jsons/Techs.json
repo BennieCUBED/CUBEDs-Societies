@@ -833,6 +833,12 @@
 				 "quote": "'' -.",
 			 
 			 },
+			 {
+				 "name": "Flight",
+				 "row": 6,
+				 "prerequisites": ["Mechanics","Steel Working"],
+				 "quote": "'' -.",
+			 },
 		 ]
 },
 ]
