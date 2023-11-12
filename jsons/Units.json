@@ -913,6 +913,8 @@
 		"cost": 370,
 		"hurryCostModifier": 20,
 		"requiredTech": "Military Science",
+		"upgradesTo": "Landship",
+		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee] units>"],
 		"attackSound": "horse",
@@ -1070,6 +1072,17 @@
 		"requiredTech": "Flight",
 		"requiredResource": "Oil",
 		"attackSound": "bombing"
+	},
+	{
+		"name": "Landship",
+		"unitType": "Armoured",
+		"movement": 3,
+		"strength": 85,
+		"cost": 430,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"
 	},
 		
 ]
