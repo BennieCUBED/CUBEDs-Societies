@@ -472,6 +472,33 @@
 		"uniques": ["[All] units gain the [Jaguar Pride] promotion","[+3 Production] <for [7] turns> <when at war>"],
 		"cities": ["Noustekim","Zalekek","Telizim","Aleloitiki","Ameklou","Liktou","Fouleizeki","Zili","Melialali","Tilizek"],
 	},
+	{
+		"name": "Prukaz",
+		"style": "North Costi",
+		"adjective": ["Prukazi","Prukazian"],
+		"leaderName": "Canzil III",
+		"startBias": ["Tundra","Plains"],
+		"preferredVictoryType": "Neutral".
+		"favoredReligion": "Northspiritusism",
+
+		"startIntroPart1": "Prukaz is one of the lesser known civilisations on the Costi Continent, prukaz is a nation that has been defending itself and succedding everytime. Prukaz has potential, and thanks to you, Prukaz may achieve greatness.",
+		"startIntroPart2": "Can you bring Prukazia greatness? Can you create a civilisation that can stand the test of time?",
+
+		"declaringWar": "War could bring Prukaz greatness or collapse, I pray it is not the former...",
+		"attacked": "Your nation has nothing on us, and i mean this by spirit..!",
+		"defeated": "With all this war... It was only a matter of time until we fell to you. Treat us well...",
+		"introduction": "I am Canzil, the third king of Prukazia. Care for lunch?",
+
+		"neutralHello": "Hedga.",
+		"hateHello": "What do you want now..?",
+
+		"tradeRequest": "Let's just respect our relation over some deals, and maybe lunch?",
+		"outerColor": [54, 54, 54],
+		"innerColor": [212, 142, 142],
+		"uniqueName": "Isolation or Prukazia",
+		"uniques": ["[+50]% Strength <for [Melee] units> <when defending>","Gain [20] [Food] <upon declaring friendship>"],
+		"cities": ["Finalssa","Tussika","Polziga","Zandolt","Italli","Dorsk","Atiding","Singatard","Hend River","Parz","River Sazzid"],
+	},
 		
 	{
                 
@@ -491,7 +518,7 @@
                 
 		"innerColor": [255,204,204],
                 
-		"cities": ["A'Arya"]
+		"cities": ["A'Anya"]
                 
 	},
 
