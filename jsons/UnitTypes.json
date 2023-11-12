@@ -155,6 +155,10 @@
         "movementType": "Water",
         "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
     },
+   {
+        "name": "Armoured",
+        "movementType": "Land",
+   },
 
 ]
                     
