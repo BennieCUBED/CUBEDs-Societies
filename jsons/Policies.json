@@ -23,7 +23,7 @@
 {
                 "name": "Organisation",
                 "uniques": ["[+1] Movement <for [Civilian] units>",
-                    "[2+ Gold] [in all cities]",
+                    "[+2 Gold] [in all cities]",
                    "[+25]% Production when constructing [Civilian] units [in all cities]",
                 ],
                 "row": 1,
