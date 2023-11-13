@@ -173,6 +173,10 @@
 		"cost": 70,
 		
 		"requiredTech": "Archery",
+
+		"obsoleteTech": "Mathematics",
+
+		"upgradesTo": "Composite Bowman",
 		
 		"attackSound": "arrow"
 	},
