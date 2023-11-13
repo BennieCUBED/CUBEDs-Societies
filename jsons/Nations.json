@@ -516,7 +516,7 @@
                 
 		"outerColor": [0, 0, 0],
                 
-		"innerColor": [255,204,204],
+		"innerColor": [46, 176, 26],
                 
 		"cities": ["A'Anya"]
                 
@@ -588,7 +588,7 @@
 		"attacked": "No! You cannot do this, what have we ever done to you?",
 		"defeated": "Maybe later, we will have peace through citisenship..?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [214, 114, 6],
+		"innerColor": [46, 176, 26],
 		"cities": ["Albenpal"],
 	},
 	{
@@ -612,7 +612,7 @@
 		"attacked": "So be it! We never wanted you here anyways.",
 		"defeated": "I could say this for everyone: WE DON'T WANT THIS!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [214, 114, 6],
+		"innerColor": [46, 176, 26],
 		"cities": ["Ene'hai'te"],
 	},
 	{
@@ -636,7 +636,7 @@
 		"attacked": "You, and your society will regret this..!",
 		"defeated": "Leave me alone, you've done enough...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [214, 114, 6],
+		"innerColor": [46, 176, 26],
 		"cities": ["Touleki"],
 	},
 	{
