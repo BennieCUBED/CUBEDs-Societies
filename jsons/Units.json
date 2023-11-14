@@ -938,7 +938,7 @@
 		"movement": 4,
 		"cost": 250,
 		"requiredTech": "Archaeology",
-		"uniques": ["Can instantly construct a [Archeological Site] improvement <by consuming this unit>","Unbuildable"],
+		"uniques": [ "Can instantly construct a [Archeological Site] improvement","Unbuildable"],
 	},
 	{
 	         "name": "Fortoulen Clubber",
