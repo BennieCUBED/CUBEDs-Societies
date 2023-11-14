@@ -11,7 +11,7 @@
     {
         "name": "Cultural",
         "victoryScreenHeader": "Complete 5 policy branches and\nbuild the Utopia Project to win!",
-        "milestones": ["Complete [2] Policy branches", "Build [Utopia Project]"],
+        "milestones": ["Complete [3] Policy branches", "Build [Utopia Project]"],
         "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilisation's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many movies and shows. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
@@ -22,13 +22,13 @@
         "milestones": ["Become the world religion"],
         "victoryString": "You founded the One True Faith. Many false gods and religions have been concocted and forgotten, but your people were the Chosen Ones, and have spread the True Word across the globe. The World will long be blessed with your prayers and prophesies!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many religions. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
-    }
-    {
-        "name": "Economic",
-        "victoryScreenHeader": "Reach complete rich-ness",
-        "milestones": ["[+130 Gold"],
-        "victoryString": "The world started not rich, then you cam along to change that and became rich, yes. 'i like money'",
-        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many corporations. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
     },
+  //  {
+       // "name": "Economic",
+       // "victoryScreenHeader": "Reach complete rich-ness",
+       // "milestones": ["[]"],
+       // "victoryString": "The world started not rich, then you cam along to change that and became rich, yes. 'i like money'",
+       //  "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many corporations. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
+ //   },
 
 ]
