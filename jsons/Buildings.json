@@ -837,5 +837,17 @@
 		"hurryCostModifier": 70,
 		"requiredTech": "Water Tight Sealing",
 	},
+	{
+		"name": "Coffee House",
+		"replaces": "Water Mill",
+		"uniqueTo": "Iroztia",
+		"production": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"requiredTech": "Mathematics"
+	},
 ]
 
