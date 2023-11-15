@@ -849,5 +849,15 @@
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"requiredTech": "Mathematics"
 	},
+	{
+		"name": "Floating Stadium",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Motunai",
+		"happiness": 2,
+		"culture": 1,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]"],
+		"requiredTech": "Early Architecture",
+	},
 ]
 
