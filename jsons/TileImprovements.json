@@ -257,8 +257,8 @@
 		"name": "Fort",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 6,
-		"requiredTech": "Basic Sheltering",
-		"uniques": ["Gives a defensive bonus of 25%","Can be built outside your borders"],
+		"requiredTech": "Sieging",
+		"uniques": ["Gives a defensive bonus of 50%","Can be built outside your borders"],
 	},
 	{
 		"name": "Road",
@@ -323,6 +323,17 @@
 		"production": 3,
 		"techRequired": "Infrastructure",
 		"uniques": ["Pillaging this improvement yields approximately [+40 Gold]"],
+	},
+	{
+		"name": "Safe Fort",
+		"uniqueTo": "The Jarrids",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"gold": 2,
+		"production": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Sieging",
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
+		"shortcutKey": "O"
 	},
 		
 
