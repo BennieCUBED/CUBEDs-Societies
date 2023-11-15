@@ -1103,5 +1103,19 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"attackSound": "throw"
 	},
+	{
+		"name": "Eastern Volunteers",
+		"unitType": "Melee",
+		"replaces": "Swordsman",
+		"uniqueTo": "Prukaz",
+		"movement": 3,
+		"strength": 25,
+		"cost": 90,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]"],
+		"attackSound": "metalhit"
+	},
 		
 ]
