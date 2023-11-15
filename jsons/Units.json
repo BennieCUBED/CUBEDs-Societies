@@ -1088,5 +1088,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Melee", // You might expect this to be a siege unit, but apparently it is not
+		"replaces": "Ballista",
+		"uniqueTo": "Noustekim",
+		"movement": 1,
+		"strength": 20,
+		"cost": 75,
+		"requiredTech": "Early Sieging",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Catapult",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units"],
+		"attackSound": "throw"
+	},
 		
 ]
