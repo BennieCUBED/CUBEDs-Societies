@@ -1129,9 +1129,8 @@
 		"cost": 420,
 		"requiredResource": "Oil",
 		"requiredTech": "Steel Working",
-		"promotions": ["Indirect Fire"],
+		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"attackSound": "shipguns"
 		// Does not actually upgrade to Missile Cruisers
 	},
-		
 ]
