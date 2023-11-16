@@ -770,6 +770,8 @@
 
 		"requiredTech": "Square Rigging",
 
+		"upgradesTo": "Battleship",
+
 		"requiredResource": "Niter",
 
 		"attackSound": "cannon",
@@ -1116,6 +1118,20 @@
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 55,
+		"rangedStrength": 50,
+		"range": 3,
+		"cost": 420,
+		"requiredResource": "Oil",
+		"requiredTech": "Steel Working",
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
+		// Does not actually upgrade to Missile Cruisers
 	},
 		
 ]
