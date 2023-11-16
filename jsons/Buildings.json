@@ -859,5 +859,13 @@
 		"uniques": ["Must be next to [Coast]"],
 		"requiredTech": "Early Architecture",
 	},
+	{
+		"name": "Research Lab",
+		"science": 4,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Public School",
+		"maintenance": 3,
+		"requiredTech": "Plastics",
+	},
 ]
 
