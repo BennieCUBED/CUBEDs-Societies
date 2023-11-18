@@ -879,6 +879,10 @@
 		
 		"requiredTech": "Coal Power",
 
+		"obsoleteTech": "Ballistics",
+
+		"upgradesTo": "Machine Gun",
+
 		"attackSound": "machinegun"
 	},
 	{
@@ -1130,7 +1134,19 @@
 		"requiredResource": "Oil",
 		"requiredTech": "Steel Working",
 		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"attackSound": "shipguns"
+		"attackSound": "shipguns",
 		// Does not actually upgrade to Missile Cruisers
+	},
+	{
+		"name": "Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 2,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 80,
+		"cost": 380,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun",
 	},
 ]
