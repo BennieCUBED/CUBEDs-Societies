@@ -1146,7 +1146,6 @@
 		"rangedStrength": 80,
 		"cost": 380,
 		"requiredTech": "Ballistics",
-		"upgradesTo": "Mechanized Infantry",
 		"attackSound": "machinegun",
 	},
 	{
@@ -1156,7 +1155,7 @@
 		"strength": 70,
 		"cost": 385,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+100]% Strength <vs [Armoured] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
 ]
