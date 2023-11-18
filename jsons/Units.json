@@ -1158,4 +1158,12 @@
 		"uniques": ["[+100]% Strength <vs [Armoured] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
+	{
+		"name": "Great Engineer",
+		"unitType": "Civilian",
+		"uniques": ["Can speed up construction of a building",
+            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+		"movement": 2,
+	},
 ]
