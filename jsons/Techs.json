@@ -851,6 +851,12 @@
 				 "prerequisites": ["Radio","Mechanics"],
 				 "quote": "Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate",
 			 },
+			 {
+				 "name": "Ballistics",
+				 "row": 9,
+				 "prerequisites": ["Refining"],
+				 "quote": "'Aim for the moon. If you miss, you may hit a star.' -W. Clement Stone.",
+			 },
 		 ]
 },
 ]
