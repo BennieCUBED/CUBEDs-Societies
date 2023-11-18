@@ -1149,4 +1149,14 @@
 		"upgradesTo": "Mechanized Infantry",
 		"attackSound": "machinegun",
 	},
+	{
+		"name": "Anti-Tank Gun",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 385,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot",
+	},
 ]
