@@ -273,6 +273,24 @@
            },
         ]
     },
+    {
+
+        "name": "Theory",
+        "era": "Discovery Era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 1.5,
+            "Diplomatic": 1.5,
+            "Domination": 1,
+            "Scientific": 4,
+        },
+        "policies": [
+            {
+                "name": "Chemical Reactions",
+                "uniques": [""],
+                "row": 1,
+                "column": 1,
+            }
 ]
                 
 
