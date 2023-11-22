@@ -682,6 +682,10 @@
 
 		 "requiredTech": "Celestial Navigation",
 
+		"obsoleteTech": "Radio",
+
+		"upgradesTo": "Sniper",
+
 		 "cost": 175,
 
 		 "attackSound": "normalhit",
@@ -1194,6 +1198,16 @@
 		"uniques": ["All adjacent units heal [10] HP when healing"],
 		"attackSound": "shot",
 	},
-		
-		
+	{
+		"name": "Sniper",
+		"unitType": "Recon",
+		"range": 2,
+		"movement": 3,
+		"strength": 55,
+		"rangedStrength": 75,
+		"cost": 355,
+		"requiredTech": "Radio",
+		"uniques": [""],
+		"attackSound": "shot",
+	},		
 ]
