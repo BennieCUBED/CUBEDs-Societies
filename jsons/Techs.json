@@ -882,7 +882,7 @@
 				 "name": "Pharmaceuticals",
 				 "row": 3,
 				 "prerequisites": ["Plastics","Water Tight Sealing"],
-				 "quote": "",
+				 "quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero.",
 			 },
 		 ]
 },
