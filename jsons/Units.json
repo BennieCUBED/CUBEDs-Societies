@@ -1207,7 +1207,7 @@
 		"rangedStrength": 75,
 		"cost": 355,
 		"requiredTech": "Radio",
-		"uniques": [""],
+		"uniques": ["Can see over obstacles"],
 		"attackSound": "shot",
 	},		
 ]
