@@ -859,6 +859,34 @@
 			 },
 		 ]
 },
+{
+			 "columnNumber": 12,
+		 "era": "Destruction Era",
+          	 "techCost": 670,
+		 "buildingCost": 665,
+		 "wonderCost": 1300,
+		 "techs": [
+			 {
+				 "name": "Advanced Ballistics",
+				 "row": 9,
+				 "prerequisites": ["Ballistics","Plastics"],
+				 "quote": "'Men, like bullets, go farthest when they are smoothest.' -Jean Paul.",
+			 },
+			 {
+				 "name": "Atomic Theory",
+				 "row": 10,
+				 "prerequisites": ["Plastics"],
+				 "quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' -Albert Einstein.",
+			 },
+			 {
+				 "name": "Pharmaceuticals",
+				 "row": 3,
+				 "prerequisites": ["Plastics","Water Tight Sealing"],
+				 "quote": "",
+			 },
+		 ]
+},
 ]
+			 
 		
 
