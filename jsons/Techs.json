@@ -882,6 +882,7 @@
 				 "name": "Pharmaceuticals",
 				 "row": 3,
 				 "prerequisites": ["Plastics","Water Tight Sealing"],
+				 "uniques": ["[+1 Happiness, +1 Food] from all [Food] buildings"],
 				 "quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero.",
 			 },
 		 ]
