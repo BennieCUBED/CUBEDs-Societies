@@ -364,6 +364,12 @@
 
 		"requiredTech": "Apprenticeship",
 
+		"obsoleteTech": "Sanitation",
+
+		"upgradesTo": "Medic",
+
+		"uniques": [""],
+
 		"attackSound": "normalhit",
 
 	},
@@ -992,6 +998,8 @@
 		"strength": 65,
 		"cost": 375,
 		"requiredTech": "Mechanics",
+		"obsoleteTech": "Advanced Ballistics",
+		"upgradesTo": "Infantry",
 		"uniques": ["[+50]% Strength <vs [Melee] units>"],
 		"attackSound": "shot"
 	},
@@ -1166,4 +1174,26 @@
             "Great Person - [Production]", "Unbuildable", "Uncapturable"],
 		"movement": 2,
 	},
+	{
+		"name": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 85,
+		"cost": 420,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[+50]% Strength <vs [Melee] units>"],
+		"attackSound": "shot",
+	},
+	{
+		"name": "Medic",
+		"unitType": "Support",
+		"movement": 2,
+		"strength": 40,
+		"cost": 340,
+		"requiredTech": "Sanitation",
+		"uniques": [""],
+		"attackSound": "shot",
+	},
+		
+		
 ]
