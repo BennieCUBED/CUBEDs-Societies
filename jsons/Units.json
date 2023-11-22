@@ -368,7 +368,7 @@
 
 		"upgradesTo": "Medic",
 
-		"uniques": [""],
+		"uniques": ["All adjacent units heal [10] HP when healing"],
 
 		"attackSound": "normalhit",
 
@@ -1191,7 +1191,7 @@
 		"strength": 40,
 		"cost": 340,
 		"requiredTech": "Sanitation",
-		"uniques": [""],
+		"uniques": ["All adjacent units heal [10] HP when healing"],
 		"attackSound": "shot",
 	},
 		
