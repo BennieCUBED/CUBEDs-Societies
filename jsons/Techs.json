@@ -885,6 +885,13 @@
 				 "uniques": ["[+1 Happiness, +1 Food] from all [Food] buildings"],
 				 "quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero.",
 			 },
+			 {
+				 "name": "Combined Arms",
+				 "row": 5,
+				 "prerequisites": ["Ballistics","Combustion"],
+				 "uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
+				 "quote": "'Better to fight for something than live for nothing.' -George S. Patton.",
+			 },
 		 ]
 },
 ]
