@@ -1102,6 +1102,8 @@
 		"strength": 85,
 		"cost": 430,
 		"requiredTech": "Combustion",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Tank",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
@@ -1236,22 +1238,35 @@
 	},
 	{
 		"name": "Tank",
-		"unitType": "Armored",
+		"unitType": "Armoured",
 		"movement": 5,
 		"strength": 95,
 		"cost": 500,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
+		"attackSound": "tankshot",
 	},
 	{
 		"name": "Carrier",
 		"unitType": "Aircraft Carrier",
 		"movement": 5,
 		"strength": 40,
-		"cost": 375,
+		"cost": 500,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Cannot attack", "Can carry [2] [Aircraft] units"],
+	},
+	{
+		"name": "Spec Ops",
+		"unitType": "Recon",
+		"range": 2,
+		"movement": 2,
+		"strength": 65,
+		"rangedStrength": 85,
+		"cost": 480,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
 ]
