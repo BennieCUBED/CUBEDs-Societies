@@ -1209,6 +1209,8 @@
 		"rangedStrength": 75,
 		"cost": 355,
 		"requiredTech": "Radio",
+		"obsoleteTech": "Radar",
+		"upgradesTo": "Spec Ops",
 		"uniques": ["Can see over obstacles"],
 		"attackSound": "shot",
 	},
@@ -1265,7 +1267,7 @@
 		"rangedStrength": 85,
 		"cost": 480,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles"],
 		"attackSound": "shot"
 		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
