@@ -892,6 +892,12 @@
 				 "uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
 				 "quote": "'Better to fight for something than live for nothing.' -George S. Patton.",
 			 },
+			{
+				"name": "Radar",
+				"row": 1,
+				"prerequisites": ["Ballistics","Electronics"],
+				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift",
+			},
 		 ]
 },
 ]
