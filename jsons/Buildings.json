@@ -873,5 +873,12 @@
 		"maintenance": 3,
 		"requiredTech": "Plastics",
 	},
+	{
+		"name": "Nuclear Project",
+		"cost": 750,
+		"isNationalWonder": true,
+		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"requiredTech": "Atomic Theory"
+	},
 ]
 
