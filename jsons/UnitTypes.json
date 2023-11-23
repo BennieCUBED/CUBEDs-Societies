@@ -159,6 +159,10 @@
         "name": "Armoured",
         "movementType": "Land",
    },
+	{
+		"name": "Aircraft Carrier",
+		"movementType": "Water",
+	},
 
 ]
                     
