@@ -895,7 +895,7 @@
 			{
 				"name": "Radar",
 				"row": 1,
-				"prerequisites": ["Ballistics","Electronics"],
+				"prerequisites": ["Ballistics","Plastics"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift",
 			},
 		 ]
