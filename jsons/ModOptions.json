@@ -6,10 +6,10 @@
       "isBaseRuleset": true,
 
       "constants": {
-            "cityStrengthBase": 15,
-            "cityStrengthFromTechsMultiplier": 3,
-            "cityStrengthPerPop": 0.3,
-            "policyCostModifier": -0.5,
+            "cityStrengthBase": 20,
+            "cityStrengthFromTechsMultiplier": 5,
+            "cityStrengthPerPop": 3,
+            "policyCostModifier": 3,
             "unitSupplyPerPopulation": 2,
       }
 
