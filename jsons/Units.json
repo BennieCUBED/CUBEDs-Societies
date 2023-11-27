@@ -569,7 +569,7 @@
 		
 		"unitType": "Ranged",
 
-		"range": 1,
+		"range": 2,
 		
 		"movement": 2,
 		
@@ -1283,5 +1283,31 @@
 		"uniqueTo": "Barbarians",
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
+	},
+	{
+		"name": "Skirmisher",
+		"unitType": "Ranged",
+		"range": 2,		
+		"movement": 3,		
+		"strength": 30,		
+		"rangedStrength": 35,		
+		"cost": 230,		
+		"requiredTech": "Machinery",	
+		"uniqueTo": "Barbarians",
+		"attackSound": "arrow",
+		
+	},
+	{
+		"name": "Partisan",		
+		"unitType": "Gunpowder",		
+		"movement": 2,	
+		"strength": 60,		
+		"cost": 325,		
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Mechanics",
+		"uniqueTo": "Barbarians",
+		"uniques": ["[+50]% Strength <vs [Melee] units>"],		
+		"attackSound": "shot",
 	},
 ]
