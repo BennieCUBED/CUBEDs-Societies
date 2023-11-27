@@ -1271,4 +1271,17 @@
 		"attackSound": "shot"
 		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
+	{
+		"name": "Atlatlist",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 80,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Machinery",
+		"uniqueTo": "Barbarians",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow",
+	},
 ]
