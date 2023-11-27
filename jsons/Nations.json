@@ -691,7 +691,7 @@
 		"name": "Test",		
 		"outerColor": [0,0,0],		
                 "innerColor": [0,70,70],		
-		"uniques": ["Can only heal by pillaging"],
+		"uniques": ["Can only heal by pillaging","Cannot build [Settler] units"],
 		
 	},
                 
