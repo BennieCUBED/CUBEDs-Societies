@@ -447,7 +447,7 @@
 	},
 	{
 		"name": "Noustekim",
-		"style": "South Wouleto",
+		"style": "North Wouleto",
 		"adjective": ["Nousteki","Noustekimese"],
 		"leaderName": "Zamitzi",
 		"startBias": ["Jungle","Plains"],
@@ -499,10 +499,38 @@
 		"uniques": ["[+50]% Strength <for [Melee] units> <when defending>","Gain [20] [Food] <upon declaring friendship>"],
 		"cities": ["Finalssa","Tussika","Polziga","Zandolt","Italli","Dorsk","Atiding","Singatard","Hend River","Parz","River Sazzid"],
 	},
+	{
+		"name": "Nordaz",
+		"style": "North Costi",
+		"leaderName": "Frederick the Orsemann",
+		"startBias": ["Tundra","Coast"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Northspiritusism",
+
+		"startIntroPart1": "Nordaz is a kingdom in the north of Costi, with the Axemen that brought fear in the north. During most of the kingdom's lifetime, it was spent raiding nearby villages and gaining riches and power from it. Until the wars against Costazmacia began, where the Nordaz tried and failed to stop the invasion, putting an end to the fear and violence of the north.",
+		"startIntroPart2": "Nordaz may have lived an unfortunate lifespan, but you could change this, for the better of Nordaz. Could you build a civilisation that can stant the test of time?",
+
+		"declaringWar": "To the battlefields! Where this war will earn us victory of the North!",
+		"attacked": "My my, what mistake you have made. We will burn you to the ground..!",
+		"defeated": "Well, i guess we we're too aggressive in the end... My apologies for doing what i had been taught to do...",
+		"introduction": "I am Frederick! Axeman and king of Nordaz; I hope that i dont accidentally attack ya in the future.",
+
+		"neutralHello": "Hey, friend.",
+		"hateHello": "Do you mind? I am trying to get some rest over here, hurry up..!",
+
+		"tradeRequest": "I am sure we can become rich with this deal (trust).",
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Northern Axeman",
+		"uniques": [""],
+		"cities": ["Grezen"],
+	},
 		
 	{
                 
 		"name": "A'Anya",
+
+		"style": "West Island",
                 
 		"adjective": ["Anyan"],
                 
@@ -548,7 +576,7 @@
 
 	        "name": "Toletil",
 
-		"style": "South Wouleto",
+		"style": "North Wouleto",
 
 		"adjective": ["Toletil","Toleti"],
 
@@ -640,16 +668,16 @@
 		"cities": ["Touleki"],
 	},
 	{
-		"name": "Bepiri",
+		"name": "Sapire",
 		"style": "VividValean",
-		"adjective": ["Bepiri"],
+		"adjective": ["Sapire"],
 		"cityStateType": "Cultured",
 		"declaringWar": "For freedom!",
 		"attacked": "We never wanted to resort to violence.",
 		"defeated": "Chained, and entire society just like that...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [190, 3, 252],
-		"cities": ["Bepiri"],
+		"cities": ["Sapire"],
 	},
 	{
 		"name": "Cazzieka",
