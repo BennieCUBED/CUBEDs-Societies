@@ -519,10 +519,10 @@
 		"hateHello": "Do you mind? I am trying to get some rest over here, hurry up..!",
 
 		"tradeRequest": "I am sure we can become rich with this deal (trust).",
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [61, 61, 61],
+		"innerColor": [120, 120, 120],
 		"uniqueName": "Northern Axeman",
-		"uniques": [""],
+		"uniques": ["Gain [70] [Gold] <upon founding a city>","Gain [120] [Gold] <upon conquering a city>"],
 		"cities": ["Grezen"],
 	},
 		
