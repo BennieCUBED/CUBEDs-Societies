@@ -1323,6 +1323,19 @@
 		"uniqueTo": "Nordaz",
 		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>","[+40]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>"],
 		"attackSound": "metalhit",
-
+	},
+	{
+		// "Hovering unit" unique gives ability to get into impassable tiles - and only that (no vision bonus or flying over ocean)
+		// Unit embarks like any other ground unit and has penalty for attacking over river or from embarked state
+		"name": "Attack Helicopter",
+		"unitType": "Anti-Calvary",
+		"movement": 6,
+		"strength": 90,
+		"cost": 580,
+		"requiredTech": "Synthetic Material",
+		"requiredResource": "Aluminium",
+		"uniques": ["[+100]% Strength <vs [Armoured] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control","[+50]% Strength <vs [Land] units> <when defending>","Never appears as a Barbarian unit"],
+		"attackSound": "machinegun",
 	},
 ]
