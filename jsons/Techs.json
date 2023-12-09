@@ -900,6 +900,20 @@
 			},
 		 ]
 },
+{
+		 "columnNumber": 13,
+		 "era": "Destruction Era",
+          	 "techCost": 730,
+		 "buildingCost": 710,
+		 "wonderCost": 1450,
+		 "techs": [
+			 {
+				 "name": "Synthetic Material",
+				 "row": 5,
+				 "prerequisites": ["Pharmaceuticals","Atomic Theory"],
+				 "quote": "'In nothing do men more nearly approach the gods than in giving health to men.' -Cicero.",
+			 },
+	
 ]
 			 
 		
