@@ -702,6 +702,42 @@
 		"innerColor": [255, 255, 255],
 		"cities": ["Sanhir"],
         },
+	{
+		"name": "Northern Village",
+		"startBias": ["Snow"],
+		"adjective": ["Northerner"],
+		"cityStateType": "Productive",
+		"declaringWar": "We must go to war!",
+		"attacked": "All right, we will defend with our lives..!",
+		"defeated": "We shall be lead by you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [214, 114, 6],
+		"cities": ["Northern Village"],
+	},
+	{
+		"name": "Desert Settlement",
+		"startBias": ["Desert"],
+		"adjective": ["Settlers"],
+		"cityStateType": "Religious",
+		"declaringWar": "We must go to war!",
+		"attacked": "All right, we will defend with our lives..!",
+		"defeated": "We shall be lead by you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Desert Settlement"],
+	},
+	{
+		"name": "Forest Town",
+		"startBias": ["Forest"],
+		"cityStateType": "Militaristic",
+		"declaringWar": "We must go to war!",
+		"attacked": "All right, we will defend with our lives..!",
+		"defeated": "We shall be lead by you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 9, 9],
+		"cities": ["Forest Town"],
+	},
+		
 		
         {
 
