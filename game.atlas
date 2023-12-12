@@ -1,0 +1,1623 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bar
+  rotate: false
+  xy: 524, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Camp Site
+  rotate: false
+  xy: 276, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Church
+  rotate: false
+  xy: 796, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Community Counsil
+  rotate: false
+  xy: 932, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Crafting Area
+  rotate: false
+  xy: 1068, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dungeon
+  rotate: false
+  xy: 1068, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Entertainment Area
+  rotate: false
+  xy: 1340, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mediaeval Walls
+  rotate: false
+  xy: 1748, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Printer
+  rotate: false
+  xy: 932, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shipyard
+  rotate: false
+  xy: 1476, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sports Club
+  rotate: false
+  xy: 1884, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stepping Stones to God
+  rotate: false
+  xy: 1770, 339
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Great Museum
+  rotate: false
+  xy: 419, 203
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+BuildingIcons/Trading Market
+  rotate: false
+  xy: 963, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/University of Knowledge
+  rotate: false
+  xy: 818, 203
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Archeological Site
+  rotate: false
+  xy: 524, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fortoulen Lumber Mill
+  rotate: false
+  xy: 1476, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trench Line
+  rotate: false
+  xy: 685, 203
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/Costazmacia
+  rotate: false
+  xy: 1059, 228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Fortoulen
+  rotate: false
+  xy: 1167, 228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Grendale
+  rotate: false
+  xy: 412, 95
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iroztia
+  rotate: false
+  xy: 520, 95
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Motunai
+  rotate: false
+  xy: 1371, 339
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/Nordaz
+  rotate: false
+  xy: 1884, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Noustekim
+  rotate: false
+  xy: 1504, 339
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/Prukaz
+  rotate: false
+  xy: 1637, 339
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Jarrids
+  rotate: false
+  xy: 552, 203
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/VividVale
+  rotate: false
+  xy: 628, 96
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+PolicyIcons/Aesthetics
+  rotate: false
+  xy: 524, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Ancestrial Buildings
+  rotate: false
+  xy: 4, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Basic Trading
+  rotate: false
+  xy: 660, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Better Diplomacy
+  rotate: false
+  xy: 796, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Carnivals
+  rotate: false
+  xy: 660, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Chemical Reactions
+  rotate: false
+  xy: 4, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PolicyIcons/Colonisation
+  rotate: false
+  xy: 932, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Combat Tradition
+  rotate: false
+  xy: 796, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Diplomatic League
+  rotate: false
+  xy: 1068, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Family Tradition
+  rotate: false
+  xy: 1204, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Food Science
+  rotate: false
+  xy: 1340, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Funerals
+  rotate: false
+  xy: 1340, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Geographic Specialisations
+  rotate: false
+  xy: 1476, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Invention
+  rotate: false
+  xy: 1612, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Labour
+  rotate: false
+  xy: 1476, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Laws
+  rotate: false
+  xy: 1275, 278
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Marches
+  rotate: false
+  xy: 1748, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Martial Law
+  rotate: false
+  xy: 1612, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Medieval Faires
+  rotate: false
+  xy: 1884, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Music and Dance
+  rotate: false
+  xy: 1748, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Opinions
+  rotate: false
+  xy: 524, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Organisation
+  rotate: false
+  xy: 4, 496
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+PolicyIcons/Power & Society
+  rotate: false
+  xy: 796, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Rationalism
+  rotate: false
+  xy: 1068, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Shelters
+  rotate: false
+  xy: 1340, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Strategy
+  rotate: false
+  xy: 419, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Survey
+  rotate: false
+  xy: 691, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Survival
+  rotate: false
+  xy: 827, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/Warfare
+  rotate: false
+  xy: 1099, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Aluminium
+  rotate: false
+  xy: 1903, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dogs
+  rotate: false
+  xy: 1204, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Niter
+  rotate: false
+  xy: 1884, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pumpkin
+  rotate: false
+  xy: 4, 216
+  size: 407, 272
+  orig: 407, 272
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Archeological Spot
+  rotate: false
+  xy: 76, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Archeological Spot+Archeological Site
+  rotate: false
+  xy: 116, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Bronze & Iron Era
+  rotate: false
+  xy: 316, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Creation Era
+  rotate: false
+  xy: 356, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Dark Era
+  rotate: false
+  xy: 1333, 296
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Discovery Era
+  rotate: false
+  xy: 1373, 299
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Industrial era
+  rotate: false
+  xy: 1413, 298
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Construction Site
+  rotate: false
+  xy: 1693, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dogs
+  rotate: false
+  xy: 773, 95
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dogs+Camp
+  rotate: false
+  xy: 813, 95
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Niter
+  rotate: false
+  xy: 1133, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantation+Pumpkin
+  rotate: false
+  xy: 396, 23
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pumpkin
+  rotate: false
+  xy: 436, 23
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Safe Fort
+  rotate: false
+  xy: 1253, 151
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1675, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-North Costi
+  rotate: false
+  xy: 733, 167
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-North Wouleto
+  rotate: false
+  xy: 76, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-VividValean
+  rotate: false
+  xy: 1275, 242
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Anti-Tank Gun-West Island
+  rotate: false
+  xy: 733, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archaeologist
+  rotate: false
+  xy: 773, 167
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-North Costi
+  rotate: false
+  xy: 773, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-North Wouleto
+  rotate: false
+  xy: 813, 167
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-South Costi
+  rotate: false
+  xy: 116, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-South Wouleto
+  rotate: false
+  xy: 156, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-VividValean
+  rotate: false
+  xy: 813, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Archer-West Island
+  rotate: false
+  xy: 853, 167
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Attack Dog
+  rotate: false
+  xy: 156, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Attack Helicopter
+  rotate: false
+  xy: 196, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Attack Helicopter-North Costi
+  rotate: false
+  xy: 853, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Attack Helicopter-North Wouleto
+  rotate: false
+  xy: 893, 167
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Attack Helicopter-VividValean
+  rotate: false
+  xy: 196, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Axeman
+  rotate: false
+  xy: 236, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bombard
+  rotate: false
+  xy: 893, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Calvary-North Costi
+  rotate: false
+  xy: 236, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cavalry-South Costi
+  rotate: false
+  xy: 276, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cavalry-VividValean
+  rotate: false
+  xy: 276, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Archer-South Wouleto
+  rotate: false
+  xy: 1453, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-North Costi
+  rotate: false
+  xy: 1493, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-North Wouleto
+  rotate: false
+  xy: 1533, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-South Costi
+  rotate: false
+  xy: 1573, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-VividValean
+  rotate: false
+  xy: 1613, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Composite Bowman-West Island
+  rotate: false
+  xy: 1653, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-North Wouleto
+  rotate: false
+  xy: 1733, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-South Costi
+  rotate: false
+  xy: 1773, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-VividValean
+  rotate: false
+  xy: 1813, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crossbowman-West Island
+  rotate: false
+  xy: 1853, 303
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Deos Homines
+  rotate: false
+  xy: 733, 95
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eastern Volunteers
+  rotate: false
+  xy: 853, 95
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Flame Infantry
+  rotate: false
+  xy: 893, 95
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fortoulen Clubber-North Wouleto
+  rotate: false
+  xy: 316, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-North Costi
+  rotate: false
+  xy: 356, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-North Wouleto
+  rotate: false
+  xy: 1903, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-South Costi
+  rotate: false
+  xy: 1943, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-VividValean
+  rotate: false
+  xy: 951, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gatling Gun-West Island
+  rotate: false
+  xy: 991, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Golden Calvary
+  rotate: false
+  xy: 1031, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Engineer-VividValean
+  rotate: false
+  xy: 1071, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great Musician-VividValean
+  rotate: false
+  xy: 1111, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-North Costi
+  rotate: false
+  xy: 1151, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-North Wouleto
+  rotate: false
+  xy: 1191, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-South Costi
+  rotate: false
+  xy: 1231, 192
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Infantry-VividValean
+  rotate: false
+  xy: 1983, 328
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-North Wouleto
+  rotate: false
+  xy: 1333, 260
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-South Costi
+  rotate: false
+  xy: 1373, 263
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-South Wouleto
+  rotate: false
+  xy: 1413, 262
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-VividValean
+  rotate: false
+  xy: 1453, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Horseman-West Island
+  rotate: false
+  xy: 1493, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-North Costi
+  rotate: false
+  xy: 1533, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-North Wouleto
+  rotate: false
+  xy: 1573, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-South Costi
+  rotate: false
+  xy: 1613, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-VividValean
+  rotate: false
+  xy: 1653, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-North Costi
+  rotate: false
+  xy: 1693, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-North Wouleto
+  rotate: false
+  xy: 1733, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-South Costi
+  rotate: false
+  xy: 1773, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-VividValean
+  rotate: false
+  xy: 1813, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-West Island
+  rotate: false
+  xy: 1853, 267
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lancer-North Costi
+  rotate: false
+  xy: 1893, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lancer-South Costi
+  rotate: false
+  xy: 1933, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lancer-West Island
+  rotate: false
+  xy: 1973, 292
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Landship-North Costi
+  rotate: false
+  xy: 1893, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-North Costi
+  rotate: false
+  xy: 1933, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-North Wouleto
+  rotate: false
+  xy: 1973, 256
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-South Costi
+  rotate: false
+  xy: 933, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-South Wouleto
+  rotate: false
+  xy: 933, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-VividValean
+  rotate: false
+  xy: 973, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman-West Island
+  rotate: false
+  xy: 973, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms
+  rotate: false
+  xy: 1013, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms-North Costi
+  rotate: false
+  xy: 1013, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms-North Wouleto
+  rotate: false
+  xy: 1053, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms-South Costi
+  rotate: false
+  xy: 1053, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms-West Island
+  rotate: false
+  xy: 1093, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mechanized Infantry-VividValean
+  rotate: false
+  xy: 1093, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medic
+  rotate: false
+  xy: 1133, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-North Costi
+  rotate: false
+  xy: 1133, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-North Wouleto
+  rotate: false
+  xy: 1173, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-South Costi
+  rotate: false
+  xy: 1173, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-VividValean
+  rotate: false
+  xy: 1213, 156
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Missionary-West Island
+  rotate: false
+  xy: 1213, 120
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-North Costi
+  rotate: false
+  xy: 933, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-North Wouleto
+  rotate: false
+  xy: 973, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-South Costi
+  rotate: false
+  xy: 1013, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-VividValean
+  rotate: false
+  xy: 1053, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-West Island
+  rotate: false
+  xy: 1093, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Outrigger Island Canoe
+  rotate: false
+  xy: 1173, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Partisan
+  rotate: false
+  xy: 1213, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-North Costi
+  rotate: false
+  xy: 412, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-North Wouleto
+  rotate: false
+  xy: 452, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-South Costi
+  rotate: false
+  xy: 492, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-VividValean
+  rotate: false
+  xy: 532, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pikeman-West Island
+  rotate: false
+  xy: 572, 59
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Barbarians
+  rotate: false
+  xy: 476, 23
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-North Costi
+  rotate: false
+  xy: 516, 23
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-South Costi
+  rotate: false
+  xy: 556, 23
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-VividValean
+  rotate: false
+  xy: 1275, 206
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-West Island
+  rotate: false
+  xy: 1315, 224
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sarissa
+  rotate: false
+  xy: 1253, 115
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-North Costi
+  rotate: false
+  xy: 1253, 78
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-North Wouleto
+  rotate: false
+  xy: 1315, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-South Costi
+  rotate: false
+  xy: 1355, 223
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-South Wouleto
+  rotate: false
+  xy: 1355, 186
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-VividValean
+  rotate: false
+  xy: 1395, 225
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-West Island
+  rotate: false
+  xy: 1395, 188
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sniper
+  rotate: false
+  xy: 1293, 151
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-North Costi
+  rotate: false
+  xy: 1293, 115
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-North Wouleto
+  rotate: false
+  xy: 1293, 79
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-South Costi
+  rotate: false
+  xy: 1435, 226
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-South Wouleto
+  rotate: false
+  xy: 1435, 190
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-West Island
+  rotate: false
+  xy: 1475, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spec Ops
+  rotate: false
+  xy: 1515, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spec Ops2
+  rotate: false
+  xy: 1475, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Striker
+  rotate: false
+  xy: 1555, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Supplier
+  rotate: false
+  xy: 1515, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-North Costi
+  rotate: false
+  xy: 1595, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-North Wouleto
+  rotate: false
+  xy: 1555, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-South Costi
+  rotate: false
+  xy: 1635, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-South Wouleto
+  rotate: false
+  xy: 1595, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-VividValean
+  rotate: false
+  xy: 1675, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-West Island
+  rotate: false
+  xy: 1635, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-North Costi
+  rotate: false
+  xy: 1715, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-North Costi
+  rotate: false
+  xy: 1755, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-North Wouleto
+  rotate: false
+  xy: 1715, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-South Costi
+  rotate: false
+  xy: 1795, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-South Wouleto
+  rotate: false
+  xy: 1755, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-VividValean
+  rotate: false
+  xy: 1835, 231
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-West Island
+  rotate: false
+  xy: 1795, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-North Costi
+  rotate: false
+  xy: 1835, 195
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-North Costi-Industrial Era
+  rotate: false
+  xy: 1875, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-North Wouleto
+  rotate: false
+  xy: 1915, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-North Wouleto-Modern Era
+  rotate: false
+  xy: 1955, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-South Costi
+  rotate: false
+  xy: 1875, 184
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-South Costi-Industrial Era
+  rotate: false
+  xy: 1915, 184
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-South Wouleto
+  rotate: false
+  xy: 1955, 184
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-VividValean
+  rotate: false
+  xy: 1995, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-VividValean-Modern Era
+  rotate: false
+  xy: 1995, 184
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-West Island
+  rotate: false
+  xy: 1333, 150
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-West Island-Destruction Era
+  rotate: false
+  xy: 1333, 114
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-West Island-Modern Era
+  rotate: false
+  xy: 1333, 78
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zeervapen-North Costi
+  rotate: false
+  xy: 1373, 150
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Attack Dog
+  rotate: false
+  xy: 660, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Axeman
+  rotate: false
+  xy: 140, 80
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Bombard
+  rotate: false
+  xy: 951, 228
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Deos Homines
+  rotate: false
+  xy: 932, 608
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Eastern Volunteers
+  rotate: false
+  xy: 1204, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Man-at-Arms
+  rotate: false
+  xy: 1612, 744
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Outrigger Island Canoe
+  rotate: false
+  xy: 660, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarissa
+  rotate: false
+  xy: 1204, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Sniper
+  rotate: false
+  xy: 1612, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Spec Ops
+  rotate: false
+  xy: 1748, 472
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Supplier
+  rotate: false
+  xy: 555, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Zeervapen
+  rotate: false
+  xy: 1235, 336
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
