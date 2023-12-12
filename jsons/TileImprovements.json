@@ -22,7 +22,7 @@
 
 				"name": "Farm",
 		
-		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Jungle"],
 		
 		"food": 1,
 		
@@ -75,6 +75,8 @@
 
 	{
 		"name": "Quarry",
+
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		
 		"turnsToBuild": 8,
 
@@ -87,6 +89,8 @@
 
 	{
 		"name": "Pasture",
+
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
 		
 		"turnsToBuild": 8,
 		
@@ -111,6 +115,8 @@
 
 	{
 		"name": "Plantation",
+
+		"terrainsCanBeBuiltOn": ["Land"],
 		
 		"turnsToBuild": 6,
 		
@@ -125,6 +131,8 @@
 
         {
 		"name": "Camp",
+
+		"terrainsCanBeBuiltOn": ["Land"],
 	
 		"turnsToBuild": 7,
 	
