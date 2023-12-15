@@ -913,6 +913,12 @@
 				 "prerequisites": ["Pharmaceuticals","Atomic Theory"],
 				 "quote": "'In nothing do men more nearly approach the gods than in giving health to men.' -Cicero.",
 			 },
+			 {
+				 "name": "Rocketry",
+				 "row": 9,
+				 "prerequisites": ["Radar","Atomic Theory","Advanced Ballistics"],
+				 "quote": "'' -.",
+			 },
 		 ]
 },
 	
