@@ -30,5 +30,12 @@
        // "victoryString": "The world started not rich, then you cam along to change that and became rich, yes. 'i like money'",
        //  "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many corporations. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
  //   },
+    {
+        "name": "Scientific",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [Satellite]"],
+        "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a brave new world! Your triumph will be remembered as long as the stars burn in the night sky!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by it's many spaceships and inventions. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
 
 ]
