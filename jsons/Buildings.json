@@ -879,8 +879,25 @@
 		"name": "Nuclear Project",
 		"cost": 750,
 		"isNationalWonder": true,
-		"uniques": ["Enables nuclear weapon", "Triggers a global alert upon completion", "Cannot be hurried"],
+		"uniques": ["Triggers a global alert upon completion", "Cannot be hurried"],
 		"requiredTech": "Atomic Theory"
+	},
+	{
+		"name": "Space Program",
+		"cost": 750,
+		"isNationalWonder": true,
+		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+		"requiredTech": "Rocketry"
+	},
+	{
+		"name": "Satellite",
+		"cost": 1500,
+		"isNationalWonder": true,
+		"requiredBuilding": "Space Program",
+		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+		"requiredTech": "Rocketry"
 	},
 ]
 
