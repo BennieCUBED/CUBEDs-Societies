@@ -1351,4 +1351,18 @@
 			"Blast radius [2]", "Consumes [1] [Uranium]"],
 		"attackSound": "nuke"
 	},
+	{
+		"name": "Fighter",
+		"unitType": "Light Aircraft",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 6,
+		"interceptRange": 5,
+		"cost": 690,
+		"requiredTech": "Advanced Flight",
+		"requiredResource": "Oil",
+		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun",
+	},
 ]
