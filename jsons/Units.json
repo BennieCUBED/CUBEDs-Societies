@@ -1338,4 +1338,17 @@
 			"All tiles cost 1 movement", "Ignores Zone of Control","[+50]% Strength <vs [Land] units> <when defending>","Never appears as a Barbarian unit"],
 		"attackSound": "machinegun",
 	},
+	{
+		"name": "Nuclear Bomb",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 400,
+		"rangedStrength": 400,
+		"range": 12,
+		"cost": 1000,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]", "Consumes [1] [Uranium]"],
+		"attackSound": "nuke"
+	},
 ]
