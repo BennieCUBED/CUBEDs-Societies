@@ -1229,7 +1229,7 @@
 		"strength": 90,
 		"cost": 450,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["[+50]% Strength <vs [Melee] units>","No movement cost to pillage"],
+		"uniques": ["[+50]% Strength <vs [Melee] units> <when attacking>","No movement cost to pillage"],
 		"attackSound": "shot",
 	},
 	{
@@ -1241,7 +1241,7 @@
 		"strength": 85,
 		"cost": 450,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["[+50]% Strength <vs [Melee] units>","[+1] Sight <when [Embarked]>", "Defense bonus when embarked","Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["[+50]% Strength <vs [Melee] units> <when attacking>","[+1] Sight <when [Embarked]>", "Defense bonus when embarked","Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
 		"attackSound": "shot",
 	},
 	{
@@ -1313,7 +1313,7 @@
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Mechanics",
 		"uniqueTo": "Barbarians",
-		"uniques": ["[+50]% Strength <vs [Melee] units>"],		
+		"uniques": ["[+50]% Strength <vs [Melee] units> <when attacking>"],		
 		"attackSound": "shot",
 	},
 	{
