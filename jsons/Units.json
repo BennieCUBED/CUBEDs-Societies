@@ -21,7 +21,7 @@
 
 	        "name": "Warrior",
 		 
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 
 		"movement": 2,
 
@@ -40,30 +40,6 @@
 		          {"text": "The basic Warrior, ready to defend spawn from mobs."}
 
 	          ]
-
-	 },
-
-	 {
-
-		 "name": "Stone Warrior",
-
-		 "unitType": "Melee",
-
-		 "movement": 2,
-
-		 "strength": 20,
-
-		 "requiredTech": "Mining",
-
-		 "obsoleteTech": "Bronze Working",
-
-		 "upgradesTo": "Spearman",
-
-		 "requiredResource": "Stone",
-
-		 "cost": 80,
-
-		 "attackSound": "normalhit",
 
 	 },
 	
@@ -85,7 +61,7 @@
 
 		 "name": "Swordsman",
 
-		 "unitType": "Melee",
+		 "unitType": "Melee Combatant",
 
 		 "movement": 2,
 
@@ -184,7 +160,7 @@
 	{
 		"name": "Spearman",
 		
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 		
 		"movement": 2.5,
 		
@@ -231,7 +207,7 @@
 	{
 		"name": "Sarissa",
 		
-		"unitType": "Melee",
+		"unitType": "Anti-Calvary",
 		
 		"movement": 2,
 		
@@ -376,7 +352,7 @@
 		
 		"name": "Longswordsman",
 		
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 		
 		"movement": 2,
 		
@@ -474,7 +450,7 @@
 
 		"name": "Man-at-Arms",
 
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 
 		"movement": 2,
 
@@ -594,7 +570,7 @@
         {
 		"name": "Striker",
 		
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 
 		"uniqueTo": "VividVale",
 
@@ -798,7 +774,7 @@
 
 		"name": "Berserker",
 		
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 		
 		"replaces": "Longswordsman",
 		
@@ -964,7 +940,7 @@
 	},
 	{
 	         "name": "Fortoulen Clubber",
-		 "unitType": "Melee",
+		 "unitType": "Melee Combatant",
 		 "uniqueTo": "Fortoulen",
 		 "replaces": "Swordsman",
 		 "movement": 2,
@@ -1041,7 +1017,7 @@
 	{
 		"name": "Deos Homines",
 
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 
 		"uniqueTo": "The Jarrids",
 
@@ -1116,7 +1092,7 @@
 	},
 	{
 		"name": "Battering Ram",
-		"unitType": "Melee", // You might expect this to be a siege unit, but apparently it is not
+		"unitType": "Melee Combatant", // You might expect this to be a siege unit, but apparently it is not
 		"replaces": "Ballista",
 		"uniqueTo": "Noustekim",
 		"movement": 1,
@@ -1131,7 +1107,7 @@
 	},
 	{
 		"name": "Eastern Volunteers",
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 		"replaces": "Swordsman",
 		"uniqueTo": "Prukaz",
 		"movement": 3,
@@ -1319,7 +1295,7 @@
 	{
 
 		"name": "Axeman",
-		"unitType": "Melee",
+		"unitType": "Melee Combatant",
 		"movement": 2,
 		"strength": 40,
 		"cost": 250,
