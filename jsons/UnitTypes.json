@@ -168,6 +168,15 @@
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
+          {
+
+                    "name": "Melee",
+
+                    "movementType": "Land",
+
+                    "uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"],
+
+          },
 
 ]
                     
