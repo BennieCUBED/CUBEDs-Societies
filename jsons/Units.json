@@ -354,11 +354,9 @@
 
 		"name": "Supplier",
 
-		"unitType": "Support",
+		"unitType": "Civilian",
 
 		"movement": 2,
-
-		"strength": 10,
 
 		"cost": 80,
 
@@ -461,6 +459,10 @@
 		"cost": 235,
 		
 		"requiredTech": "Heavy Plating",
+
+		"obsoleteTech": "Ballistics",
+
+		"upgradesTo": "Anti-Tank Gun",
 		
 		"uniques": ["[+50]% Strength <vs [Calvary] units>"],
 		
@@ -580,6 +582,10 @@
 		"cost": 230,
 		
 		"requiredTech": "Machinery",
+
+		"obsoleteTech": "Coal Power",
+
+		"upgradesTo": "Gatling Gun",
 		
 		"attackSound": "crossbow",
 		
@@ -1192,7 +1198,7 @@
 	},
 	{
 		"name": "Medic",
-		"unitType": "Support",
+		"unitType": "Civilian",
 		"movement": 2,
 		"strength": 40,
 		"cost": 340,
