@@ -1176,10 +1176,9 @@
 		"name": "Medic",
 		"unitType": "Civilian",
 		"movement": 2,
-		"strength": 40,
 		"cost": 340,
 		"requiredTech": "Sanitation",
-		"uniques": ["All adjacent units heal [10] HP when healing"],
+		"uniques": ["All adjacent units heal [20] HP when healing"],
 		"attackSound": "shot",
 	},
 	{
