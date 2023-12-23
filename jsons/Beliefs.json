@@ -121,6 +121,10 @@
                   "uniques": ["[+6 Faith] from all [World Wonder] buildings"],
          },
          {
+                  "name": "Choral Music",
+                  "type": "Follower",
+                  "uniques": ["[+6 Culture] from all [World Wonder] buildings"],
+         {
 
                   "name": "Tithe",
                   
