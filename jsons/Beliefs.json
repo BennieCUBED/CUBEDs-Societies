@@ -162,8 +162,18 @@
                   "name": "Desert Folklore",
                   "type": "Founder",
                   "uniques": ["[+2 Faith] from [Desert] tiles [in all cities]"],
-
+         }
          {
+                  "name": "World Church",
+                  "type": "Founder",
+                  "uniques": ["[+1 Faith, +1 Culture] from every [4] global followers [in foreign cities]"],
+         },
+         {
+                  "name": "Nothing",
+                  "type": "Founder",
+         },
+         {
+                  
                   "name": "Itinerant Preachers",
                   
                   "type": "Enhancer",
