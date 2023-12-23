@@ -109,7 +109,17 @@
                   "uniques": ["May buy [Holy Field's] buildings with [Faith] [in cities following this religion]"],
 
          },
+         {
+                  "name":  "Dance of the Aurora",
+                  "type": "Follower",
+                  "uniques": ["[+2 Faith] from [Tundra] tiles [in all cities]"],
 
+         }
+         {
+                  "name": "Divine Inspiration",
+                  "type": "Follower",
+                  "uniques": ["[+6 Faith] from all [World Wonder] buildings"],
+         },
          {
 
                   "name": "Tithe",
@@ -144,6 +154,10 @@
                   "type": "Founder",
                   "uniques": ["[+30]% [Faith] from every [Camp]"],
          },
+         {
+                  "name": "Desert Folklore",
+                  "type": "Founder",
+                  "uniques": ["[+2 Faith] from [Desert] tiles [in all cities]"],
 
          {
                   "name": "Itinerant Preachers",
