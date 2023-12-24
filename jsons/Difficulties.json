@@ -31,7 +31,67 @@
 		"clearBarbarianCampReward": 33
 
         },
+        {
 
+                "name": "Settler+",
+		"baseHappiness": 20,
+		"extraHappinessPerLuxury": 1,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 10,
+		"unitSupplyPerCity": 4,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 5,
+		"playerBonusStartingUnits": ["Warrior","Worker"],
+		"aiCityGrowthModifier": 1, 
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 3,
+		"aiUnitMaintenanceModifier": 3,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 3,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 10,
+		"clearBarbarianCampReward": 66,
+
+        },
+        {
+		"name": "Warlord",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+		"aiCityGrowthModifier": 0.9, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": 0.9,
+		"aiBuildingCostModifier": 0.9,
+		"aiWonderCostModifier": 0.9,
+		"aiBuildingMaintenanceModifier": 0.9,
+		"aiUnitMaintenanceModifier": 0.9,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.9,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
+
+	},
         {
 
 		"name": "Prince",
@@ -191,6 +251,39 @@
 		"clearBarbarianCampReward": 33
 
 	},
+        {
+
+
+	        "name": "Deity+",
+		"baseHappiness": 5,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
+		"aiCityGrowthModifier": -2, // that is to say it'll take them 1.6 times as long to grow the city
+		"aiUnitCostModifier": -2,
+		"aiBuildingCostModifier": -2.3,
+		"aiWonderCostModifier": -2.3,
+		"aiBuildingMaintenanceModifier": 0.6,
+		"aiUnitMaintenanceModifier": 0.6,
+		"aiUnitSupplyModifier": 0.4,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": ["Warrior","Worker"],
+		"aiCityStateBonusStartingUnits": ["Warrior"],
+		"aiUnhappinessModifier": 0.6,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 22,
+
+	},
+
 
 	{
 		
@@ -223,36 +316,35 @@
 		"clearBarbarianCampReward": 100,
 
 	},
+        {
 
-	{
-
-		"name": "Warlord",
-		"baseHappiness": 10,
-		"extraHappinessPerLuxury": 0,
+		"name": "Happy Prince",
+		"baseHappiness": 20,
+		"extraHappinessPerLuxury": 2,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
 		"unitSupplyPerCity": 2,
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
-		"unhappinessModifier": 1,
+		"unhappinessModifier": -3,
 		"barbarianBonus": 0.4,
 		"barbarianSpawnDelay": 1,
-		"playerBonusStartingUnits": [], // Note that the units from Eras.json are added to this pool. This should only contain bonus starting units.
-		"aiCityGrowthModifier": 0.9, // that is to say it'll take them 1.6 times as long to grow the city
-		"aiUnitCostModifier": 0.9,
-		"aiBuildingCostModifier": 0.9,
-		"aiWonderCostModifier": 0.9,
-		"aiBuildingMaintenanceModifier": 0.9,
-		"aiUnitMaintenanceModifier": 0.9,
-		"aiUnitSupplyModifier": 0.1,
+		"playerBonusStartingUnits": [], 
+		"aiCityGrowthModifier": 0.8, 
+		"aiUnitCostModifier": 0.8,
+		"aiBuildingCostModifier": 0.8,
+		"aiWonderCostModifier": 0.8,
+		"aiBuildingMaintenanceModifier": 0.8,
+		"aiUnitMaintenanceModifier": 0.8,
+		"aiUnitSupplyModifier": 0.2,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 0.9,
+		"aiUnhappinessModifier": -2,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
-		"clearBarbarianCampReward": 33
+		"clearBarbarianCampReward": 33,
 
 	},
 
