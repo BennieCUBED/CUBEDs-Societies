@@ -2,7 +2,7 @@
 
         {
 
-                "name": "Peaceful 'Settler'",
+                "name": "Settler",
 		"baseHappiness": 10,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
