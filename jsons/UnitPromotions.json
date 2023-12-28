@@ -97,12 +97,34 @@
 		"uniques": ["[+30]% Strength bonus for [All] units within [2] tiles"],
 	},
 	{
-		"name": "Efficient Equipment",
-		"uniques": [""],
-		"unitTypes": [""],
+		"name": "Efficient Equipment I",
+		"uniques": ["[+10]% Strength"],
+		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
 		"column": 1,
 		"row": 4,
 	},
+	{
+		"name": "Efficient Equipment II",
+		"uniques": ["[+10]% Strength"],
+		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
+		"column": 2,
+		"row": 4,
+	},
+	{
+		"name": "Training I",
+		"uniques": ["[3] XP gained from combat"],
+		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
+		"column": 1,
+		"row": 5,
+	},
+	{
+		"name": "Training II",
+		"uniques": ["[3] XP gained from combat"],
+		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
+		"column": 2,
+		"row": 5,
+	},
+
 		
 
 ]
