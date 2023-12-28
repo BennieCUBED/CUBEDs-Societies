@@ -901,9 +901,20 @@
 	},
 	{
 		"name": "Recycling Center",
-		"maintenance": 3,
+		"cost": 320,
+		"maintenance": 2,
 		"requiredTech": "Ecology",
 		"uniques": ["Provides [1] [Aluminium]","Limited to [12] per Civilization"]
+	},
+	{
+		"name": "Solar Plant",
+		"production": 5,
+		"happiness": 1,
+		"cost": 400,
+		"percentStatBonus": {"production": 15},
+		"requiredBuilding": "Factory",
+		"maintenance": 2,
+		"requiredTech": "Ecology",
 	},
 ]
 
