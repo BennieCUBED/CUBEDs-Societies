@@ -96,6 +96,13 @@
 		"name": "Jaguar Pride",
 		"uniques": ["[+30]% Strength bonus for [All] units within [2] tiles"],
 	},
+	{
+		"name": "Efficient Equipment",
+		"uniques": [""],
+		"unitTypes": [""],
+		"column": 1,
+		"row": 4,
+	},
 		
 
 ]
