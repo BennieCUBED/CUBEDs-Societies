@@ -899,5 +899,11 @@
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Rocketry"
 	},
+	{
+		"name": "Recycling Center",
+		"maintenance": 3,
+		"requiredTech": "Ecology",
+		"uniques": ["Provides [1] [Aluminium]","Limited to [12] per Civilization"]
+	},
 ]
 
