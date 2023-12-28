@@ -198,7 +198,7 @@
                  "introduction": "Hey! It's cold outside, how about you come inside and talk about your people to me.",
                 
 
-                 "neutralHello": "Good morning",
+                 "neutralHello": "Good morning.",
 
                  "hateHello": "Huh? What now?"
 
@@ -234,9 +234,9 @@
 		"favoredReligion": "Sahn",
 
 
-		"startIntroPart1": "Alihn Ahn is a nation known for it's instesity of it's riches, and for their love of it, begining on the desert, is where their new story begins",
+		"startIntroPart1": "Alihn Ahn is a nation known for it's intensity of riches, and for their love of it, begining on the desert, is where their new story begins",
 
-		"startIntroPart2": "Will you leade Alihn Ahn to riches, Can you build a civilisation that can stand against the test of time?",
+		"startIntroPart2": "Will you lead Alihn Ahn to riches, Can you build a civilisation that can stand against the test of time?",
 		
 
 		"declaringWar": "I've had enough of looking at your poor cities!",
@@ -245,7 +245,7 @@
 
 		"defeated": "Hmm! What now? want to laugh as you bring everything away..?",
 
-		"introduction": "Oh hello!, Have you come to my shining cities for guidance?",
+		"introduction": "Oh hello! Have you come to my shining cities for guidance?",
 
 
 		"neutralHello": "Good Morning!",
@@ -295,14 +295,14 @@
 
 		"attacked": "We are not strangers to war, you have failed to think. Now we shall turn your men around...",
 
-		"defeated": "I should have known to leave you alone, and now, i'm an alone wanderer.",
+		"defeated": "I should have known to leave you alone. And now, i'm an alone wanderer.",
 
 		"introduction": "Hello Wanderer! We come from far and wide to greet you to our society, for we are Fortoulen!",
 
 
 		"neutralHello": "Welcome...",
 
-		"hateHello": "we are listening...",
+		"hateHello": "We are listening...",
 
 
 		"tradeRequest": "We want to know about you, friend, for we are a keen society.",
@@ -341,9 +341,9 @@
 
 		"attacked": "Grendale will not surrender to you, no matter how hard you try!",
 
-		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten",
+		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten.",
 
-		"introduction": "Hello and welcome to Grendale! And I am Edmerl, President of this cultured nation",
+		"introduction": "Hello and welcome to Grendale! And I am Edmerl, President of this cultured nation!",
 
 
 		"neutralHello": "Welcome!",
