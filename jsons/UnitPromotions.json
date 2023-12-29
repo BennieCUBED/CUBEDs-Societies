@@ -115,7 +115,7 @@
 		"name": "Training I",
 		"uniques": ["[3] XP gained from combat"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 8,
+		"column": 9,
 		"row": 1,
 	},
 	{
@@ -123,7 +123,7 @@
 		"prerequisites": ["Training I"],
 		"uniques": ["[3] XP gained from combat"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 8,
+		"column": 9,
 		"row": 2,
 	},
 
