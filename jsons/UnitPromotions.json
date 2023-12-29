@@ -100,7 +100,7 @@
 		"name": "Efficient Equipment I",
 		"uniques": ["[+10]% Strength"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 6,
+		"column": 7,
 		"row": 1,
 	},
 	{
@@ -108,14 +108,14 @@
 		"prerequisites": ["Efficient Equipment I"],
 		"uniques": ["[+10]% Strength"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 6,
+		"column": 7,
 		"row": 2,
 	},
 	{
 		"name": "Training I",
 		"uniques": ["[3] XP gained from combat"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 7,
+		"column": 8,
 		"row": 1,
 	},
 	{
@@ -123,7 +123,7 @@
 		"prerequisites": ["Training I"],
 		"uniques": ["[3] XP gained from combat"],
 		"unitTypes": ["Melee Combatant","Ranged","Calvary","Gunpowder","Armoured","Anti-Calvary"],
-		"column": 7,
+		"column": 8,
 		"row": 2,
 	},
 
