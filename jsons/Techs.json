@@ -895,7 +895,7 @@
 			{
 				"name": "Radar",
 				"row": 1,
-				"prerequisites": ["Ballistics","Plastics"],
+			        "prerequisites": ["Ballistics","Plastics"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift",
 			},
 		 ]
@@ -935,6 +935,7 @@
 				 "name": "Television",
 				 "row": 8,
 				 "prerequisites": ["Radar"],
+				 "uniques": ["+1 Culture] per [4] population [in all cities"]
 				 "quote": "'' -.",
 			 },		 
 		 ]
