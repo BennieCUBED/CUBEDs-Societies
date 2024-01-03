@@ -931,6 +931,12 @@
 				 "prerequisites": ["Pharmaceuticals"],
 				 "quote": "'It is our future on the line, and we must atleast have a say in it.' -Greta Thunberg.",
 			 },
+			 {
+				 "name": "Television",
+				 "row": 8,
+				 "prerequisites": ["Radar"],
+				 "quote": "'' -.",
+			 },		 
 		 ]
 },
 	
