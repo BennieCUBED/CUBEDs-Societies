@@ -727,7 +727,7 @@
 		"uniques": ["[+3 Food] in cities on [Coastal] tiles"],
 	},
 	{
-		"name": "Campsite",
+		"name": "Camp Site",
 		"uniqueTo": "VividVale",
 		"replaces": "Entertainment Area",
 		"food": 2,
@@ -916,5 +916,17 @@
 		"maintenance": 2,
 		"requiredTech": "Ecology",
 	},
+	{
+		"name": "Cinema",
+		"happiness": 2,
+		"cost": 388,
+                "requiredBuilding": "Theatre",
+		"requiredTech": "Television",
+	},
+	{
+		"name": "
+
+
+
 ]
 
