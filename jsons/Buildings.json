@@ -921,6 +921,7 @@
 		"happiness": 2,
 		"cost": 388,
                 "requiredBuilding": "Theatre",
+		"uniques": ["[+1 Happiness, +2 Culture] <if [Film Studio] is constructed>"],
 		"requiredTech": "Television",
 	},
 	{
