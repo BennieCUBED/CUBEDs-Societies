@@ -924,9 +924,11 @@
 		"requiredTech": "Television",
 	},
 	{
-		"name": "
-
-
-
+		"name": "Film Studio",
+		"culture": 4,
+                "cost": 440,
+		"requiredBuilding": "Radio Station",
+		"requiredTech": "Television",
+	},
 ]
 
