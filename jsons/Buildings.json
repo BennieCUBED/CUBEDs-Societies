@@ -932,5 +932,12 @@
 		"uniques": ["[+2 Gold, +3 Culture] <during a Golden Age>"],
 		"requiredTech": "Television",
 	},
+	{
+		"name": "Museum",
+		"culture": 3,
+		"science": 1,
+		"cost": 200,
+		"requiredTech": "Construction",
+	},
 ]
 
