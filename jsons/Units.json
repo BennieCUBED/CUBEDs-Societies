@@ -1346,4 +1346,13 @@
 		"uniques": ["[50]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun",
 	},
+	{
+		"name": "Great Artist",
+		"unitType": "Civilian",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
 ]
