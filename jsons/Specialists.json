@@ -17,4 +17,10 @@
 		"greatPersonPoints": {"Great Engineer": 3},
 		"color": [139,69,19],
 	},
+	{
+		"name":"Artist",
+		"culture": 2,
+		"greatPersonPoints": {"Great Artist":3},
+		"color": [160,32,240]
+	},
   ]
