@@ -541,4 +541,15 @@
 		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Silk",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Jungle"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [30] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Hill] tiles>"],
+	},
 ]
