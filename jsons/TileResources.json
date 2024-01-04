@@ -552,4 +552,17 @@
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Hill] tiles>"],
 	},
+	{
+		"name": "Citrus",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Flood plains"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [35] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Desert] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Tundra] tiles>"]
+	},
 ]
