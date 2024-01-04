@@ -336,6 +336,8 @@
 		"maintenance": 2,
 		
 		"cost": 160,
+
+		"greatPersonPoints": {"Great Artist": 1"},
 		
 		"uniques": ["Destroyed when the city is captured"],
 
@@ -619,6 +621,8 @@
 
 		"cost": 310,
 
+		"greatPersonPoints": {"Great Artist": 1},
+
 		"requiredBuilding": "Circus",
 
 		"requiredTech": "Printing Press",
@@ -797,6 +801,7 @@
 		"happiness": 2,
 		"food": 1,
 		"cost": 280,
+		"greatPersonPoints": {"Great Artist": 1},
 		"hurryCostModifier": 50,
 		"requiredTech": "Printing Press",
 	},
@@ -805,6 +810,7 @@
 		"culture": 2,
 		"happiness": 1,
 		"cost": 330,
+		"greatPersonPoints": {"Great Artist": 2},
 		"hurryCostModifier": 60,
 		"requiredTech": "Radio",
 	},
@@ -863,6 +869,7 @@
 		"uniqueTo": "Motunai",
 		"happiness": 2,
 		"culture": 1,
+		"greatPersonPoints": {"Great Artist": 1},
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]"],
 		"requiredTech": "Early Architecture",
