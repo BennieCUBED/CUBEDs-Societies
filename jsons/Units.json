@@ -93,24 +93,6 @@
 		"uniques": ["May create improvements on water resources", "Uncapturable"], 
 		
 	},
-
-        {
-
-		"name": "Helper",
-		 
-		"unitType": "Civilian",
-
-		"uniqueTo": "Stampys Lovley World",
-
-		"replaces": "Worker",
-		 
-		"movement": 2,
-		 
-		"uniques": ["Can build [Land] improvements on tiles"],
-		 
-		"cost": 40,
-	
-	 },
 	
 	 {
 		"name": "Boat",
