@@ -108,7 +108,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["[+50]% Strength <vs [Melee] units>"],
+                    "uniques": ["[+50]% Strength <vs [Melee Combatant] units>"],
 
           },
           
