@@ -577,11 +577,11 @@
 
 		                "food": 1,
 
-		                "improvement": "Pasture",
+		                "improvement": "Camp",
 
 		                "improvementStats": {"food": 1, "production": 1},
 
-		                "uniques": ["Generated on every [12] tiles <in [Featureless] [Grassland] tiles>","Generated on every [6] tiles <in [Featureless] [Forest] tiles>","Generated on every [4] tiles <in [Featureless] [Hill] tiles>","Generated on every [18] tiles <in [Featureless] [Plains] tiles>"],
+		                "uniques": ["Generated on every [7] tiles <in [Featureless] [Grassland] tiles>","Generated on every [3] tiles <in [Featureless] [Forest] tiles>","Generated on every [2] tiles <in [Featureless] [Hill] tiles>","Generated on every [13] tiles <in [Featureless] [Plains] tiles>","Generated with weight [5] <in [Desert] Regions>","Doesn't generate naturally <in [Tundra] tiles>""],
 
 	},
 ]
