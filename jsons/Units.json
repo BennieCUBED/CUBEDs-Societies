@@ -918,7 +918,7 @@
 		"movement": 4,
 		"cost": 250,
 		"requiredTech": "Archaeology",
-		"uniques": [ "Can instantly construct a [Archeological Site] improvement","Unbuildable"],
+		"uniques": ["Can instantly construct a [Archeological Site] improvement","Unbuildable"],
 	},
 	{
 	         "name": "Fortoulen Clubber",
@@ -1017,7 +1017,7 @@
 
 		"upgradesTo": "Musketman",
 
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>","Can Spread Religion"],
+		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"],
 
 		"attackSound": "metalhit",
 
@@ -1230,9 +1230,8 @@
 		"rangedStrength": 85,
 		"cost": 480,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles","No Movement Cost to Pillage"],
 		"attackSound": "shot"
-		// upgradesTo "XCOM Squad", "No Movement Cost to Pillage" in BNW
 	},
 	{
 		"name": "Atlatlist",
