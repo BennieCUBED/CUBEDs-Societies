@@ -165,7 +165,7 @@
 {
 
         "name": "Strategy",
-        "uniques": ["[+15]% Strength <for [Melee] units> <in [Land] tiles>"],
+        "uniques": ["[+15]% Strength <for [Melee] units> <in [Land] tiles>","[+25]% Strength <for [Melee] units> <when attacking> <in [Land] tiles>"],
         "row": 1,
         "column": 3,
 
