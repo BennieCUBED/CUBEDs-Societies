@@ -382,6 +382,13 @@
         "column": 6,
     },
     {
+        "name": "Democracy",
+        "uniques": [""],
+        "requires": ["Tax Reforms","Capitalism","Free Speech","Equality"],
+        "row": 3,
+        "column": 4,
+    },
+    {
         "name": "Liberalism Complete",
         "uniques": [
         ]
