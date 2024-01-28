@@ -336,4 +336,10 @@
             },
     "policies": [
     {
+        "name": "Economic Union",
+        "uniques": [""],
+        "row": 1,
+        "column": 1,
+    },
+    {
         "name": "
