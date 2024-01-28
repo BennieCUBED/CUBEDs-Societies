@@ -355,14 +355,14 @@
     },
     {
         "name": "Tax Reforms",
-        "uniques": [""],
+        "uniques": ["[+25]% [Gold]"],
         "requires": ["Economic Union"],
         "row": 2,
         "column": 1,
     },
     {
         "name": "Capitalism",
-        "uniques": [""],
+        "uniques": ["[+1 Gold] per [3] population [in all cities]"],
         "requires": ["Economic Union"],
         "row": 2,
         "column": 3,
