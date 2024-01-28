@@ -324,4 +324,16 @@
            },
         ]
     },
-]   
+    {
+        "name": "Liberalism",
+        "era": "Modern Era",
+        "priorities": [
+            "Neutral": 1,
+            "Cultural": 3.5,
+            "Diplomatic": 3.5,
+            "Domination": 1,
+            "Scientific": 3,
+            },
+    "policies": [
+    {
+        "name": "
