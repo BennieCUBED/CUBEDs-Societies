@@ -343,7 +343,7 @@
     },
     {
         "name": "Constitution",
-        "uniques": [""],
+        "uniques": ["[+3 Culture] from every [Wonder]"],
         "row": 1,
         "column": 3,
     },
@@ -369,7 +369,7 @@
     },
     {
         "name": "Free Speech",
-        "uniques": [""],
+        "uniques": ["[8] units cost no maintenance"],
         "requires": ["Constitution"],
         "row": 2,
         "column": 5,
