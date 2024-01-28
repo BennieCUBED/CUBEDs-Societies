@@ -349,7 +349,7 @@
     },
     {
         "name": "Voting Rights",
-        "uniques": [""],
+        "uniques": ["[+1 Culture, +1 Happiness] per [4] population [in all cities]"],
         "row": 1,
         "column": 6,
     },
