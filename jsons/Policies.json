@@ -383,7 +383,7 @@
     },
     {
         "name": "Democracy",
-        "uniques": [""],
+        "uniques": ["Free Great Person","[1] Free Social Policies","Triggers the following global alert: [civName] has chosen Democracy]"],
         "requires": ["Tax Reforms","Capitalism","Free Speech","Equality"],
         "row": 3,
         "column": 4,
