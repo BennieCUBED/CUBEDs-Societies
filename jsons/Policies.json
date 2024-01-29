@@ -441,7 +441,7 @@
             },
             {
                 "name": "International Community",
-                "uniques": [""],
+                "uniques": ["[+1 Happiness, +1 Science, +2 Culture] per [3] population [in all cities]"],
                 "requires": ["Workers Rights"],
                 "row": 2,
                 "column": 6,
