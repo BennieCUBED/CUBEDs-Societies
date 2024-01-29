@@ -379,7 +379,7 @@
         "uniques": ["[+1 Happiness, +1 Production, +2 Culture] per [3] population [in all cities]"],
         "requires": ["Voting Rights"],
         "row": 2,
-        "column": 6,
+        "column": 7,
     },
     {
         "name": "Democracy",
@@ -440,7 +440,25 @@
                 "column": 4,
             },
             {
-                "name": 
-                
-                
+                "name": "International Community",
+                "uniques": [""],
+                "requires": ["Workers Rights"],
+                "row": 2,
+                "column": 6,
+            },
+            {
+                "name": "Communism",
+                "uniques": [""],
+                "requires": ["Collectivisation","Defense of the Motherland","International Community"],
+                "row": 3,
+                "column": 4,
+            },
+            {
+                "name": "Socialism Complete",
+                "uniques": [
+                ]
+           },
+        ]
+    },
+],            
     
