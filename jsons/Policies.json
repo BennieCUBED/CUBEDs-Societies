@@ -434,7 +434,7 @@
             },
             {
                 "name": "Defense of the Motherland",
-                "uniques": [""],
+                "uniques": ["[+8 Production] <for [8] turns> <when at war>"],
                 "requires": ["United Front"],
                 "row": 2,
                 "column": 4,
