@@ -332,7 +332,7 @@
             "Cultural": 3.5,
             "Diplomatic": 3.5,
             "Domination": 1,
-            "Scientific": 3,
+            "Scientific": 2.5,
             },
     "policies": [
     {
@@ -383,7 +383,7 @@
     },
     {
         "name": "Democracy",
-        "uniques": ["Free Great Person","[1] Free Social Policies","Triggers the following global alert: [civName] has chosen Democracy]"],
+        "uniques": ["Free Great Person","[2] Free Social Policies"],
         "requires": ["Tax Reforms","Capitalism","Free Speech","Equality"],
         "row": 3,
         "column": 4,
@@ -395,5 +395,18 @@
     },
     ]
     },
-]
+    {
+        "name": "Socialism",
+        "era": "Modern Era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 2,
+            "Diplomatic": 2.5,
+            "Domination": 1.5,
+            "Scientific": 4,
+        },
+        "policies": [
+            {
+                "name": "
+    
     
