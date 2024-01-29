@@ -426,5 +426,14 @@
                 "column": 6,
             },
             {
+                "name": "Collectivisation",
+                "uniques": [""],
+                "requires": ["Five-Year Plan"]
+                "row": 2,
+                "column": 1,
+            },
+            {
+                
+                
                 
     
