@@ -334,6 +334,7 @@
             "Domination": 1,
             "Scientific": 2.5,
             },
+        "uniques": ["Only available <before adopting [Socialism]>"],
     "policies": [
     {
         "name": "Economic Union",
@@ -405,6 +406,7 @@
             "Domination": 1.5,
             "Scientific": 4,
         },
+        "uniques": ["Only available <before adopting [Liberalism]>"],
         "policies": [
             {
                 "name": "Five-Year Plan",
