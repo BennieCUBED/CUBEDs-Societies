@@ -427,7 +427,7 @@
             },
             {
                 "name": "Collectivisation",
-                "uniques": [""],
+                "uniques": ["[+3 Food, +2 Production] from each Trade Route"],
                 "requires": ["Five-Year Plan"]
                 "row": 2,
                 "column": 1,
