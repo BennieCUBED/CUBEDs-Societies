@@ -433,7 +433,14 @@
                 "column": 1,
             },
             {
-                
+                "name": "Defense of the Motherland",
+                "uniques": [""],
+                "requires": ["United Front"],
+                "row": 2,
+                "column": 4,
+            },
+            {
+                "name": 
                 
                 
     
