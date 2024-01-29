@@ -448,7 +448,7 @@
             },
             {
                 "name": "Communism",
-                "uniques": [""],
+                "uniques": ["[+3 Production, +3 Science] [in all cities]","[-10]% maintenance cost for buildings [in all cities]"],
                 "requires": ["Collectivisation","Defense of the Motherland","International Community"],
                 "row": 3,
                 "column": 4,
