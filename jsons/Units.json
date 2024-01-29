@@ -1230,7 +1230,7 @@
 		"rangedStrength": 85,
 		"cost": 480,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles","No Movement Cost to Pillage"],
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles","No movement cost to pillage"],
 		"attackSound": "shot"
 	},
 	{
