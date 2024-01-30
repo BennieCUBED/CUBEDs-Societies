@@ -695,7 +695,7 @@
 
 		 "prerequisites": ["Metallurgy😭","Chemistry"],
 
-		 "quote": "'' -.",
+		 "quote": "'Never criticize a rifleman until you have walked a mile in his shoes. That way, he'll be barefoot and you'll be out of range.' -The 2nd Target Company.",
 
 	 },
 
@@ -721,6 +721,8 @@
 		 "row": 2,
 		 "prerequisites": ["Chemistry","Economics"],
 		 "uniques": ["[+2 Food] from every [Farm]"],
+                 "quote": "'' -.",
+
 	 },
 	 {
 		 "name": "Military Science",
@@ -803,7 +805,7 @@
 				 "name": "Steel Working",
 				 "row": 3,
 				 "prerequisites": ["Electricity","Locomotives"],
-				 "quote": "'' -.",
+				 "quote": "'Don't judge someone until you've stood at his forge and worked with his hammer.' -Unknown.",
 			 },
 			 {
 				 "name": "Refining",
@@ -843,7 +845,7 @@
 				 "name": "Combustion",
 				 "row": 5,
 				 "prerequisites": ["Mechanics"],
-				 "quote": "'' -.",
+				 "quote": "'I have always considered that the substitution of the internal combustion engine for the horse marked a very gloomy milestone in the progress of mankind.' -Winston Churchill.",
 			 },
 			 {
 				 "name": "Plastics",
