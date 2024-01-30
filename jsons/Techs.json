@@ -517,7 +517,7 @@
 
 		"uniques": ["Enables [Embarked] units to enter ocean tiles"],
 
-		"quote": "'' -.",
+		"quote": "'If your actions inspire others to dream more, learn more, do more and become more, you are a cartographer.' -John Quincy Adams.",
 
 	},
 
@@ -571,7 +571,7 @@
 
 		 "uniques": ["[+1 Gold, +1 Science] from all [Library] buildings"],
 
-		 "quote": "'' -.",
+		 "quote": "'The pen might not be mightier than the sword, but maybe the printing press is heavier than the siege weapon. Just a few words can change everything.' -Terry Pratchett.",
 
 	 },
 
@@ -603,7 +603,7 @@
 	 
                 "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
 
-		"quote": "'' -.",
+		"quote": "'Create with the heart; build with the mind.' -Criss Jami.",
 
 	},
 
