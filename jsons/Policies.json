@@ -8,6 +8,7 @@
             "Diplomatic": 2,
             "Domination": 3,
             "Scientific": 2,
+            "Religious": 2,
         },
         "policies": [
     {
@@ -79,8 +80,9 @@
             "Neutral": 1,
             "Cultural": 2,
             "Diplomatic": 3,
-            "Domination": 2,
+            "Domination": 2.5,
             "Scientific": 2,
+            "Religious": 2.5,
         },
         "policies": [
 
@@ -150,6 +152,7 @@
             "Diplomatic": 0.5,
             "Domination": 5,
             "Scientific": 1,
+            "Religious": 2,
         },
         "policies": [
 
@@ -231,6 +234,7 @@
             "Diplomatic": 2,
             "Domination": 1,
             "Scientific": 2,
+            "Religious": 3,
         },
         "policies": [
             {
@@ -282,7 +286,8 @@
             "Cultural": 1.5,
             "Diplomatic": 1.5,
             "Domination": 1,
-            "Scientific": 4,
+            "Scientific": 5,
+            "Religious": 0.5,
         },
         "policies": [
             {
@@ -333,6 +338,7 @@
             "Diplomatic": 3.5,
             "Domination": 1,
             "Scientific": 2.5,
+            "Religious": 2.5,
             },
         "uniques": ["Only available <before adopting [Socialism]>"],
     "policies": [
@@ -405,6 +411,7 @@
             "Diplomatic": 2.5,
             "Domination": 1.5,
             "Scientific": 4,
+            "Religious": 3,
         },
         "uniques": ["Only available <before adopting [Liberalism]>"],
         "policies": [
