@@ -721,7 +721,7 @@
 		 "row": 2,
 		 "prerequisites": ["Chemistry","Economics"],
 		 "uniques": ["[+2 Food] from every [Farm]"],
-                 "quote": "'' -.",
+                 "quote": "'I wish I had more hair on my head. Maybe if I sprinkled fertilizer on it, it would grow.' -Kylie Bax.",
 
 	 },
 	 {
@@ -734,6 +734,7 @@
 		 "name": "Archaeology",
 		 "row": 1,
 		 "prerequisites": ["Square Rigging"],
+		 "quote": "'As anyone who has watched Time Team will know, the context is all in archaeology.' -Tony Robinson.",
 	 },
 
 		 ]
