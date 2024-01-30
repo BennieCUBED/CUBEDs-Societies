@@ -137,7 +137,7 @@
 
                  "startBias": ["Grassland","Coast"],
 
-                 "preferredVictoryType": "Science",
+                 "preferredVictoryType": "Cultural",
 
 		 "favoredReligion": "CUBEism",
 
@@ -242,7 +242,7 @@
 		
                 "startBias": ["Desert","Flood plains"],
 
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
 		"favoredReligion": "Sahn",
 
@@ -294,7 +294,7 @@
 
 		"startBias": ["Jungle","Forest"],
 
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
 		"favoredReligion": "Wouleto Mythology",
 
@@ -340,7 +340,7 @@
 
 		"startBias": ["Grassland","Plains"],
 
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
 		"favoredReligion": "CUBEism",
 
@@ -383,7 +383,7 @@
 		"adjective": ["Irozti"],
 		"leaderName": "Ozten the Great",
 		"startBias": ["Grassland","Avoid [Desert]"],
-		"preferredVictoryType": "Science",
+		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Iroztia, located in South Costi is a large developed monarchy known for its peaceful approach to conflict, as long as Iroztia has many peaceful neighbours, Iroztia will rise for power.",
