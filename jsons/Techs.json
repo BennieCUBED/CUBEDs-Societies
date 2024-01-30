@@ -305,7 +305,7 @@
 
 				"uniques": ["[+20]% Strength <vs cities> <for [All] units>"],
 
-				"quote": "'' -",
+				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon'",
 
 			},
 
@@ -317,7 +317,7 @@
 
 				"prerequisites": ["Sailing","Construction"],
 
-				"quote": "'' -",
+				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats'.",
 
 			},
 
@@ -329,7 +329,7 @@
 
 				"prerequisites": ["Construction","Bronze Working"],
 
-				"quote": "'' -",
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe'.",
 
 			},
 
