@@ -373,7 +373,7 @@
 
 			       "uniques": ["[+2 Production] from all [Production] buildings"],
 
-			       "quote": "'' -",
+			       "quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy' -",
 
 			},
 
@@ -387,7 +387,7 @@
 
 				"uniques": ["Enables Defensive Pacts"],
 
-				"quote": "'' -",
+				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib'.",
 
 			},
 			
@@ -459,7 +459,7 @@
 
 		"prerequisites": ["Early Sieging","Apprenticeship"],
 
-		"quote": "'' -.",
+		"quote": "'Measure what is measurable, and make measurable what is not so.' - Galileo Galilei'.",
 
 	},
 
