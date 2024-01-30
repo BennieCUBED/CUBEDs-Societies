@@ -129,7 +129,7 @@
 
 				"prerequisites": ["Hunting"]
 
-				"quote": "'' -.",
+				"quote": "'Thou shalt not muzzle the ox when he treadeth out the corn.' - Bible Deuteronomy'.",
 
 			},
 
@@ -279,7 +279,7 @@
 
 				"prerequisites": ["Trading","Bronze Working"],
 
-				"quote": "'' -",
+				"quote": "'Better is bread with a happy heart than wealth with vexation.' - Amenemope'.",
 
 			},
 
@@ -291,7 +291,7 @@
 
 				"prerequisites": ["Horse Riding","Archery"],
 
-				"quote": "'' -",
+				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci'.",
 
 			},
 
