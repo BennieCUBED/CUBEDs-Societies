@@ -833,14 +833,14 @@
 				 "name": "Water Tight Sealing",
 				 "row": 1,
 				 "prerequisites": ["Mechanics"],
-				 "quote": "'' -.",
+				 "quote": "'Nothing is softer or more flexible than water, yet nothing can resist it.' -Lao Tzu.",
 			 
 			 },
 			 {
 				 "name": "Flight",
 				 "row": 6,
 				 "prerequisites": ["Mechanics","Steel Working"],
-				 "quote": "'' -.",
+				 "quote": "'The most amazing lesson in aerodynamics I ever had was the day I climbed a thermal in a glider at the same time as an eagle. I witnessed, close up, effortlessness and lightness combined with strength, precision and determination.' -Norman Foster.",
 			 },
 			 {
 				 "name": "Combustion",
