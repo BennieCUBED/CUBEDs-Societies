@@ -5,4 +5,12 @@
         "choices": [
           {
             "name": "Yes, this would be great for our nation...",
-            "
+            "triggeredUniques": [""],
+          }
+          {
+              "name": "No, television shouldn't be used for propaganda.",
+              "triggeredUniques": [""],
+          },
+        ]
+      },
+]
