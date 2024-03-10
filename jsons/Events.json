@@ -12,4 +12,18 @@
           },
         ]
       },
+      {
+            "name": "A Place to Live",
+            "text": "After the discovery of Fishing, your people are divided on if we should start living by the rivers, or the coastline...",
+            "choices": [
+                  {
+                        "name": "We should live by the Rivers..!",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "name": "We should live by the Coast..!",
+                        "triggeredUniques": [""],
+                  },
+            ]
+      },
 ]
