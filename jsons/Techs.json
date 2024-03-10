@@ -93,6 +93,8 @@
 
 				"prerequisites": ["Fish Catching","Wood Cutting"],
 
+				"uniques": ["Triggers a [A Place to Live] event"],
+
 				"quote": "'Many men go fishing all their lives without knowing that it is not fish they are after' -Henry David Thoreau.",
 
 			},
