@@ -5,7 +5,7 @@
         "choices": [
           {
             "name": "Yes, this would be great for our nation...",
-            "triggeredUniques": [""],
+            "triggeredUniques": ["[+15]% unhappiness from the number of cities","[+15]% growth [in all cities]"],
           }
           {
               "name": "No, television shouldn't be used for propaganda.",
