@@ -18,11 +18,11 @@
             "choices": [
                   {
                         "name": "We should live by the Rivers..!",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[+1 Food, +2 Production] in cities on [Fresh Water] tiles"],
                   },
                   {
                         "name": "We should live by the Coast..!",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[+1 Food, +2 Gold] in cities on [Coastal] tiles"],
                   },
             ]
       },
