@@ -4,11 +4,11 @@
         "text": "After some discussion, some of your council members have came up with an idea of placing propaganda into television to increase loyalty in our nation."
         "choices": [
           {
-            "name": "Yes, this would be great for our nation...",
+            "text": "Yes, this would be great for our nation...",
             "triggeredUniques": ["[+15]% unhappiness from the number of cities","[+15]% growth [in all cities]","[+15]% [Culture]","[+10]% [Production]"],
           }
           {
-              "name": "No, television shouldn't be used for propaganda.",
+              "text": "No, television shouldn't be used for propaganda.",
           },
         ]
       },
@@ -17,11 +17,11 @@
             "text": "After the discovery of Fishing, your people are divided on if we should start living by the rivers, or the coastline...",
             "choices": [
                   {
-                        "name": "We should live by the Rivers..!",
+                        "text": "We should live by the Rivers..!",
                         "triggeredUniques": ["[+1 Food, +2 Production] in cities on [Fresh Water] tiles"],
                   },
                   {
-                        "name": "We should live by the Coast..!",
+                        "text": "We should live by the Coast..!",
                         "triggeredUniques": ["[+1 Food, +2 Gold] in cities on [Coastal] tiles"],
                   },
             ]
