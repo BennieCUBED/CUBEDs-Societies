@@ -934,7 +934,7 @@
 		"culture": 4,
                 "cost": 440,
 		"requiredBuilding": "Radio Station",
-		"uniques": ["[+2 Gold, +3 Culture] <during a Golden Age>","Triggers a [Television Propaganda] event <in [in capital] cities>"],
+		"uniques": ["[+2 Gold, +3 Culture] <during a Golden Age>"],
 		"requiredTech": "Television",
 	},
 	{
