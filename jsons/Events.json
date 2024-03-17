@@ -37,7 +37,7 @@
                   },
                   {
                         "text": "The earth is collapsing, we need to reduce our taking of resources from the earth...",
-                        "triggeredUniques": ["[-2 Production] per every [10] [Production]"],
+                        "triggeredUniques": ["[-3 Production] per every [30] [Faith]"],
                   },
             ]
       },
