@@ -4,7 +4,7 @@
 
                  "name": "Creation Era",
         "researchAgreementCost": 150,
-        "startingSettlerCount": 1, // Gotta delete the message so no-one realises that i stole code from Historica
+        "startingSettlerCount": 0, // Gotta delete the message so no-one realises that i stole code from Historica
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
         "startingMilitaryUnit": "Warrior",
