@@ -9,7 +9,7 @@
 			{
 				"name": "Dreamtime",
 				"row": 6,
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"quote": "'Take only memories, leave only footprints.' - First-nations Australia",
 				"uniques": ["Starting tech"]
 			}
 		]
@@ -45,8 +45,6 @@
 				"row": 3,
 
 				"quote": "'Nothing can beat wheat, i guess...' -Me",
-
-				"uniques": ["Starting tech"],
 
 			},
 
