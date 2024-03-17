@@ -41,4 +41,19 @@
                   },
             ]
       },
+      {
+            "name": "High Populous",
+            "text": "Now that our population is growing quickly, you've come up with ideas on what to do with them...",
+            "choices": [
+                  {
+                        "text": "Some of our Populous are willing to sell themselves as slaves to leave poverty, maybe they could be useful.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "They might make good sacrifices for our society...",
+                        "triggeredUniques": [""],
+                  },
+            ]
+      },
+                        
 ]
