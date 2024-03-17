@@ -27,4 +27,18 @@
                   },
             ]
       },
+      {
+            "name": "First Earthquake",
+            "text": "The earth shook today, cracking multiple structures. with everyone terrified and confused of what happened, you come up with two ideas.",
+            "choices": [
+                  {
+                        "text": "It's a warning from the Gods, we must find a way to calm them...",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "The earth is collapsing, we need to reduce our taking of resources from the earth...",
+                        "triggeredUniques": [""],
+                  },
+            ]
+      },
 ]
