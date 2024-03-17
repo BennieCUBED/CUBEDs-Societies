@@ -168,6 +168,10 @@
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air"
+    },
 
 ]
                     
