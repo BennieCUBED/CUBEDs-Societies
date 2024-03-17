@@ -1,8 +1,24 @@
 [
+	{
+		"columnNumber": 0,
+		"era": "Creation Era",
+		"techCost": 40,
+		"buildingCost": 40,
+		"wonderCost": 999,
+		"techs": [
+			{
+				"name": "Dreamtime",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
 	
-         {
+         
 
-                  "columnNumber": 0,
+                  "columnNumber": 1,
            
 		"era": "Creation Era",
            
@@ -61,7 +77,7 @@
 	 {
 
 				
-		"columnNumber": 1,
+		"columnNumber": 2,
 		 
 		"era": "Creation Era",
 		 
@@ -152,7 +168,7 @@
 	 {
 
 		 
-		"columnNumber": 2,
+		"columnNumber": 3,
 		 
 		"era": "Bronze & Iron Era",
 		 
@@ -247,7 +263,7 @@
 
          {
 		 
-		"columnNumber": 3,
+		"columnNumber": 4,
 		 
 		"era": "Bronze & Iron Era",
 		 
@@ -339,7 +355,7 @@
 
 	 {
 
-	        "columnNumber": 4,
+	        "columnNumber": 5,
 		 
 		"era": "Dark Era",
 		 
@@ -411,7 +427,7 @@
 
          {
 
-		 "columnNumber": 5,
+		 "columnNumber": 6,
 
 		 "era": "Dark Era",
 
@@ -495,7 +511,7 @@
 
          {
 
-		 "columnNumber": 6,
+		 "columnNumber": 7,
 
 		 "era": "Discovery Era",
 
@@ -581,7 +597,7 @@
 
          {
 
-		 "columnNumber": 7,
+		 "columnNumber": 8,
 
 		 "era": "Discovery Era",
 	
@@ -663,7 +679,7 @@
 
          {
 
-		 "columnNumber": 8,
+		 "columnNumber": 9,
 
 		 "era": "Industrial Era",
 	
@@ -742,7 +758,7 @@
 	 },
 
 {
-		 "columnNumber": 9,
+		 "columnNumber": 10,
 		 "era": "Industrial Era",
           	 "techCost": 480,
 		 "buildingCost": 375,
@@ -783,7 +799,7 @@
 		 ]
 },
 {
-		 "columnNumber": 10,
+		 "columnNumber": 11,
 		 "era": "Modern Era",
           	 "techCost": 550,
 		 "buildingCost": 440,
@@ -823,7 +839,7 @@
 		 ]
 },
 {
-			 "columnNumber": 11,
+			 "columnNumber": 12,
 		 "era": "Modern Era",
           	 "techCost": 600,
 		 "buildingCost": 535,
@@ -863,7 +879,7 @@
 		 ]
 },
 {
-			 "columnNumber": 12,
+			 "columnNumber": 13,
 		 "era": "Destruction Era",
           	 "techCost": 670,
 		 "buildingCost": 665,
@@ -904,7 +920,7 @@
 		 ]
 },
 {
-		 "columnNumber": 13,
+		 "columnNumber": 14,
 		 "era": "Destruction Era",
           	 "techCost": 730,
 		 "buildingCost": 710,
