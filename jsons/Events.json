@@ -33,11 +33,11 @@
             "choices": [
                   {
                         "text": "It's a warning from the Gods, we must find a way to calm them...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[+2 Faith] per [3] population [in all cities]"],
                   },
                   {
                         "text": "The earth is collapsing, we need to reduce our taking of resources from the earth...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[-2 Production] per every [10] [Production]"],
                   },
             ]
       },
