@@ -1309,8 +1309,8 @@
 		"range": 12,
 		"cost": 1000,
 		"requiredTech": "Rocketry",
-		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Nuclear Project] is constructed>",
-			"Blast radius [2]", "Consumes [1] [Uranium]"],
+		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Nuclear Project] is constructed>",
+			"Blast radius [4]", "Consumes [1] [Uranium]"],
 		"attackSound": "nuke"
 	},
 	{
