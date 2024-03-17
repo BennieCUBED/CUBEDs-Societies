@@ -47,11 +47,15 @@
             "choices": [
                   {
                         "text": "Some of our Populous are willing to sell themselves as slaves to leave poverty, maybe they could be useful.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Free [Worker] appears"],
                   },
                   {
                         "text": "They might make good sacrifices for our society...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [50] [Faith]","[-2] population in a random city"],
+                  },
+                  {
+                        "text": "If we don't want them here, take them somewhere elsewhere!",
+                        "triggeredUniques": ["[-2] population in a random city","Adopt [Colonisation]"],
                   },
             ]
       },
