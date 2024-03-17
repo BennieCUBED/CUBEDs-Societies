@@ -286,5 +286,28 @@
 		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains"],
 		"defenceBonus": -0.50
 	},
+	{
+		"name": "Oasis",
+		"type": "TerrainFeature",
+		"food": 3,
+		"gold": 1,
+		"movementCost": 1,
+		"unbuildable": true,
+		"defenceBonus": -0.1,
+		"occursOn": ["Desert"],
+		"uniques": ["Fresh water", "Rare feature",
+					"Only [All Road] improvements may be built on this tile",
+					"Always Fertility [4] for Map Generation",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+        "civilopediaText": [
+            {"text": "Oases provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Lakes)."},
+            {"text": "Rivers", "link":"Terrain/River"},
+            {"text": "Lakes", "link":"Terrain/Lakes"},
+            {"text": "Farm", "link":"Improvement/Farm"},
+            {"text": "Civil Service", "link":"Technology/Civil Service"},
+            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
+        ]
+	},
 
 ]
