@@ -65,15 +65,15 @@
             "choices": [
                   {
                         "text": "We have done much wrong, and now God created this disease for punishment, we need to punish ourselves for redemption..!",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[-4] population in a random city"],
                   },
                   {
                         "text": "We need to learn about this 'Blight' more closely, new ways of treatment may help...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[-3] population in a random city"],
                   },
                   {
                         "text": "Our number of sacrifices are pathetic... We need more for better protection of the Gods.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["[-6] population in a random city"],
                         "conditions": ["<before founding a Pantheon>"],
                   },
             ]
