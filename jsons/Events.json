@@ -98,15 +98,15 @@
             "choices": [
                   {
                         "text": "We have declared this friendship for the increase of wealth between us.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [50]-[100] [Gold]"],
                   },
                   {
                         "text": "We have done this for the enknowledgment of our two cultures.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [35] [Culture]"],
                   },
                   {
                         "text": "We have decleared this friendship for the productivity of us both..!",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [20]-[50] [Production]"],
                   },
             ]
       },
