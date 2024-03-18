@@ -88,7 +88,7 @@
                   },
                   {
                         "text": "No, Abolishing slavery would be devastating to our production, we shouldn't...",
-                        "triggeredUniques": ["Gain [50] [Production]"],
+                        "triggeredUniques": ["Gain [50] [Production]","Free [Worker] appears"],
                   },
             ]
       },
