@@ -92,5 +92,23 @@
                   },
             ]
       },
+      {
+            "name": "First Friendship",
+            "text": "After a declaration of friendship between our two civilisations, we are unsure of what we want to gain out of it...",
+            "choices": [
+                  {
+                        "text": "We have declared this friendship for the increase of wealth between us.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "We have done this for the enknowledgment of our two cultures.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "We have decleared this friendship for the productivity of us both..!",
+                        "triggeredUniques": [""],
+                  },
+            ]
+      },
                         
 ]
