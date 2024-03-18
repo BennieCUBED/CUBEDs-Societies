@@ -84,11 +84,11 @@
             "choices": [
                   {
                         "text": "The Abolishon of slavery would be a great way to influence the world to our freedom.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Empire enters golden age","Gain [-50] [Production]"],
                   },
                   {
                         "text": "No, Abolishing slavery would be devastating to our production, we shouldn't...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [50] [Production]"],
                   },
             ]
       },
