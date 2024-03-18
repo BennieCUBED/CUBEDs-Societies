@@ -74,7 +74,7 @@
                   {
                         "text": "Our number of sacrifices are pathetic... We need more for better protection of the Gods.",
                         "triggeredUniques": [""],
-                        "conditions": [""],
+                        "conditions": ["<before founding a Pantheon>"],
                   },
             ]
       },
