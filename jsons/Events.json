@@ -78,5 +78,19 @@
                   },
             ]
       },
+      {
+            "name": "Abolishing Slavery",
+            "text": "Now that freedom is becoming a more important topic, some people have thought of the idea of abolishing slavery to make all men free!",
+            "choices": [
+                  {
+                        "text": "The Abolishon of slavery would be a great way to influence the world to our freedom.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "No, Abolishing slavery would be devastating to our production, we shouldn't...",
+                        "triggeredUniques": [""],
+                  },
+            ]
+      },
                         
 ]
