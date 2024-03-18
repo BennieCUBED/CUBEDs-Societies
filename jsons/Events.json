@@ -59,5 +59,24 @@
                   },
             ]
       },
+      {
+            "name": "Blight",
+            "text": "A new disease named 'The Blight' has ravaged our population. Even though that the disease is new and small at the moment, civilians are terrified of what may come of it.",
+            "choices": [
+                  {
+                        "text": "We have done much wrong, and now God created this diseases punishment, we need to punish ourselves for redemption..!",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "We need to learn about this 'Blight' more closely, new ways of treatment may help...",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "Our number of sacrifices are pathetic... We need more for better protection of the Gods.",
+                        "triggeredUniques": [""],
+                        "conditions": [""],
+                  },
+            ]
+      },
                         
 ]
