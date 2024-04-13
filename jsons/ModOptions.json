@@ -4,6 +4,9 @@
       
 
       "isBaseRuleset": true,
+      "Can trade civilization introductions for [175] Gold": true,
+      "Allow raze capital": true,
+      "Allow raze holy city": true,
 
       "constants": {
             "cityStrengthBase": 20,
