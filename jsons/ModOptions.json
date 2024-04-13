@@ -11,9 +11,10 @@
             "cityStrengthPerPop": 1,
             "policyCostModifier": -3,
             "unitSupplyPerPopulation": 2,
-            "can trade civilization introductions for [175] Gold": true,
-            "allow raze capital": true,
-            "allow raze holy city": true,
+            "can trade civilization introductions for [175] Gold",
+            "allow raze capital",
+            "allow raze holy city",
+
       }
 
       }
