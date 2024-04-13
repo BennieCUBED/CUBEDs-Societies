@@ -207,11 +207,11 @@
 
         {
 
-		"name": "Fortoulen Lumber Mill",
+		"name": "Fortoulen Lumber mill",
 
 		"uniqueTo": "Fortoulen"
 
-		"replaces": "Lumber Mill",
+		"replaces": "Lumber mill",
 
                 "terrainsCanBeBuiltOn": ["Jungle","Forest"],
 
