@@ -4,9 +4,6 @@
       
 
       "isBaseRuleset": true,
-      "can trade civilization introductions for [175] Gold": true,
-      "allow raze capital": true,
-      "allow raze holy city": true,
 
       "constants": {
             "cityStrengthBase": 20,
@@ -14,6 +11,9 @@
             "cityStrengthPerPop": 1,
             "policyCostModifier": -3,
             "unitSupplyPerPopulation": 2,
+            "can trade civilization introductions for [175] Gold": true,
+            "allow raze capital": true,
+            "allow raze holy city": true,
       }
 
       }
