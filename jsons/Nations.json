@@ -346,6 +346,7 @@
 		"startBias": ["Grassland","Plains"],
 
 		"preferredVictoryType": "Cultural",
+		"personality": "Edmerl",
 
 		"favoredReligion": "CUBEism",
 
@@ -359,7 +360,7 @@
 
 		"attacked": "Grendale will not surrender to you, no matter how hard you try!",
 
-		"defeated": "All i wanted to do was bring Grendale strength, now Grendale will be forgotten.",
+		"defeated": "All I wanted to do was bring Grendale strength, now Grendale will be forgotten.",
 
 		"introduction": "Hello and welcome to Grendale! And I am Edmerl, President of this cultured nation!",
 
@@ -389,6 +390,8 @@
 		"leaderName": "Ozten the Great",
 		"startBias": ["Grassland","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
+                "personality": "Ozten",
+
 		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Iroztia, located in South Costi is a large developed monarchy known for its peaceful approach to conflict, as long as Iroztia has many peaceful neighbours, Iroztia will rise for power.",
