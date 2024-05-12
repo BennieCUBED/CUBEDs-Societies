@@ -1,1 +1,24 @@
+[
+       {
+"name": "BennieCUBED",
+"preferredVictoryType": "Scientific",
+"culture": 6,
+"faith": 1,
+"food": 3,
+"gold": 4,
+"happiness": 5,
+"production": 8,
+"science": 7,
+"military": 5,
+"priorities": {
+"Tradition": 20,
+"Liberty": 30,
+"Commerce": 20,
+"Rationalism": 30,
+"Freedom": 30,
+"Order": 20,
+},
+"warMongering": 3,
+"uniques": ["Will not build [Nuclear Project]","Will not build [World Wonder]"],
+
 
