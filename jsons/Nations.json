@@ -139,6 +139,8 @@
 
                  "preferredVictoryType": "Cultural",
 
+		 "personality": "BennieCUBED",
+
 		 "favoredReligion": "CUBEism",
 
 
@@ -185,6 +187,7 @@
                  "startBias": ["Tundra","Forest"],
 
                  "preferredVictoryType": "Domination",
+		 "personality": "Onzeer",
 
 		 "favoredReligion": "Northspiritusism",
 
@@ -243,6 +246,7 @@
                 "startBias": ["Desert","Flood plains"],
 
 		"preferredVictoryType": "Religious",
+		"personality": "Nhalo",
 
 		"favoredReligion": "Sahn",
 
@@ -295,6 +299,7 @@
 		"startBias": ["Jungle","Forest"],
 
 		"preferredVictoryType": "Cultural",
+		"personality": "Loneltili",
 
 		"favoredReligion": "Wouleto Mythology",
 
