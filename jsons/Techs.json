@@ -957,6 +957,21 @@
 			 },		 
 		 ]
 },
+{
+		 "columnNumber": 15,
+		 "era": "Final Era",
+          	 "techCost": 900,
+		 "buildingCost": 800,
+		 "wonderCost": 1850,
+		 "techs": [
+			 {
+				 "name": "Near Future Weapons",
+				 "row": 9,
+				 "prerequisites": "Rocketry",
+				 "quote": "Uh oh...",
+			 },
+		 ]
+},
 	
 ]
 			 
