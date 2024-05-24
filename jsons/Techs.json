@@ -7,7 +7,7 @@
 		"wonderCost": 999,
 		"techs": [
 			{
-				"name": "Dreamtime",
+				"name": "Creation",
 				"row": 6,
 				"quote": "'Take only memories, leave only footprints.' - First-nations Australia",
 				"uniques": ["Starting tech"]
@@ -967,7 +967,7 @@
 			 {
 				 "name": "Near Future Weapons",
 				 "row": 9,
-				 "prerequisites": "Rocketry",
+				 "prerequisites": ["Rocketry"],
 				 "quote": "Uh oh...",
 			 },
 		 ]
