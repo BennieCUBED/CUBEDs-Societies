@@ -50,7 +50,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["[+50]% Strength <vs [Melee] units> <when attacking>"],
+                    "uniques": ["[+50]% Strength <vs [Melee Combatant] units> <when attacking>"],
 
           },
 
@@ -59,7 +59,7 @@
                     
                  "movementType": "Land",
                     
-                 "uniques": ["[+50]% Strength <vs [Melee] units>"],                
+                 "uniques": ["[+50]% Strength <vs [Melee Combatant] units>"],                
 
           },
           
@@ -137,7 +137,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["[+50]% Strength <vs [Melee] units>"],
+                    "uniques": ["[+50]% Strength <vs [All] units> <when defending>"],
 
           },
     {
@@ -148,7 +148,7 @@
     {
         "name": "Heavy Aircraft",
         "movementType": "Air",
-        "uniques": ["Aircraft"]
+        "uniques": ["Aircraft","[+2] Sight"]
     },
     {
         "name": "Submarine",
