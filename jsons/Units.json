@@ -75,6 +75,8 @@
 
 		 "requiredResource": "Copper",
 
+		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
+
 		 "cost": 120,
 
 	 },
@@ -136,7 +138,7 @@
 
 		"upgradesTo": "Composite Bowman",
 		
-		"attackSound": "arrow"
+		"attackSound": "arrow",
 	},
 
 	{
@@ -155,8 +157,6 @@
 		"obsoleteTech": "Heavy Plating",
 
 		"upgradesTo": "Longswordsman",
-
-		"requiredResource": "Copper",
 		
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 	
