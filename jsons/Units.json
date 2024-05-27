@@ -37,7 +37,7 @@
 
 	  "civilopediaText": [
 
-		          {"text": "The basic Warrior, ready to defend spawn from mobs."}
+		          {"text": "The basic Warrior, ready to defend town from enemies."}
 
 	          ]
 
@@ -65,7 +65,7 @@
 
 		 "movement": 2,
 
-		 "strength": 25,
+		 "strength": 28,
 
 		 "requiredTech": "Bronze Working",
 
@@ -74,9 +74,7 @@
 		 "upgradesTo": "Longswordsman",
 
 		 "requiredResource": "Copper",
-
-		"uniques": ["[+50]% Strength <vs [Anti-Calvary] units>"],
-
+		 
 		 "cost": 120,
 
 	 },
@@ -204,8 +202,6 @@
 		"upgradesTo": "Pikeman",
 
 		"requiredResource": "Copper",
-		
-		"uniques": ["[+50]% Strength <vs [Calvary] units>"],
 	
 		"attackSound": "metalhit"
 	},
@@ -229,7 +225,7 @@
 		
 		"requiredResource": "Horses",
 	
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee Combatant] units>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		
 		"hurryCostModifier": 20,
 		
@@ -278,7 +274,7 @@
 
 		"upgradesTo": "Catapult",
 		
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight"],
 		
 		"hurryCostModifier": 30,
@@ -349,8 +345,6 @@
 		"obsoleteTech": "Heavy Plating",
 
 		"upgradesTo": "Man-at-Arms",
-
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"],
 		
 		"attackSound": "metalhit"
 		
@@ -376,7 +370,7 @@
 
 		"upgradesTo": "Bombard",
 		
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+		"uniques": [ "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		
 		"attackSound": "throw"
@@ -402,7 +396,7 @@
 		"obsoleteTech": "Chemistry",
 
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		
 		"attackSound": "shot",
@@ -425,8 +419,6 @@
 		"obsoleteTech": "Ballistics",
 
 		"upgradesTo": "Anti-Tank Gun",
-		
-		"uniques": ["[+50]% Strength <vs [Calvary] units>"],
 		
 		"attackSound": "metalhit"
 		
@@ -452,8 +444,6 @@
 
 		"upgradesTo": "Musketman",
 
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"]
-
 		"attackSound": "metalhit",
 
 	},
@@ -477,7 +467,7 @@
 		
 		"requiredResource": "Horses",
 		
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+50]% Strength <vs [Melee Combatant] units>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		
 		"attackSound": "horse",
 		
@@ -580,7 +570,7 @@
 
 		"upgradesTo": "Longswordsman",
 		
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [All] units> <when attacking>"],
 	
 		"attackSound": "metalhit",
 	},
@@ -606,7 +596,7 @@
 
 		"upgradesTo": "Knight",
 	
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee Combatant] units>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		
 		"hurryCostModifier": 20,
 		
@@ -633,8 +623,6 @@
 		"upgradesTo": "Rifleman",
 
 		"requiredResource": "Niter",
-
-		"uniques": ["[+30]% Strength <vs [Melee Combatant] units>"],
 		
 		"attackSound": "shot",
 		
@@ -678,7 +666,7 @@
 
 		"cost": 60,
 
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Scout] through ruins-like effects"],
 
 		"attackSound": "normalhit",
 
@@ -812,7 +800,7 @@
 
 		"requiredResource": "Horses",
 
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee] units>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 
 		"attackSound": "horse",
 
@@ -834,8 +822,6 @@
 		"upgradesTo": "Great War Infantry",
 
 		"obsoleteTech": "Mechanics",
-
-		"uniques": ["[+50]% Strength <vs [Melee Combatant] units>"],
 		
 		"attackSound": "shot"
 	},
@@ -849,11 +835,11 @@
 		
 		"movement": 2,
 
-		"range": 2,
+		"range": 1,
 		
 		"strength": 50,
 		
-		"rangedStrength": 50,
+		"rangedStrength": 58,
 		
 		"cost": 335,
 		
@@ -862,8 +848,6 @@
 		"obsoleteTech": "Ballistics",
 
 		"upgradesTo": "Machine Gun",
-
-		"uniques": ["[+50]% Strength <vs [All] units> <when defending>"],
 
 		"attackSound": "machinegun"
 	},
@@ -908,7 +892,7 @@
 		"upgradesTo": "Landship",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Melee] units>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse",
 	},
     {
@@ -934,7 +918,7 @@
 		 "uniqueTo": "Fortoulen",
 		 "replaces": "Swordsman",
 		 "movement": 2,
-		 "strength": 25,
+		 "strength": 30,
 		 "requiredTech": "Bronze Working",
 		 "obsoleteTech": "Metal Casting",
 		 "uniques": ["Double movement in [Forest]","Double movement in [Jungle]"],
@@ -952,7 +936,7 @@
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+60]% Strength <vs [Melee Combatant] units>"],		
+		"uniques": ["[+20]% Strength <vs [Melee Combatant] units>"],		
 		"attackSound": "shot",
 	},
 {
@@ -975,7 +959,6 @@
 		"requiredTech": "Mechanics",
 		"obsoleteTech": "Advanced Ballistics",
 		"upgradesTo": "Infantry",
-		"uniques": ["[+50]% Strength <vs [Melee] units>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1023,8 +1006,6 @@
 		"obsoleteTech": "Gunpowder",
 
 		"upgradesTo": "Musketman",
-
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>"],
 
 		"attackSound": "metalhit",
 
@@ -1205,7 +1186,7 @@
 		"strength": 85,
 		"cost": 450,
 		"requiredTech": "Advanced Ballistics",
-		"uniques": ["[+50]% Strength <vs [Melee Combatant] units> <when attacking>","[+1] Sight <when [Embarked]>", "Defense bonus when embarked","Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
+		"uniques": ["[+30]% Strength <vs [Water] units> <when attacking>","[+1] Sight <when [Embarked]>", "Defense bonus when embarked","Eliminates combat penalty for attacking over a river", "Eliminates combat penalty for attacking across a coast"],
 		"attackSound": "shot",
 	},
 	{
@@ -1237,7 +1218,7 @@
 		"rangedStrength": 85,
 		"cost": 480,
 		"requiredTech": "Radar",
-		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles","No movement cost to pillage"],
+		"uniques": ["May Paradrop up to [8] tiles from inside friendly territory", "Never appears as a Barbarian unit","Can see over obstacles","No movement cost to pillage"],
 		"attackSound": "shot"
 	},
 	{
@@ -1275,8 +1256,7 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Mechanics",
-		"uniqueTo": "Barbarians",
-		"uniques": ["[+50]% Strength <vs [Melee Combatant] units> <when attacking>"],		
+		"uniqueTo": "Barbarians",	
 		"attackSound": "shot",
 	},
 	{
@@ -1290,7 +1270,7 @@
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"uniqueTo": "Nordaz",
-		"uniques": ["[+50]% Strength <vs [Ranged] units> <when attacking>","[+40]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>"],
+		"uniques": ["[+25]% Strength <vs [Ranged] units> <when attacking>","[+40]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>"],
 		"attackSound": "metalhit",
 	},
 	{
