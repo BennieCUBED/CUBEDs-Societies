@@ -10,7 +10,7 @@
             "cityStrengthFromTechsMultiplier": 3,
             "cityStrengthPerPop": 1,
             "policyCostModifier": -3,
-            "unitSupplyPerPopulation": 2,
+            "unitSupplyPerPopulation": 1,
 
       }
 
