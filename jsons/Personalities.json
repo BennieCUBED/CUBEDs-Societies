@@ -128,6 +128,28 @@
 		"warMongering": 2,
               "uniques": ["Will not build [Nuclear Project]"],
 	       
+                "name": "Ame'nee",
+	        "preferredVictoryType": "Neutral",
+		"culture": 3,
+		"faith": 3,
+		"food": 8,
+		"gold": 3,
+		"happiness": 4,
+		"production": 4,
+		"science": 3,
+		"military": 4,
+		"priorities": {
+			"Survival": 30,
+			"Power & Society": 20,
+			"Warfare": 20,
+			"Aesthetics": 10,
+			"Theory": 10,
+			"Liberalism": 20,
+			"Socialism": 30,
+		},
+		"warMongering": 6,
+              "uniques": ["Will not build [Nuclear Project]"],
+	       
        },
 ]
 	
