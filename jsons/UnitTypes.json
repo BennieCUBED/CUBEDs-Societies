@@ -69,7 +69,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["Can see over obstacles"],
+                    "uniques": ["Can see over obstacles","[+1] Sight"],
 
           },
 
@@ -118,7 +118,7 @@
 
                     "movementType": "Land",
 
-                    "uniques": ["[1] Sight"],
+                    "uniques": ["[+1] Sight"],
 
           },
 
