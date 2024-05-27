@@ -158,8 +158,6 @@
 		"gold": 1,
 
 	        "production": 1,
-
-	        "food": 1,
 	
 		"cost": 80,
 	
@@ -714,10 +712,11 @@
 	},
 	{
 		"name": "Sewer",
-		"food": 2,
+		"food": 3,
 		"cost": 300,
+		"maintenance": 2,
 		"requiredTech": "Sanitation",
-		"uniques": ["[+15]% growth [in all cities]"],
+		"uniques": ["[+20]% growth [in all cities]"],
 	},
 	{
 		"name": "Water Filtration System",
@@ -775,12 +774,12 @@
     },
 	{
 		"name": "Hospital",
-		"food": 3,
+		"food": 4,
 		"happiness": 1,
 		"cost": 300,
 		"hurryCostModifier": 50,
 		"maintenance": 1,
-		"uniques": ["[+1 Food, +1 Happiness] <if [Clinic] is constructed>"],
+		"uniques": ["[+2 Food, +1 Happiness] <if [Clinic] is constructed>"],
 		"requiredTech": "Biology",
 	},
 	{
