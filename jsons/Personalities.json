@@ -108,6 +108,26 @@
 		},
 		"warMongering": 6,
 	       
+                "name": "Ozten",
+	        "preferredVictoryType": "Scientific",
+		"culture": 3,
+		"faith": 5,
+		"food": 4,
+		"gold": 6,
+		"happiness": 5,
+		"production": 5,
+		"science": 8,
+		"military": 8,
+		"priorities": {
+			"Survival": 20,
+			"Power & Society": 30,
+			"Warfare": 10,
+			"Aesthetics": 10,
+			"Theory": 30,
+		},
+		"warMongering": 2,
+              "uniques": ["Will not build [Nuclear Project]"],
+	       
        },
 ]
 	
