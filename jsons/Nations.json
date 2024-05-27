@@ -429,6 +429,7 @@
 		"leaderName": "Ame'nee",
 		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Neutral",
+		"personality": "Ame'nee",
 		"favoredReligion": "West Island Folklore",
 
 		"startIntroPart1": "The people of Motunai were well known in the Western Archipelago for its many inhabitants living amoung islands, which the tribe owned around one hundred and more islands at its time, with one of the tribes greatest chieftains, Ame'nee",
