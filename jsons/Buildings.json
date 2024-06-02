@@ -36,7 +36,7 @@
            
               		"maintenance": 1,
            
-              		"uniques": ["[-20]% Culture cost of natural border growth [in this city]"]
+              		"uniques": ["[-10]% Culture cost of natural border growth [in this city]"]
            
          },
 
@@ -942,6 +942,15 @@
 		"science": 1,
 		"cost": 200,
 		"requiredTech": "Construction",
+	},
+	{
+		
+		"name": "Moat",
+                "uniqueTo": "Prukaz",
+		"cityStrength": 3,	
+		"cityHealth": 65,		
+		"hurryCostModifier": 25,		
+		"requiredTech": "Early Sieging",				
 	},
 ]
 
