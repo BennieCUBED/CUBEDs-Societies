@@ -946,6 +946,7 @@
 	{
 		
 		"name": "Moat",
+		"replaces": "Walls",
                 "uniqueTo": "Prukaz",
 		"cityStrength": 3,	
 		"cityHealth": 65,		
