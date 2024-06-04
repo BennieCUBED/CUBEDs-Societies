@@ -59,7 +59,7 @@
 
                 "startBias": ["Tundra"]
 
-                "preferredVictoryType": "Culture",
+                "preferredVictoryType": "Cultural",
 
 
                 "declaringWar": "What is your plan?",
@@ -123,7 +123,7 @@
 
                 "cities": ["Hall","Beaco","Enerel","Skyton","Cersos","Anelip","Anstonia","Potalopia","Templeton"],
 
-        }
+        },
 
         {
 
@@ -510,7 +510,7 @@
 		"adjective": ["Prukazi","Prukazian"],
 		"leaderName": "Canzil III",
 		"startBias": ["Tundra","Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Neutral",
 		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Prukaz is one of the lesser known civilisations on the Costi Continent, prukaz is a nation that has been defending itself and succedding everytime. Prukaz has potential, and thanks to you, Prukaz may achieve greatness.",
@@ -529,7 +529,7 @@
 		"innerColor": [212, 142, 142],
 		"uniqueName": "Isolation or Prukazia",
 		"uniques": ["[+50]% Strength <for [Melee] units> <when defending>","Gain [20] [Food] <upon declaring friendship>"],
-		"cities": ["Finalssa","Tussika","Polziga","Zandolt","Italli","Dorsk","Atiding","Singatard","Hend River","Parz","River Sazzid"],
+		"cities": ["Finalssa","Tussika","Polziga","Zandolt","Italli","Dorsk","Atiding","Singatard","Hend River","Parz","River Sazzid","Orton","River"],
 	},
 	{
 		"name": "Nordaz",
