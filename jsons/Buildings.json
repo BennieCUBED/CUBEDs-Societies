@@ -960,7 +960,7 @@
 		"hurryCostModifier": 30,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Early Sieging",	
-		"uniques": ["Destroyed when the city is captured","[1] Sight"]
+		"uniques": ["Destroyed when the city is captured"]
 		
 	},
 ]
