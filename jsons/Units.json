@@ -1348,4 +1348,17 @@
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [4] [Missile] units", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
+	{
+		"name": "Mohawk Warrior",
+		"unitType": "Melee Combatant",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 30,
+		"cost": 130,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Metal Casting",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
