@@ -84,7 +84,7 @@
         "turns": [
             {"yearsPerTurn": 93, "untilTurn":  70},
             {"yearsPerTurn": 44, "untilTurn":  100},
-            {"yearsPerTurn": 20, "untilTurn": 130},
+            {"yearsPerTurn": 8, "untilTurn": 130},
             {"yearsPerTurn": 16, "untilTurn": 155},
             {"yearsPerTurn": 12, "untilTurn": 195},
             {"yearsPerTurn":  7, "untilTurn": 260},
