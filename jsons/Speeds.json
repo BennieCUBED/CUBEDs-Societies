@@ -34,15 +34,15 @@
         "religiousPressureAdjacentCity": 13,
         "peaceDealDuration": 3,
         "dealDuration": 18,
-        "startYear": -4000,
+        "startYear": -6000,
         "turns": [
-            {"yearsPerTurn": 85, "untilTurn":  50},
-            {"yearsPerTurn": 64, "untilTurn":  80},
-            {"yearsPerTurn": 53, "untilTurn": 100},
-            {"yearsPerTurn": 42, "untilTurn": 130},
-            {"yearsPerTurn": 31, "untilTurn": 155},
-            {"yearsPerTurn":  10, "untilTurn": 195},
-            {"yearsPerTurn":  5, "untilTurn": 260},
+            {"yearsPerTurn": 96, "untilTurn":  50},
+            {"yearsPerTurn": 74, "untilTurn":  80},
+            {"yearsPerTurn": 63, "untilTurn": 100},
+            {"yearsPerTurn": 52, "untilTurn": 130},
+            {"yearsPerTurn": 41, "untilTurn": 155},
+            {"yearsPerTurn":  20, "untilTurn": 195},
+            {"yearsPerTurn":  8, "untilTurn": 260},
             {"yearsPerTurn":  2, "untilTurn": 330}
         ]
     },
@@ -82,11 +82,11 @@
         "dealDuration": 25,
         "startYear": -6000,
         "turns": [
-            {"yearsPerTurn": 80, "untilTurn":  70},
+            {"yearsPerTurn": 70, "untilTurn":  70},
             {"yearsPerTurn": 60, "untilTurn":  100},
             {"yearsPerTurn": 30, "untilTurn": 130},
-            {"yearsPerTurn": 20, "untilTurn": 155},
-            {"yearsPerTurn": 10, "untilTurn": 195},
+            {"yearsPerTurn": 16, "untilTurn": 155},
+            {"yearsPerTurn": 12, "untilTurn": 195},
             {"yearsPerTurn":  7, "untilTurn": 260},
             {"yearsPerTurn":  4, "untilTurn": 330},
             {"yearsPerTurn":  1, "untilTurn": 360}
