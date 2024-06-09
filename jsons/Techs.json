@@ -970,6 +970,12 @@
 				 "prerequisites": ["Rocketry"],
 				 "quote": "Uh oh...",
 			 },
+			 {
+				 "name": "Computers",
+				 "row": 8,
+				 "prerequisites": ["Television","Synthetic Material"],
+				 "quote": "",
+			 },
 		 ]
 },
 	
