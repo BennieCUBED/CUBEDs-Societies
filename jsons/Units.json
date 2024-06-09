@@ -1324,7 +1324,7 @@
 		"movement": 2
 	},
 	{
-		"name": "Greater Bomb",
+		"name": "G-Bomb",
 		"unitType": "Missile",
 		"movement": 1,
 		"strength": 750,
@@ -1334,6 +1334,18 @@
 		"requiredTech": "Near Future Weapons",
 		"uniques": ["Nuclear weapon of Strength [6]", "Only available <if [Nuclear Project] is constructed>","Self-destructs when attacking",
 			"Blast radius [8]", "Consumes [2] [Uranium]"],
-		"attackSound": "nuke"
+		"attackSound": "nuke",
+	},
+	{
+		"name": "Nuclear Submarine",
+		"unitType": "Submarine",
+		"movement": 6,
+		"strength": 60,
+		"range": 3,
+		"rangedStrength": 80,
+		"cost": 510,
+		"requiredTech": "Near Future Weapons",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [4] [Missile] units", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"
 	},
 ]
