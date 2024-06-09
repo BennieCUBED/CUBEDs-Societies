@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Creation Era",
-		"techCost": 40,
+		"techCost": 60,
 		"buildingCost": 40,
 		"wonderCost": 999,
 		"techs": [
@@ -22,7 +22,7 @@
            
 		"era": "Creation Era",
            
-		"techCost": 30,
+		"techCost": 50,
            
 		"buildingCost": 40,
            
@@ -79,7 +79,7 @@
 		 
 		"era": "Creation Era",
 		 
-		"techCost": 40,
+		"techCost": 60,
 		 
 		"buildingCost": 60,
 		 
@@ -170,7 +170,7 @@
 		 
 		"era": "Bronze & Iron Era",
 		 
-		"techCost": 70,
+		"techCost": 90,
 		 
 		"buildingCost": 80,
 		 
@@ -265,7 +265,7 @@
 		 
 		"era": "Bronze & Iron Era",
 		 
-		"techCost": 120,
+		"techCost": 140,
 		 
 		"buildingCost": 110,
 		 
@@ -357,7 +357,7 @@
 		 
 		"era": "Dark Era",
 		 
-		"techCost": 170,
+		"techCost": 190,
 		 
 		"buildingCost": 150,
 		 
@@ -429,7 +429,7 @@
 
 		 "era": "Dark Era",
 
-		 "techCost": 200,
+		 "techCost": 220,
 
 		 "buildingCost": 180,
 
@@ -513,7 +513,7 @@
 
 		 "era": "Discovery Era",
 
-		 "techCost": 240,
+		 "techCost": 260,
 
 		 "buildingCost": 210,
 
@@ -599,7 +599,7 @@
 
 		 "era": "Discovery Era",
 	
-          	 "techCost": 300,
+          	 "techCost": 320,
 
 		 "buildingCost": 250,
 
@@ -758,7 +758,7 @@
 {
 		 "columnNumber": 10,
 		 "era": "Industrial Era",
-          	 "techCost": 480,
+          	 "techCost": 500,
 		 "buildingCost": 375,
 		 "wonderCost": 900,
 		 "techs": [	
@@ -799,7 +799,7 @@
 {
 		 "columnNumber": 11,
 		 "era": "Modern Era",
-          	 "techCost": 550,
+          	 "techCost": 570,
 		 "buildingCost": 440,
 		 "wonderCost": 1000,
 		 "techs": [
@@ -839,7 +839,7 @@
 {
 			 "columnNumber": 12,
 		 "era": "Modern Era",
-          	 "techCost": 600,
+          	 "techCost": 620,
 		 "buildingCost": 535,
 		 "wonderCost": 1100,
 		 "techs": [
@@ -879,7 +879,7 @@
 {
 			 "columnNumber": 13,
 		 "era": "Destruction Era",
-          	 "techCost": 670,
+          	 "techCost": 690,
 		 "buildingCost": 665,
 		 "wonderCost": 1300,
 		 "techs": [
@@ -920,7 +920,7 @@
 {
 		 "columnNumber": 14,
 		 "era": "Destruction Era",
-          	 "techCost": 730,
+          	 "techCost": 750,
 		 "buildingCost": 710,
 		 "wonderCost": 1450,
 		 "techs": [
@@ -960,7 +960,7 @@
 {
 		 "columnNumber": 15,
 		 "era": "Final Era",
-          	 "techCost": 900,
+          	 "techCost": 1000,
 		 "buildingCost": 800,
 		 "wonderCost": 1850,
 		 "techs": [
