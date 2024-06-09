@@ -953,5 +953,15 @@
 		"hurryCostModifier": 25,		
 		"requiredTech": "Early Sieging",				
 	},
+	{
+		
+		"name": "Watchtower",		
+		"cityStrength": 5,		
+		"hurryCostModifier": 30,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Early Sieging",	
+		"uniques": ["Destroyed when the city is captured","[1] Sight"]
+		
+	},
 ]
 
