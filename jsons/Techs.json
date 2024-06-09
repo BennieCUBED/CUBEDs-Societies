@@ -974,10 +974,10 @@
 				 "name": "Computers",
 				 "row": 8,
 				 "prerequisites": ["Television","Synthetic Material"],
-				 "uniques": ["uniques": ["[+1 Science] per [7] population [in all cities"]"],
+				 "uniques": ["[+1 Science] per [7] population [in all cities]"],
 				 "quote": "'An amazing machine which applies electronic speeds for the first time to mathematical tasks hitherto too difficult and cumbersome for solution.' -The Electronic Numerical Integrator and Computer",
 			 },
-		 ]
+]
 },
 	
 ]
