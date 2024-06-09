@@ -624,7 +624,7 @@
 
 		"requiredResource": "Niter",
 		
-		"attackSound": "shot",
+		"attackSound": "Muskets",
 		
 	},
 
@@ -823,7 +823,7 @@
 
 		"obsoleteTech": "Mechanics",
 		
-		"attackSound": "shot"
+		"attackSound": "Muskets"
 	},
 
 	{
@@ -937,7 +937,7 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"uniques": ["[+20]% Strength <vs [Melee Combatant] units>"],		
-		"attackSound": "shot",
+		"attackSound": "Muskets",
 	},
 {
         "name": "Artillery",
@@ -1257,7 +1257,7 @@
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Mechanics",
 		"uniqueTo": "Barbarians",	
-		"attackSound": "shot",
+		"attackSound": "Muskets",
 	},
 	{
 
