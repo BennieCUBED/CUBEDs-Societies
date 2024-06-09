@@ -952,7 +952,7 @@
 				 "name": "Television",
 				 "row": 8,
 				 "prerequisites": ["Radar"],
-				 "uniques": ["+1 Culture] per [4] population [in all cities"]
+				 "uniques": ["[+1 Culture] per [7] population [in all cities"]
 				 "quote": "'Life doesn't initate art, it imitates bad television.' -Woody Allen.",
 			 },		 
 		 ]
@@ -974,7 +974,8 @@
 				 "name": "Computers",
 				 "row": 8,
 				 "prerequisites": ["Television","Synthetic Material"],
-				 "quote": "",
+				 "uniques": ["uniques": ["[+1 Science] per [7] population [in all cities"]"],
+				 "quote": "'An amazing machine which applies electronic speeds for the first time to mathematical tasks hitherto too difficult and cumbersome for solution.' -The Electronic Numerical Integrator and Computer",
 			 },
 		 ]
 },
