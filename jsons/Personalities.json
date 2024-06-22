@@ -194,7 +194,34 @@
 		},
               "uniques": ["Will not build [Nuclear Project]"],
 	       
+	       
        },
+	"name": "Lannen Pottesttas",
+"preferredVictoryType": "Domination",
+"culture": 3,
+"faith": 4,
+"food": 3,
+"gold": 5,
+"happiness": 5,
+"production": 6,
+"science": 4,
+//behaviours
+"military": 8,
+"aggressive": 7,
+"war": 7,
+"commerce": 3,
+"diplomacy": 5,
+"loyal": 2,
+"expansion": 10,
+"priorities": {
+"Survival": 30,
+"Power & Society": 10,
+"Warfare": 30,
+"Aesthetics": 10,
+"Theory": 10,
+"Liberalism": 10,
+"Socialism": 30,
+},
 
 ]
 	
