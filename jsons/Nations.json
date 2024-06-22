@@ -485,6 +485,7 @@
 		"leaderName": "Zamitzi",
 		"startBias": ["Jungle","Plains"],
 		"preferredVictoryType": "Domination",
+		"personality": "Zamitzi",
 		"favoredReligion": "Wouleto Mythology",
 
 		"startIntroPart1": "Noustekim is a powerful tribe, conquering most of their enemies without mercy."
