@@ -166,7 +166,11 @@
 //behaviours
 "military": 4,
 "aggressive": 4,
-
+"war": 3,
+"commerce": 5,
+"diplomacy": 8,
+"loyal": 9,
+"expansion":
 "priorities": {
 "Tradition": 20,
 "Liberty": 30,
