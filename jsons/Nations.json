@@ -545,8 +545,8 @@
 
 		"declaringWar": "To the battlefields! Where this war will earn us victory of the North!",
 		"attacked": "My my, what mistake you have made. We will burn you to the ground..!",
-		"defeated": "Well, i guess we we're too aggressive in the end... My apologies for doing what i had been taught to do...",
-		"introduction": "I am Frederick! Axeman and king of Nordaz; I hope that i dont accidentally attack ya in the future.",
+		"defeated": "Well, I guess we're too aggressive in the end... My apologies for doing what I had been taught to do...",
+		"introduction": "I am Frederick! Axeman and king of Nordaz; I hope that I don't accidentally attack ya in the future.",
 
 		"neutralHello": "Hey, friend.",
 		"hateHello": "Do you mind? I am trying to get some rest over here, hurry up..!",
@@ -561,7 +561,7 @@
 		
 	{
                 
-		"name": "A'Anya",
+		"name": "A'Anya People",
 
 		"style": "West Island",
                 
@@ -571,7 +571,7 @@
 
 		"declaringWar": "Our people will never bow down to you!",
                 
-		"attacked": "When will people leave is alone..?",
+		"attacked": "When will people leave us alone..?",
                 
 		"defeated": "This isn't victory, this is enslavement...",
                 
