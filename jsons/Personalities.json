@@ -151,5 +151,33 @@
               "uniques": ["Will not build [Nuclear Project]"],
 	       
        },
+		{
+"name": "BennieCUBED",
+"preferredVictoryType": "Scientific",
+//stats
+"culture": 7,
+"faith": 1,
+"food": 3,
+"gold": 4,
+"happiness": 5,
+"production": 9,
+"science": 7,
+"military": 4,
+//behaviours
+"military": 4,
+"aggressive": 4,
+
+"priorities": {
+"Tradition": 20,
+"Liberty": 30,
+"Commerce": 20,
+"Rationalism": 30,
+"Freedom": 30,
+"Order": 20,
+},
+"warMongering": 2,
+"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
+},
+
 ]
 	
