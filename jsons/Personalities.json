@@ -9,7 +9,14 @@
 "happiness": 5,
 "production": 8,
 "science": 7,
-"military": 5,
+//behaviours
+"military": 4,
+"aggressive": 4,
+"war": 3,
+"commerce": 5,
+"diplomacy": 8,
+"loyal": 9,
+"expansion": 4,
 "priorities": {
 "Survival": 20,
 "Power & Society": 20,
@@ -19,7 +26,7 @@
 "Liberalism": 30,
 "Socialism": 20,
 },
-"warMongering": 3,
+	       
 "uniques": ["Will not build [Nuclear Project]","Will not build [World Wonder]"],
 
 		"name": "Onzeer",
@@ -31,7 +38,14 @@
 		"happiness": 4,
 		"production": 6,
 		"science": 5,
-		"military": 7,
+		//behaviours
+                "military": 9,
+                "aggressive": 9,
+                "war": 8,
+                "commerce": 3,
+                "diplomacy": 4,
+                "loyal": 2,
+                "expansion": 9,
 		"priorities": {
 			"Survival": 20,
 			"Power & Society": 30,
@@ -52,7 +66,14 @@
 		"happiness": 4,
 		"production": 5,
 		"science": 4,
-		"military": 5,
+		              //behaviours
+"military": 6,
+"aggressive": 7,
+"war": 2,
+"commerce": 7,
+"diplomacy": 9,
+"loyal": 5,
+"expansion": 3,
 		"priorities": {
 			"Survival": 30,
 			"Power & Society": 20,
@@ -62,7 +83,6 @@
 			"Liberalism": 20,
 			"Socialism": 20,
 		},
-		"warMongering": 2,
               "uniques": ["Will not build [Nuclear Project]"],
 
 		"name": "Nhalo",
@@ -74,7 +94,14 @@
 		"happiness": 5,
 		"production": 4,
 		"science": 3,
-		"military": 5,
+		//behaviours
+"military": 5,
+"aggressive": 6,
+"war": 5,
+"commerce": 10,
+"diplomacy": 4,
+"loyal": 5,
+"expansion": 5,
 		"priorities": {
 			"Survival": 20,
 			"Power & Society": 30,
@@ -84,7 +111,6 @@
 			"Liberalism": 10,
 			"Socialism": 10,
 		},
-		"warMongering": 4,
               "uniques": ["Will not build [Nuclear Project]"],
 
 		"name": "Edmerl",
@@ -96,7 +122,14 @@
 		"happiness": 4,
 		"production": 4,
 		"science": 6,
-		"military": 7,
+		//behaviours
+"military": 8,
+"aggressive": 6,
+"war": 6,
+"commerce": 6,
+"diplomacy": 7,
+"loyal": 7,
+"expansion": 4,
 		"priorities": {
 			"Survival": 20,
 			"Power & Society": 30,
@@ -106,7 +139,6 @@
 			"Liberalism": 30,
 			"Socialism": 10,
 		},
-		"warMongering": 6,
 	       
                 "name": "Ozten",
 	        "preferredVictoryType": "Scientific",
@@ -117,7 +149,14 @@
 		"happiness": 5,
 		"production": 5,
 		"science": 8,
-		"military": 8,
+		//behaviours
+"military": 4,
+"aggressive": 3,
+"war": 2,
+"commerce": 4,
+"diplomacy": 6,
+"loyal": 8,
+"expansion": 7,
 		"priorities": {
 			"Survival": 20,
 			"Power & Society": 30,
@@ -125,7 +164,6 @@
 			"Aesthetics": 10,
 			"Theory": 30,
 		},
-		"warMongering": 2,
               "uniques": ["Will not build [Nuclear Project]"],
 	       
                 "name": "Ame'nee",
@@ -137,7 +175,14 @@
 		"happiness": 4,
 		"production": 4,
 		"science": 3,
-		"military": 4,
+		//behaviours
+"military": 5,
+"aggressive": 9,
+"war": 5,
+"commerce": 8,
+"diplomacy": 4,
+"loyal": 8,
+"expansion": 7,
 		"priorities": {
 			"Survival": 30,
 			"Power & Society": 20,
@@ -147,41 +192,9 @@
 			"Liberalism": 20,
 			"Socialism": 30,
 		},
-		"warMongering": 6,
               "uniques": ["Will not build [Nuclear Project]"],
 	       
        },
-		{
-"name": "BennieCUBED",
-"preferredVictoryType": "Scientific",
-//stats
-"culture": 7,
-"faith": 1,
-"food": 3,
-"gold": 4,
-"happiness": 5,
-"production": 9,
-"science": 7,
-"military": 4,
-//behaviours
-"military": 4,
-"aggressive": 4,
-"war": 3,
-"commerce": 5,
-"diplomacy": 8,
-"loyal": 9,
-"expansion":
-"priorities": {
-"Tradition": 20,
-"Liberty": 30,
-"Commerce": 20,
-"Rationalism": 30,
-"Freedom": 30,
-"Order": 20,
-},
-"warMongering": 2,
-"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
-},
 
 ]
 	
