@@ -457,6 +457,7 @@
 		"leaderName": "Lannen Pottesttas",
 		"startBias": ["Avoid [Desert]","Avoid [Snow]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Lannen Pottesttas",
 		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Lannen, once starting his life around rural towns inbetween two great kingdoms. He rose to power against everyone against him, conquering a great amount of land during his lifetime. only for the Jarrids to collaspe, within only a couple years after his death.",
