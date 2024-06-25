@@ -4,8 +4,8 @@
       
 
       "isBaseRuleset": true,
-      "Allow raze capital",
-      "Allow raze holy city",
+      "Allow raze capital": true,
+      "Allow raze holy city": true,
 
       "constants": {
             "cityStrengthBase": 20,
