@@ -16,7 +16,7 @@
      
         "friendBonusUniques": ["[+2 Gold] [in capital]"],
      
-        "allyBonusUniques": ["[+3 Gold] [in capital]", "[+1 Gold] [in all cities]"],
+        "allyBonusUniques": ["[+3 Gold] [in capital]", "[+1 Gold] [in all cities]","Provides a unique luxury"],
      
         "color": [252, 186, 3],
      
