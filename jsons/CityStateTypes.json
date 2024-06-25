@@ -41,14 +41,14 @@
  {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+3 Faith] <before the [Medieval era]>",
-            "[+6 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+13 Faith] <starting from the [Industrial era]>"
+            "[+3 Faith] <before the [Medieval Era]>",
+            "[+6 Faith] <starting from the [Medieval Era]> <before the [Industrial Era]>",
+            "[+13 Faith] <starting from the [Industrial Era]>"
         ],
         "allyBonusUniques":  [
-            "[+6 Faith] <before the [Medieval era]>",
-            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Faith] <starting from the [Industrial era]>"
+            "[+6 Faith] <before the [Medieval Era]>",
+            "[+12 Faith] <starting from the [Medieval Era]> <before the [Industrial Era]>",
+            "[+26 Faith] <starting from the [Industrial Era]>"
         ],
         "color": [255, 255, 255]
  },
