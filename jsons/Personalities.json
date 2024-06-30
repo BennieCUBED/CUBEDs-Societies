@@ -12,7 +12,7 @@
 //behaviours
 "military": 4,
 "aggressive": 4,
-"war": 3,
+"declareWar": 3,
 "commerce": 5,
 "diplomacy": 8,
 "loyal": 9,
@@ -41,7 +41,7 @@
 		//behaviours
                 "military": 9,
                 "aggressive": 9,
-                "war": 8,
+                "declareWar": 8,
                 "commerce": 3,
                 "diplomacy": 4,
                 "loyal": 2,
@@ -68,8 +68,8 @@
 		"science": 4,
 		              //behaviours
 "military": 6,
-"aggressive": 7,
-"war": 2,
+"aggressive": 5,
+"declareWar": 2,
 "commerce": 7,
 "diplomacy": 9,
 "loyal": 5,
@@ -97,7 +97,7 @@
 		//behaviours
 "military": 5,
 "aggressive": 6,
-"war": 5,
+"declareWar": 5,
 "commerce": 10,
 "diplomacy": 4,
 "loyal": 5,
@@ -125,8 +125,8 @@
 		//behaviours
 "military": 8,
 "aggressive": 6,
-"war": 6,
-"commerce": 6,
+"declareWar": 6,
+"commerce": 7,
 "diplomacy": 7,
 "loyal": 7,
 "expansion": 4,
@@ -152,7 +152,7 @@
 		//behaviours
 "military": 4,
 "aggressive": 3,
-"war": 2,
+"declareWar": 2,
 "commerce": 4,
 "diplomacy": 6,
 "loyal": 8,
@@ -178,7 +178,7 @@
 		//behaviours
 "military": 5,
 "aggressive": 9,
-"war": 5,
+"declareWar": 5,
 "commerce": 8,
 "diplomacy": 4,
 "loyal": 8,
@@ -207,7 +207,7 @@
 //behaviours
 "military": 8,
 "aggressive": 7,
-"war": 7,
+"declareWar": 7,
 "commerce": 3,
 "diplomacy": 5,
 "loyal": 2,
@@ -235,7 +235,7 @@
 //behaviours
 "military": 7,
 "aggressive": 7,
-"war": 6,
+"declareWar": 6,
 "commerce": 7,
 "diplomacy": 4,
 "loyal": 7,
@@ -262,7 +262,7 @@
 //behaviours
 "military": 7,
 "aggressive": 2,
-"war": 4,
+"declareWar": 4,
 "commerce": 5,
 "diplomacy": 5,
 "loyal": 4,
