@@ -84,11 +84,11 @@
             "choices": [
                   {
                         "text": "The Abolishon of slavery would be a great way to influence the world to our freedom.",
-                        "triggeredUniques": ["Empire enters golden age","Gain [-50] [Production]"],
+                        "triggeredUniques": ["Empire enters golden age","Gain [-50] [Production] <in [in all cities] cities>"],
                   },
                   {
                         "text": "No, Abolishing slavery would be devastating to our production, we shouldn't...",
-                        "triggeredUniques": ["Gain [50] [Production]","Free [Worker] appears"],
+                        "triggeredUniques": ["Gain [50] [Production] <in [in all cities] cities>","Free [Worker] appears"],
                   },
             ]
       },
@@ -106,7 +106,7 @@
                   },
                   {
                         "text": "We have decleared this friendship for the productivity of us both..!",
-                        "triggeredUniques": ["Gain [20]-[50] [Production]"],
+                        "triggeredUniques": ["Gain [20]-[50] [Production] <in [Capital] cities>"],
                   },
             ]
       },
@@ -124,7 +124,7 @@
                   },
                   {
                         "text": "What is the point in Sailing anyway? We are happy enough on the land, than on sea...",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Gain [25]-[50] [Production] <in [in all cities] cities>"],
                         "conditions": [""],
                   },
             ]
