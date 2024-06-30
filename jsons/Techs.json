@@ -981,7 +981,7 @@
 				 "name": "Space Travel",
 				 "row": 5,
 				 "prerequisites": ["Synthetic Material","Rocketry","Advanced Flight","Ecology","Television"],
-				 "quote": "'' -",
+				 "quote": "'Ah, space. only if the societies of this world cared more about space travel, the possibilities...' -The World",
 			 },
 ]
 },
