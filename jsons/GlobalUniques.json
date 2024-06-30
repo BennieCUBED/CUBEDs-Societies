@@ -7,6 +7,7 @@
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
         "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-10] Happiness>",
+        "[10]% Food is carried over after population increases [in this city]",
         "[-1] Sight <for [Embarked] units>",
         "[25]% growth [in all cities] <when above [+10] Happiness>",
         "[+25]% [Production] [in all cities] <when above [10] Happiness>",
