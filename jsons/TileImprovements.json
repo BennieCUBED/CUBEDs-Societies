@@ -253,7 +253,7 @@
 	{
                  "name": "Trench Line", 
 
-                 "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"], 
+                 "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Hill"], 
 
                  "turnsToBuild": 4, 
 
