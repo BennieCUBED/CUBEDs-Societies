@@ -973,5 +973,8 @@
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Space Travel",
 	},
+	{
+		"name": "EventChasingstars",
+	},
 ]
 
