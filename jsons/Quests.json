@@ -6,12 +6,12 @@
     "influence": 20,
     "duration": 30,
       "weightForCityStateType": {
-          "Cultured": 3,
+          "Cultured": 2,
           "Maritime": 3,
           "Mercantile": 3.5,
           "Militaristic": 2,
-          "Religious": 3
-          "Productive": 3.5
+          "Religious": 2
+          "Productive": 2.5
       },
     
   },
@@ -52,6 +52,8 @@
     {
        "name": "Connect Resource",
        "description": "Seeing that there may be [tileResource] nearby, I recommend you add that to your society.",
+      "type": "Individual",
+      "influence": 30,
          "weightForCityStateType": {
              "Cultured": 1,
              "Maritime": 1.7,
