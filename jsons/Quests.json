@@ -91,6 +91,28 @@
           "Militaristic": 2,
       }
   },
+  {
+    "name": "Denounce Civilization",
+    "description": "We have been forced to pay tribute to [civName]! We will appreciate you if you denounce this world power.",
+    "duration": 30,
+      "weightForCityStateType": {
+          "Cultured": 1,
+          "Maritime": 0.8,
+          "Mercantile": 1.5,
+          "Militaristic": 2,
+          "Religious": 1.5
+      }
+  },
+  {
+    "name": "Spread Religion",
+    "description": "You must spread the word of [religionName]. Send your missionaries to teach the world about your religion.",
+    "type": "Individual",
+      "weightForCityStateType": {
+          "Religious": 4,
+          "Maritime": 1.8,
+          "Cultured": 0.8,
+      }
+  }
 
 ]
   
