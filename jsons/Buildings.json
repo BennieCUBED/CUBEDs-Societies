@@ -950,7 +950,7 @@
                 "uniqueTo": "Prukaz",
 		"cityStrength": 3,	
 		"cityHealth": 65,		
-		"hurryCostModifier": 25,		
+		"hurryCostModifier": 30,		
 		"requiredTech": "Early Sieging",				
 	},
 	{
@@ -962,6 +962,16 @@
 		"requiredTech": "Early Sieging",	
 		"uniques": ["Destroyed when the city is captured"]
 		
+	},
+	{
+		"name": "Moon Landing",
+		"science": 1,
+		"culture": 5,
+		"cost": 2250,
+		"isNationalWonder": true,
+		"uniques": ["Triggers a global alert upon completion",
+			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+		"requiredTech": "Space Travel",
 	},
 ]
 
