@@ -318,9 +318,9 @@
 	},
         {
 
-		"name": "Happy Prince",
-		"baseHappiness": 20,
-		"extraHappinessPerLuxury": 2,
+		"name": "Prince | High Happiness (bonus)",
+		"baseHappiness": 30,
+		"extraHappinessPerLuxury": 5,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
@@ -345,6 +345,70 @@
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 33,
+
+	},
+
+        {
+
+		"name": "Prince | Weak AI (bonus)",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [], 
+		"aiCityGrowthModifier": 0.8, 
+		"aiUnitCostModifier": 2,
+		"aiBuildingCostModifier": 2,
+		"aiWonderCostModifier": 2,
+		"aiBuildingMaintenanceModifier": 2,
+		"aiUnitMaintenanceModifier": 2,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 2,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
+
+	},
+
+        {
+
+		"name": "Prince | Many Units (bonus)",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 20,
+		"unitSupplyPerCity": 6,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 1,
+		"playerBonusStartingUnits": [Warrior], 
+		"aiCityGrowthModifier": 0.8, 
+		"aiUnitCostModifier": 0.8,
+		"aiBuildingCostModifier": 0.8,
+		"aiWonderCostModifier": 0.8,
+		"aiBuildingMaintenanceModifier": 0.8,
+		"aiUnitMaintenanceModifier": 0.2,
+		"aiUnitSupplyModifier": 2,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [Warrior],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.8,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 33
 
 	},
 
