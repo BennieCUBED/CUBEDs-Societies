@@ -101,7 +101,7 @@
           "Mercantile": 1.5,
           "Militaristic": 2,
           "Religious": 1.5
-      }
+      },
   },
   {
     "name": "Spread Religion",
@@ -111,8 +111,18 @@
           "Religious": 4,
           "Maritime": 1.8,
           "Cultured": 0.8,
+      },
+  },
+    {
+    "name": "Find Natural Wonder",
+    "description": "We have heard a myth that a place called [naturalWonder] exists, will you prove its existence?",
+      "weightForCityStateType": {
+          "Maritime": 1.5,
+          "Cultured": 2,
+          "Militaristic": 1,
+          "Mercantile": 1,
       }
-  }
+  },
 
 ]
   
