@@ -112,7 +112,7 @@
       },
       {
             "name": "Chasing Stars",
-            "uniques": ["Gain a free [EventChasingstars] [Capital]"],
+            "uniques": ["Gain a free [EventChasingstars] [Capital]","Unavailable <if [EventChasingstars] is constructed>"],
             "text": "As Sailing is becoming more common in our society, some sailors have thought of a new way to sail the seas.",
             		"civilopediaText":[
                                           {"extraImage":"Polynesian", "imageSize":325},
