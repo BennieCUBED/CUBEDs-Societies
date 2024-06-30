@@ -337,7 +337,7 @@
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [3] to [6] [Plains] tiles"],
-		"turnsInto": "Mountain",
+		"turnsInto": "Hill",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10,
