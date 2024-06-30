@@ -310,4 +310,18 @@
         ]
 	},
 
+// The Void
+	{
+		"name": "The Void",
+		"type": "NaturalWonder",
+		"science": 1,
+		"occursOn": ["Desert","Tundra"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+		"turnsInto": "Ocean",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10,
+	},
+
 ]
