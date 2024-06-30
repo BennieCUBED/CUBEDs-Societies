@@ -977,6 +977,12 @@
 				 "uniques": ["[+1 Science] per [7] population [in all cities]"],
 				 "quote": "'An amazing machine which applies electronic speeds for the first time to mathematical tasks hitherto too difficult and cumbersome for solution.' -The Electronic Numerical Integrator and Computer",
 			 },
+			 {
+				 "name": "Space Travel",
+				 "row": 5,
+				 "prerequisites": ["Synthetic Material","Rocketry","Advanced Flight","Ecology","Television"],
+				 "quote": "'' -",
+			 },
 ]
 },
 	
