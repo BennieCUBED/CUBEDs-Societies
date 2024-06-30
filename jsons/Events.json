@@ -68,7 +68,7 @@
                         "triggeredUniques": ["[-4] population in a random city","Gain [35]-[75] [Faith]"],
                   },
                   {
-                        "text": "We need to learn about this 'Blight' more closely, new ways of treatment may help...",
+                        "text": "We need to learn about this 'Plague' more closely, new ways of treatment may help...",
                         "triggeredUniques": ["[-3] population in a random city","Gain [15]-[50] [Science]"],
                   },
                   {
@@ -112,7 +112,7 @@
       },
       {
             "name": "Chasing Stars",
-            "uniques": ["Gain a free [EventChasingstars] [Capital]","Unavailable <if [EventChasingstars] is constructed>"],
+            "uniques": ["Gain a free [EventChasingstars] [in all cities]","Unavailable <if [EventChasingstars] is constructed>"],
             "text": "As Sailing is becoming more common in our society, some sailors have thought of a new way to sail the seas.",
             		"civilopediaText":[
                                           {"extraImage":"Polynesian", "imageSize":325},
@@ -130,6 +130,20 @@
                         "text": "What is the point in Sailing anyway? We are happy enough on the land.",
                         "triggeredUniques": ["Gain [25]-[50] [Production] <in [in all cities] cities>"],
                         "conditions": ["<with [Cattle]>","<with [Sheep]>","<with [Deer]>"],
+                  },
+            ]
+      },
+      {
+            "name": "Distant Traders",
+            "text": "Multiple traders from distant lands comes to the capital, asking for entry. Some are wary of them while others are excited to see what deals they may have, what should we do?",
+            "choices": [
+                  {
+                        "text": "Sure, they shall enter, who knows what deals they may have for us...",
+                        "uniques": ["[comment] Who knows what they'll bring...","Gain [75]-[150] [Gold]"],
+                  },
+                  {
+                        "text": "I do not allow entry to strangers, they may even be barbarians in surprise..!",
+                        "uniques": ["Gain [50] [Culture]"],
                   },
             ]
       },
