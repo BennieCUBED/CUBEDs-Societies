@@ -166,7 +166,7 @@
     {
         "name": "Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted","[+125]% Strength <vs cities> <when attacking>"]
     },
     {
         "name": "AtomicBomber",
