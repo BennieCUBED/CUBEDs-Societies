@@ -249,6 +249,33 @@
 "Liberalism": 10,
 "Socialism": 30,
 },
+	       
+"name": "Canzil III",
+"preferredVictoryType": "Neutral",
+"culture": 4,
+"faith": 3,
+"food": 4,
+"gold": 3,
+"happiness": 4,
+"production": 6,
+"science": 3,
+//behaviours
+"military": 7,
+"aggressive": 2,
+"war": 4,
+"commerce": 5,
+"diplomacy": 5,
+"loyal": 4,
+"expansion": 4,
+"priorities": {
+"Survival": 20,
+"Power & Society": 20,
+"Warfare": 20,
+"Aesthetics": 10,
+"Theory": 10,
+"Liberalism": 10,
+"Socialism": 10,
+},
 },
 
 
