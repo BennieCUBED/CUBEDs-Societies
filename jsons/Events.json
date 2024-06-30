@@ -110,5 +110,25 @@
                   },
             ]
       },
+      {
+            "name": "Chasing Stars",
+            "text": "As Sailing is becoming more common in our society, some sailors have thought of a new way to sail the seas",
+            "choices": [
+                  {
+                        "text": "The stars are a great navigation tool, we shall have them guide us.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "There is no use in stars, we already know our way around the coastline.",
+                        "triggeredUniques": [""],
+                  },
+                  {
+                        "text": "What is the point in Sailing anyway? We are happy enough on the land, than on sea...",
+                        "triggeredUniques": [""],
+                        "conditions": [""],
+                  },
+            ]
+      },
+                        
                         
 ]
