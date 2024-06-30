@@ -116,7 +116,7 @@
             "choices": [
                   {
                         "text": "The stars are a great navigation tool, we shall have them guide us.",
-                        "triggeredUniques": [""],
+                        "triggeredUniques": ["Discover [Celestial Navigation]"],
                   },
                   {
                         "text": "There is no use in stars, we already know our way around the coastline.",
