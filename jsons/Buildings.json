@@ -891,7 +891,7 @@
 		"cost": 750,
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
-			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+			"Cannot be hurried"],
 		"requiredTech": "Rocketry"
 	},
 	{
@@ -900,7 +900,7 @@
 		"isNationalWonder": true,
 		"requiredBuilding": "Space Program",
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
-			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried","Reveals the entire map"],
+			"Cannot be hurried","Reveals the entire map"],
 		"requiredTech": "Rocketry"
 	},
 	{
@@ -968,7 +968,8 @@
 		"science": 1,
 		"culture": 5,
 		"cost": 2250,
-		"isNationalWonder": true,
+		"isWonder": true,
+		"requiredBuilding": "Satellite",
 		"uniques": ["Triggers a global alert upon completion",
 			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
 		"requiredTech": "Space Travel",
