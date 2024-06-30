@@ -123,9 +123,9 @@
                         "triggeredUniques": ["Gain [25]-[50] [Culture]"],
                   },
                   {
-                        "text": "What is the point in Sailing anyway? We are happy enough on the land, than on sea...",
+                        "text": "What is the point in Sailing anyway? We are happy enough on the land.",
                         "triggeredUniques": ["Gain [25]-[50] [Production] <in [in all cities] cities>"],
-                        "conditions": [""],
+                        "conditions": ["<with [Cattle]>","<with [Sheep]>","<with [Deer]>"],
                   },
             ]
       },
