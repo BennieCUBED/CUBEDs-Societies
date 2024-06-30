@@ -81,6 +81,16 @@
       },
 
   },
+  {
+    "name": "Bully City State",
+    "description": "We are tired of [cityState]. If someone were to put them in their place by Demanding Tribute from them, they would be highly rewarded...",
+    "duration": 30,
+      "weightForCityStateType": {
+          "Hostile": 2,
+          "Irrational": 1.5,
+          "Militaristic": 2,
+      }
+  },
 
 ]
   
