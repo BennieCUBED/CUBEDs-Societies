@@ -4,7 +4,7 @@
         "name": "Domination",
         "victoryScreenHeader": "Destroy all enemies\nto win!",
         "milestones": ["Destroy all players"],
-        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "victoryString": "The world has been convulsed by war. Many great and powerful nations and empires have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many armies. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
 
@@ -27,14 +27,14 @@
        // "name": "Economic",
        // "victoryScreenHeader": "Reach complete rich-ness",
        // "milestones":
-       // "victoryString": "The world started not rich, then you cam along to change that and became rich, yes. 'i like money'",
+       // "victoryString": "The world started not rich, then you came along to change that and became rich, yes. 'i like money'",
        //  "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many corporations. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!",
  //   },
     {
         "name": "Scientific",
         "hiddenInVictoryScreen": true,
-        "milestones": ["Build [Satellite]"],
-        "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a brave new world! Your triumph will be remembered as long as the stars burn in the night sky!",
+        "milestones": ["Build [Moon Landing]"],
+        "victoryString": "You have achieved victory through mastery of Science! You have conquered the mysteries of nature and led your people on a voyage to a distant planet! Your triumph will be remembered as long as the stars burn in the night sky!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by it's many spaceships and inventions. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
 
