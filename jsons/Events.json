@@ -136,6 +136,8 @@
       {
             "name": "Distant Traders",
             "text": "Multiple traders from distant lands comes to the capital, asking for entry. Some are wary of them while others are excited to see what deals they may have, what should we do?",
+           		"civilopediaText":[
+                                          {"extraImage":"Traders", "imageSize":325},
             "choices": [
                   {
                         "text": "Sure, they shall enter, who knows what deals they may have for us...",
