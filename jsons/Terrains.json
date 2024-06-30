@@ -318,7 +318,7 @@
 		"occursOn": ["Desert","Tundra"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
-		"turnsInto": "Ocean",
+		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10,
