@@ -540,6 +540,7 @@
 		"leaderName": "Frederick the Orsemann",
 		"startBias": ["Tundra","Coast"],
 		"preferredVictoryType": "Domination",
+		"personality": "Frederick",
 		"favoredReligion": "Northspiritusism",
 
 		"startIntroPart1": "Nordaz is a kingdom in the north of Costi, with the Axemen that brought fear in the north. During most of the kingdom's lifetime, it was spent raiding nearby villages and gaining riches and power from it. Until the wars against Costazmacia began, where the Nordaz tried and failed to stop the invasion, putting an end to the fear and violence of the north.",
