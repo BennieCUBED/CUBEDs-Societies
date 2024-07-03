@@ -202,6 +202,11 @@
          {
                   "name": "God of War",
                   "type": "Pantheon",
+                  "uniques": ["[+25]% Production when constructing [Melee] units [in all cities]"],
+         },
+         {
+                  "name": "Polytheism",
+                  "type": "Follower",
                   "uniques": [""],
          },
 
