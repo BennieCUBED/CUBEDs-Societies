@@ -984,5 +984,12 @@
 		"cost": 440,
 		"requiredTech": "Computers",
 	},
+	{
+		"name": "Tachli",
+		"faith": 2,
+		"happiness": 2,
+		"cost": 75,
+		"uniques": ["Unbuildable"],
+	},
 ]
 
