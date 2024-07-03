@@ -989,7 +989,7 @@
 		"faith": 2,
 		"happiness": 2,
 		"cost": 75,
-		"uniques": ["Unbuildable"],
+		"uniques": ["Unbuildable","[+1 Science, +1 Culture] [in this city] <upon entering the [Industrial Era]>"],
 	},
 ]
 
