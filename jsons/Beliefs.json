@@ -209,6 +209,11 @@
                   "type": "Follower",
                   "uniques": ["[+2 Faith] per [5] population [in capital]"],
          },
+         {
+                  "name": "Shamanism",
+                  "type": "Follower",
+                  "uniques": ["[+1 Faith] from every specialist [in all cities]"],
+         },
 
 
 ]
