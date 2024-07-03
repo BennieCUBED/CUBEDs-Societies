@@ -978,5 +978,11 @@
 		"name": "EventChasingstars",
 		"uniques": ["Unbuildable"],
 	},
+	{
+		"name": "Arcade",
+		"happiness": 2,
+		"cost": 440,
+		"requiredTech": "Computers",
+	},
 ]
 
