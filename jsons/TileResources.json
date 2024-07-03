@@ -305,7 +305,7 @@
 		
 		"improvement": "Plantation",
 
-		"improvementStats": {"culture": 1},
+		"improvementStats": {"culture": 2},
 		
 		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
 					"Generated with weight [5] <in [Jungle] Regions>",
@@ -534,14 +534,15 @@
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [70] <in [Jungle] tiles> <in tiles without [Hill]>",
-			"Generated on every [15] tiles <in [Featureless] [Plains] tiles>",
-			"Generated on every [19] tiles <in [Featureless] [Hill] tiles>",
+			"Generated on every [17] tiles <in [Featureless] [Plains] tiles>",
+			"Generated on every [12] tiles <in [Featureless] [Hill] tiles>",
 					"Generated with weight [60] <in [Forest] tiles> <in tiles without [Hill]>",
 					"Minor deposits generated with weight [20] <in [Forest] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Tundra] tiles>",
+			                "Generated on every [19] tiles <in [Featureless] [Tundra] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Snow] tiles>"],
-		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+		"majorDepositAmount": {"sparse": 3, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Silk",
