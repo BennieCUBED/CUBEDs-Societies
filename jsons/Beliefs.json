@@ -199,6 +199,11 @@
                   "type": "Enhancer",
                   "uniques": ["[+6 Production] from all [World Wonder] buildings"],
          },
+         {
+                  "name": "God of War",
+                  "type": "Pantheon",
+                  "uniques": [""],
+         },
 
 
 ]
