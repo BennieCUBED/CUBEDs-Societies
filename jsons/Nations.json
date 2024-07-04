@@ -773,6 +773,28 @@
 		"innerColor": [173, 9, 9],
 		"cities": ["Forest Town"],
 	},
+	{
+		"name": "Etharah",
+                "adjective": ["Etharan"],
+		"cityStateType": "Mercantile",
+		"declaringWar": "Suprise, bet you didn't see us coming!",
+		"attacked": "Eh, you didn't care about me anyway.",
+		"defeated": "NO! that gold is MINE, not YOURS!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [252, 186, 3],
+		"cities": ["Etharah"],
+	},
+	{
+		"name": "Peluangi",
+		"adjective": ["Pelu","Peluangi"],
+		"cityStateType": "Militaristic",
+		"declaringWar": "I'm gonna put your head on a spear!",
+		"attacked": "Look at you, strong and mighty... We will tear your people to shreds...",
+		"defeated": "Mark my words; one day our people will rise again and take you down... DEATH!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 9, 9],
+		"cities": ["Peluangi"],
+	},
 		
 		
         {
