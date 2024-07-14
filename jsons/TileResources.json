@@ -14,9 +14,9 @@
 
 		                "improvement": "Fishing Boats",
 
-	                        "improvementStats": {"food": 1},
+	                        "improvementStats": {"food": 2},
            
-                		"uniques": ["Generated on every [10] tiles <in [Featureless] [Ocean] tiles>","Generated on every [15] tiles <in [Featureless] [Coast] tiles>"],
+                		"uniques": ["Generated on every [16] tiles <in [Featureless] [Ocean] tiles>","Generated on every [23] tiles <in [Featureless] [Coast] tiles>"],
 
         },
 
@@ -489,7 +489,7 @@
 					"Guaranteed with Strategic Balance resource option",
 					"Generated with weight [40] <in [Featureless] [Tundra] tiles>",
 					"Generated with weight [60] <in [Featureless] [Snow] tiles>",
-					"Generated with weight [65] <in [Featureless] [Desert] tiles>",
+					"Generated with weight [100] <in [Featureless] [Desert] tiles>",
 					"Generated with weight [100] <in [Featureless] [Coast] tiles>",
 					"Minor deposits generated with weight [10] <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Minor deposits generated with weight [10] <in [Featureless] [Desert] tiles>",
@@ -534,12 +534,12 @@
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [70] <in [Jungle] tiles> <in tiles without [Hill]>",
-			"Generated on every [17] tiles <in [Featureless] [Plains] tiles>",
-			"Generated on every [12] tiles <in [Featureless] [Hill] tiles>",
+			"Generated on every [24] tiles <in [Featureless] [Plains] tiles>",
+			"Generated on every [16] tiles <in [Featureless] [Hill] tiles>",
 					"Generated with weight [60] <in [Forest] tiles> <in tiles without [Hill]>",
 					"Minor deposits generated with weight [20] <in [Forest] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Tundra] tiles>",
-			                "Generated on every [19] tiles <in [Featureless] [Tundra] tiles>",
+			                "Generated on every [21] tiles <in [Featureless] [Tundra] tiles>",
 					"Minor deposits generated with weight [15] <in [Featureless] [Snow] tiles>"],
 		"majorDepositAmount": {"sparse": 3, "default": 5, "abundant": 6},
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
