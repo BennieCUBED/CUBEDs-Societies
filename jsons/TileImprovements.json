@@ -355,6 +355,20 @@
 		"culture": 6,
 		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
+	{
+		"name": "Remove Jungle",
+		"turnsToBuild": 7,
+		"techRequired": "Coal Power",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X",
+	},
+	{
+		"name": "Remove Forest",
+		"turnsToBuild": 7,
+		"techRequired": "Bronze Working",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X",
+	},
 		
 
 ]
