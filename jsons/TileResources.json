@@ -3,11 +3,11 @@
 	{
 		"name": "Fish",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Coast"],
+		"terrainsCanBeFoundOn": ["Coast","Ocean"],
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 2},
-		"uniques": ["Generated on every [2] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [2] tiles <in [{Featureless} {Ocean}] tiles>"]
+		"uniques": ["Generated on every [6] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [13] tiles <in [{Featureless} {Ocean}] tiles>"]
 	},
 
 	{
@@ -241,7 +241,7 @@
 		"terrainsCanBeFoundOn": ["Desert","Hill","Forest"],
 		"gold": 2,
 		"improvement": "Mine",
-		"uniques": ["Generated with weight [35] <in [Desert] Regions>",
+		"uniques": ["Generated with weight [2] <in [Desert] Regions>",
 					"Generated with weight [30] <in [Hill] Regions>",
 					"Generated with weight [5] <in [Plains] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
