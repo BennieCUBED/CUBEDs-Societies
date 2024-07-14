@@ -6,7 +6,8 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
 		"improvement": "Fishing Boats",
-		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>"]
+		"improvementStats": {"food": 2},
+		"uniques": ["Generated on every [23] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [16] tiles <in [{Featureless} {Ocean}] tiles>"]
 	},
 
         {
