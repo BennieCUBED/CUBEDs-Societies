@@ -7,7 +7,7 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 2},
-		"uniques": ["Generated on every [23] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [16] tiles <in [{Featureless} {Ocean}] tiles>"]
+		"uniques": ["Generated on every [2] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [2] tiles <in [{Featureless} {Ocean}] tiles>"]
 	},
 
 	{
