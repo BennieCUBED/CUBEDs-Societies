@@ -241,7 +241,7 @@
 		"terrainsCanBeFoundOn": ["Desert","Hill","Forest"],
 		"gold": 2,
 		"improvement": "Mine",
-		"uniques": ["Generated with weight [2] <in [Desert] Regions>",
+		"uniques": ["Generated with weight [100] <in [Desert] Regions>",
 					"Generated with weight [30] <in [Hill] Regions>",
 					"Generated with weight [5] <in [Plains] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
