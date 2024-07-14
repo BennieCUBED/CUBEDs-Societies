@@ -11,47 +11,25 @@
 	},
 
         {
-
-		                "name": "Cattle",
-
-		                "resourceType": "Bonus",
-
-		                "revealedBy": "Hunting",
-
-		                "terrainsCanBeFoundOn": ["Grassland","Forest","Tundra","Hill"],
-
-		                "food": 1,
-
-		                "production": 1,
-
-		                "improvement": "Pasture",
-
-		                "improvementStats": {"food": 1},
-
-		                "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [5] tiles <in [Featureless] [Hill] tiles>","Generated on every [18] tiles <in [Featureless] [Plains] tiles>"],
-
-	},
-
-        {
-
-		"name": "Sheep",
-
+	{
+		"name": "Cattle",
 		"resourceType": "Bonus",
-
-		"revealedBy": "Hunting",
-
-		"terrainCanBeFoundOn": ["Grassland","Forest","Hill","Plains"],
-
+		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
-
-		"production": 1,
-
 		"improvement": "Pasture",
-
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
+	},
+	{
+		"name": "Sheep",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": 1,
+		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
-		
-	        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>","Generated on every [8] tiles <in [Featureless] [Forest] tiles>","Generated on every [10] tiles <in [Featureless] [Hill] tiles>","Generated on every [12] tiles <in [Featureless] [Plains] tiles>"], 
-
+		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
 	},
 
         {
