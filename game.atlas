@@ -4,13 +4,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Battle Mountain
-  rotate: false
-  xy: 817, 95
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
 BuildingIcons/Bar
   rotate: false
   xy: 1420, 1916
@@ -116,13 +109,6 @@ BuildingIcons/University of Knowledge
   orig: 125, 125
   offset: 0, 0
   index: -1
-Desert+Hill
-  rotate: false
-  xy: 828, 1768
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 ImprovementIcons/Archeological Site
   rotate: false
   xy: 1284, 1916
@@ -142,13 +128,6 @@ ImprovementIcons/Trench Line
   xy: 796, 1135
   size: 125, 125
   orig: 125, 125
-  offset: 0, 0
-  index: -1
-Kangaroo+Camp
-  rotate: false
-  xy: 852, 1624
-  size: 32, 28
-  orig: 32, 28
   offset: 0, 0
   index: -1
 NationIcons/Costazmacia
@@ -508,6 +487,13 @@ TileSets/FantasyHex/Tiles/Archeological Spot+Archeological Site
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Battle Mountain
+  rotate: false
+  xy: 817, 95
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/City center-Bronze & Iron Era
   rotate: false
   xy: 1964, 1868
@@ -571,6 +557,13 @@ TileSets/FantasyHex/Tiles/Construction Site
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Desert+Hill
+  rotate: false
+  xy: 828, 1768
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Dogs
   rotate: false
   xy: 868, 1768
@@ -595,6 +588,13 @@ TileSets/FantasyHex/Tiles/Grassland+Jungle+Fortoulen Lumber Mill
 TileSets/FantasyHex/Tiles/Kangaroo
   rotate: false
   xy: 892, 1660
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kangaroo+Camp
+  rotate: false
+  xy: 852, 1624
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
