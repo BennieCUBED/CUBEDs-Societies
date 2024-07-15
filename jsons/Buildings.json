@@ -54,7 +54,7 @@
 
 		 "maintenance": 1,
 
-		 "uniques": ["[+20]% Yield from every [Farm]"]
+		 "uniques": ["[+5]% Yield from every [Farm]"]
 
 	 },
 
@@ -125,7 +125,7 @@
 
 		 "maintenance": 2,
 
-		 "uniques": ["[+10]% Yield from every [Farm]"],
+		 "uniques": ["[+5]% Yield from every [Pasture]"],
 
 		 "requiredTech": "Basic Sheltering",
 
@@ -145,7 +145,7 @@
 
 		 "maintenance": 2,
 
-		 "uniques": ["[+10]% Yield from every [Pasture]"]
+		 "uniques": ["[+5]% Yield from every [Mine]"]
 
 		 "requiredTech": "Construction",
 
