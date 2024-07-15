@@ -7,6 +7,7 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 2},
+		"revealedBy": "Fish Catching",
 		"uniques": ["Generated on every [6] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [13] tiles <in [{Featureless} {Ocean}] tiles>"]
 	},
 
@@ -17,6 +18,7 @@
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
+		"revealedBy": "Hunting",
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},
@@ -27,6 +29,8 @@
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
+                "revealedBy": "Hunting",
+
 		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
 	},
