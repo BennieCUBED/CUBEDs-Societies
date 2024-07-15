@@ -560,7 +560,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains"],
 		"gold": 2,
 		"improvedBy": ["Farm"],
-		"improvementStats": {"food": 1}
+		"improvementStats": {"food": 1},
                 "uniques": ["Generated on every [10] tiles <in [Featureless] [Grassland] tiles>","Generated on every [7] tiles <in [Featureless] [Plains] tiles>"],
 	},
 ]
