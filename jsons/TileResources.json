@@ -561,6 +561,6 @@
 		"gold": 2,
 		"improvedBy": ["Farm"],
 		"improvementStats": {"food": 1},
-                "uniques": ["Generated on every [10] tiles <in [Featureless] [Grassland] tiles>","Generated on every [7] tiles <in [Featureless] [Plains] tiles>"],
+                "uniques": ["Generated on every [9] tiles <in [Featureless] [Grassland] tiles>","Generated on every [6] tiles <in [Featureless] [Plains] tiles>"],
 	},
 ]
