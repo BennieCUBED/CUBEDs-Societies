@@ -300,6 +300,8 @@
 		"name": "Library",
 		
 		"cost": 140,
+
+		"greatPersonPoints": {"Great Scientist": 1},
 		
 		"maintenance": 1,
 		
@@ -404,6 +406,8 @@
 		 "science": 3,
 
 		 "cost": 260,
+
+		"greatPersonPoints": {"Great Scientist": 1},
 
 		 "maintenance": 2,
 
@@ -699,6 +703,7 @@
 		"science": 3,
 		"happiness": 1,
 		"cost": 275,
+		"greatPersonPoints": {"Great Scientist": 2},
 		"maintenance": 1,
 		"requiredBuilding": "University",
 		"requiredTech": "Scientific Theory",
@@ -889,6 +894,7 @@
 	{
 		"name": "Space Program",
 		"cost": 750,
+		"greatPersonPoints": {"Great Scientist": 2},
 		"isNationalWonder": true,
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
 			"Cannot be hurried"],
