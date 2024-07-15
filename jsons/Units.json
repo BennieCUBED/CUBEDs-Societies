@@ -714,7 +714,7 @@
 		
 		"requiredTech": "Cartography",
 
-		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		
 		"attackSound": "cannon"
 
@@ -983,7 +983,7 @@
 		 "cost": 400,
 		 "hurryCostModifier": 35,
 		 "requiredTech": "Coal Power",
-		 "uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
+		 "uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		 "attackSound": "arrow",
 	 },
 	{
