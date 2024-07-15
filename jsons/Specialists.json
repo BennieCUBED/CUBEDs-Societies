@@ -23,4 +23,10 @@
 		"greatPersonPoints": {"Great Artist":3},
 		"color": [160,32,240]
 	},
+	{
+		"name":"Scientist",
+		"science": 3,
+		"greatPersonPoints": {"Great Scientist":3},
+		"color": [0,0,255]
+	},
   ]
