@@ -734,7 +734,7 @@
 		 "name": "Fertiliser",
 		 "row": 2,
 		 "prerequisites": ["Chemistry","Economics"],
-		 "uniques": ["[+2 Food] from every [Farm]"],
+		 "uniques": ["[+1 Food] from every [Farm]"],
                  "quote": "'I wish I had more hair on my head. Maybe if I sprinkled fertilizer on it, it would grow.' -Kylie Bax.",
 
 	 },
