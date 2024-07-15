@@ -634,6 +634,13 @@ TileSets/FantasyHex/Tiles/Grassland+Farm+Maize
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Grassland+Maize+Farm
+  rotate: false
+  xy: 2004, 1886
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Grassland+Jungle+Fortoulen Lumber Mill
   rotate: false
   xy: 2004, 1846
@@ -670,6 +677,13 @@ TileSets/FantasyHex/Tiles/Niter
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Plains+Farm+Maize
+  rotate: false
+  xy: 628, 405
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Maize+Farm
   rotate: false
   xy: 628, 405
   size: 32, 28
