@@ -718,9 +718,37 @@ TileSets/FantasyHex/Tiles/Safe Fort
   orig: 32, 33
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Savannah
+  rotate: false
+  xy: 628, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Savannah+Farm
+  rotate: false
+  xy: 668, 113
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Savannah+Forest+Lumber mill
+  rotate: false
+  xy: 628, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/SavannahForest
+  rotate: false
+  xy: 628, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Tea
   rotate: false
-  xy: 1674, 1267
+  xy: 1714, 1231
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1504,329 +1532,329 @@ TileSets/FantasyHex/Units/Sarissa
   index: -1
 TileSets/FantasyHex/Units/Scout-North Costi
   rotate: false
-  xy: 628, 76
+  xy: 668, 77
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-North Wouleto
   rotate: false
-  xy: 668, 113
+  xy: 668, 41
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-South Costi
   rotate: false
-  xy: 628, 40
+  xy: 668, 5
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-VividValean
   rotate: false
-  xy: 628, 4
+  xy: 708, 513
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-West Island
   rotate: false
-  xy: 668, 77
+  xy: 708, 477
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-North Costi
   rotate: false
-  xy: 668, 40
+  xy: 708, 440
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-North Wouleto
   rotate: false
-  xy: 708, 512
+  xy: 708, 403
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-South Costi
   rotate: false
-  xy: 708, 475
+  xy: 708, 366
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-South Wouleto
   rotate: false
-  xy: 708, 438
+  xy: 708, 329
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-VividValean
   rotate: false
-  xy: 708, 401
+  xy: 708, 292
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-West Island
   rotate: false
-  xy: 708, 364
+  xy: 708, 255
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sniper
   rotate: false
-  xy: 668, 4
+  xy: 708, 219
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-North Costi
   rotate: false
-  xy: 708, 328
+  xy: 708, 183
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-North Wouleto
   rotate: false
-  xy: 708, 292
+  xy: 708, 147
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-South Costi
   rotate: false
-  xy: 708, 256
+  xy: 708, 111
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-South Wouleto
   rotate: false
-  xy: 708, 220
+  xy: 708, 75
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-West Island
   rotate: false
-  xy: 708, 184
+  xy: 708, 39
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spec Ops
   rotate: false
-  xy: 708, 148
+  xy: 1634, 1336
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spec Ops2
   rotate: false
-  xy: 708, 112
+  xy: 1634, 1300
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Striker
   rotate: false
-  xy: 708, 76
+  xy: 1634, 1264
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Supplier
   rotate: false
-  xy: 708, 40
+  xy: 1674, 1339
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-North Costi
   rotate: false
-  xy: 708, 4
+  xy: 1674, 1303
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-North Wouleto
   rotate: false
-  xy: 1634, 1336
+  xy: 1714, 1339
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-South Costi
   rotate: false
-  xy: 1634, 1300
+  xy: 1674, 1267
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-South Wouleto
   rotate: false
-  xy: 1634, 1264
+  xy: 1714, 1303
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-VividValean
   rotate: false
-  xy: 1674, 1339
+  xy: 1714, 1267
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-West Island
   rotate: false
-  xy: 1674, 1303
+  xy: 1634, 1228
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-North Costi
   rotate: false
-  xy: 1714, 1339
+  xy: 1674, 1231
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-North Costi
   rotate: false
-  xy: 1714, 1303
+  xy: 1754, 1339
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-North Wouleto
   rotate: false
-  xy: 1714, 1267
+  xy: 1754, 1303
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-South Costi
   rotate: false
-  xy: 1634, 1228
+  xy: 1754, 1267
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-South Wouleto
   rotate: false
-  xy: 1674, 1231
+  xy: 1754, 1231
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-VividValean
   rotate: false
-  xy: 1714, 1231
+  xy: 1674, 1195
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-West Island
   rotate: false
-  xy: 1754, 1339
+  xy: 1714, 1195
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Costi
   rotate: false
-  xy: 1754, 1303
+  xy: 1754, 1195
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Costi-Industrial Era
   rotate: false
-  xy: 1754, 1267
+  xy: 1779, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Wouleto
   rotate: false
-  xy: 1754, 1231
+  xy: 1819, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Wouleto-Modern Era
   rotate: false
-  xy: 1674, 1195
+  xy: 1859, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Costi
   rotate: false
-  xy: 1714, 1195
+  xy: 1899, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Costi-Industrial Era
   rotate: false
-  xy: 1754, 1195
+  xy: 1939, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Wouleto
   rotate: false
-  xy: 1779, 1475
+  xy: 1979, 1475
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-VividValean
   rotate: false
-  xy: 1819, 1475
+  xy: 1776, 1439
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-VividValean-Modern Era
   rotate: false
-  xy: 1859, 1475
+  xy: 1776, 1403
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island
   rotate: false
-  xy: 1899, 1475
+  xy: 1816, 1439
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island-Destruction Era
   rotate: false
-  xy: 1939, 1475
+  xy: 1816, 1403
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island-Modern Era
   rotate: false
-  xy: 1979, 1475
+  xy: 1856, 1439
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Zeervapen-North Costi
   rotate: false
-  xy: 1776, 1439
+  xy: 1856, 1403
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
