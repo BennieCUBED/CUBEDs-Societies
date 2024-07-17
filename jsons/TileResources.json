@@ -565,6 +565,6 @@
 		"gold": 2,
 		"improvedBy": ["Farm"],
 		"improvementStats": {"food": 1},
-                "uniques": ["Generated on every [9] tiles <in [Featureless] [Grassland] tiles>","Generated on every [6] tiles <in [Featureless] [Plains] tiles>"],
+                "uniques": ["Generated on every [8] tiles <in [Featureless] [Grassland] tiles>","Generated on every [5] tiles <in [Featureless] [Plains] tiles>","Occurs at temperature between [0.8] and [0.7] and humidity between [0.4] and [0.5]"],
 	},
 ]
