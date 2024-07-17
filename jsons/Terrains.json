@@ -56,7 +56,7 @@
 		
 		"defenceBonus": 0.25,
 		
-		"occursOn": ["Grassland","Tundra"],
+		"occursOn": ["Grassland","Tundra","Savannah"],
 		
 		"uniques": ["Rough terrain", "Vegetation",
 					"Provides a one-time Production bonus to the closest city when cut down",
@@ -131,7 +131,7 @@
 		
 		"RGB": [105,125,72],
 		
-		"occursOn": ["Tundra","Grassland","Snow","Desert"],
+		"occursOn": ["Tundra","Grassland","Snow","Desert","Savannah"],
 		
 		"uniques": ["Rough terrain",
 					"[+10] Strength for cities built on this terrain",
@@ -157,7 +157,7 @@
 		
 		"defenceBonus": -0.1,
 		
-		"occursOn": ["Grassland","Tundra"],
+		"occursOn": ["Grassland","Tundra","Savannah"],
 		
 		"uniques": ["Always Fertility [5] for Map Generation",
 					"Considered [Food] when determining start locations",
@@ -282,7 +282,7 @@
 		"uniques": ["Nullifies all other stats this tile provides", "Doesn't generate naturally","Units ending their turn on this terrain take [20] damage"],
 		// For map editor only - the generator won't place it without code or enabling uniques
 		// If the map generator is ever updated to always take these into account, it should also take the "Doesn't generate naturally" unique into account
-		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains"],
+		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Savannah"],
 		"defenceBonus": -0.50
 	},
 	{
@@ -357,7 +357,7 @@
 		"type": "NaturalWonder",
 		"food": 2,
 		"faith": 6,
-		"occursOn": ["Plains","Desert"],
+		"occursOn": ["Plains","Desert","Savannah"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
