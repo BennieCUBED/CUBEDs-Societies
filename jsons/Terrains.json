@@ -311,12 +311,20 @@
 	{
 		"name": "Savannah",
 		"type": "Land",
-		"food": 1,
-		"production": 1,
 		"movementCost": 1,
-		"RGB": [100, 180, 30],
-		"weight": 10,
-		
+		"RGB": [255, 220, 115],
+		"uniques": ["Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
+            "Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
+            "Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",
+            "Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
+            "Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
+            "[+1] to Fertility for Map Generation",
+            "Starts in regions of this type receive an extra [Wheat]",
+	    "Starts in regions of this type receive an extra [Horses]",
+            "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
+            "Becomes [Flood plains] when adjacent to [River]",
+            "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
+            "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 
 // The Void
