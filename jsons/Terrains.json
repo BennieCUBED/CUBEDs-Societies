@@ -309,6 +309,27 @@
             {"text": "Fertilizer", "link":"Technology/Fertilizer"}
         ]
 	},
+	{
+		"name": "Savannah",
+		"type": "Land",
+		"food": 1,
+		"production": 1,
+		"movementCost": 1,
+		"RGB": [100, 180, 30],
+		"uniques": ["Occurs at temperature between [0.4] and [0.5] and humidity between [0.2] and [0.3]",
+            "Occurs at temperature between [0.5] and [0.7] and humidity between [0.5] and [0.7]",
+            "Occurs at temperature between [0.4] and [0.5] and humidity between [0.5] and [0.6]",
+            "[+3] to Fertility for Map Generation",
+            "A Region is formed with at least [30]% [Plains] tiles, with priority [6]",
+            "A Region can not contain more [Grassland] tiles than [Plains] tiles",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Tundra] Regions>",
+            "Considered [Food] when determining start locations <in [Desert] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Plains] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
 
 // The Void
 	{
