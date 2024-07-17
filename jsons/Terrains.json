@@ -254,7 +254,7 @@
 
 	{
 		
-		"name": "Desert",
+		"name": "Savannah",
 		
 		"type": "Land",
 		
@@ -309,7 +309,7 @@
         ]
 	},
 	{
-		"name": "Savannah",
+		"name": "Savanah",
 		"type": "Land",
 		"movementCost": 1,
 		"RGB": [ 230, 230, 113],
