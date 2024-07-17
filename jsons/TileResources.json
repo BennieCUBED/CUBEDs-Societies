@@ -14,13 +14,14 @@
 	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland"],
+		"terrainsCanBeFoundOn": ["Grassland","Savannah"],
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
 		"revealedBy": "Hunting",
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
+			                "Generated on every [20] tiles <in [{Featureless} {Savannah}] tiles>"],
 	},
 	{
 		"name": "Sheep",
@@ -40,7 +41,7 @@
 
 		"resourceType": "Strategic",
 
-		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest","Savannah"],
 
 		"production": 1,
 
@@ -50,7 +51,8 @@
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [{Featureless] [Tundra}] tiles>",
-					"Generated on every [19] tiles <in [{Featureless] [Hill}] tiles>"]
+					"Generated on every [19] tiles <in [{Featureless] [Hill}] tiles>",
+			                "Generated on every [19] tiles <in [{Featureless} {Savannah}] tiles>"],
 
 	},
 
@@ -140,7 +142,7 @@
 
 		"resourceType": "Strategic",
 
-		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest"],
+		"terrainsCanBeFoundOn": ["Grassland","Tundra","Hill","Forest","Savannah"],
 
 		"production": 1,
 
@@ -150,7 +152,7 @@
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>","Generated on every [15] tiles <in [Featureless] [Plains] tiles> <in tiles without [Fresh Water]>"],
+					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>","Generated on every [15] tiles <in [{Featureless] [Plains}] tiles> <in tiles without [Fresh Water]>"],
 
 	},
 
