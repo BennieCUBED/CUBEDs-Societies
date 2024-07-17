@@ -20,7 +20,7 @@
 
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Jungle"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains","Jungle","Savannah"],
 		"food": 1,
 		"turnsToBuild": 5,
 		"techRequired": "Agriculture",
@@ -65,7 +65,7 @@
 	{
 		"name": "Quarry",
 
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Savannah"],
 		
 		"turnsToBuild": 8,
 
@@ -79,7 +79,7 @@
 	{
 		"name": "Pasture",
 
-		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra","Savannah"],
 		
 		"turnsToBuild": 8,
 		
@@ -158,7 +158,7 @@
 	{
 		"name": "Trading post",
 		
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Savannah"],
 		
 		"gold": 2,
 		
