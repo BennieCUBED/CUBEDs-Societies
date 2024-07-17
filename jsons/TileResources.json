@@ -8,7 +8,7 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 2},
 		"revealedBy": "Fish Catching",
-		"uniques": ["Generated on every [6] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [13] tiles <in [{Featureless} {Ocean}] tiles>"]
+		"uniques": ["Generated on every [7] tiles <in [{Featureless} {Coast}] tiles>","Generated on every [15] tiles <in [{Featureless} {Ocean}] tiles>"]
 	},
 
 	{
@@ -49,8 +49,8 @@
 		"improvementStats": {"production": 2},
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
+					"Generated on every [15] tiles <in [{Featureless] [Tundra}] tiles>",
+					"Generated on every [19] tiles <in [{Featureless] [Hill}] tiles>"]
 
 	},
 
@@ -69,9 +69,9 @@
 
 		"improvementStats": {"food": 2},
 		
-		"uniques": ["Generated on every [20] tiles <in [Grassland] tiles>",
-					"Generated on every [8] tiles <in [Featureless] [Tundra] tiles> <in [Hill] Regions>",
-					"Generated on every [8] tiles <in [Grassland] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [22] tiles <in [Grassland] tiles>",
+					"Generated on every [10] tiles <in [{Featureless] [Tundra}] tiles> <in [Hill] Regions>",
+					"Generated on every [10] tiles <in [Grassland] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
 		
 	},
 
@@ -88,9 +88,9 @@
 
 		"improvementStats": {"happiness": 2,"food": 1},
 		
-		"uniques": ["Generated with weight [20] <in [Flood plains] tiles>",
-					"Generated with weight [10] <in [Grassland] Regions>",
-					"Generated with weight [2] <in [Hybrid] Regions>",
+		"uniques": ["Generated with weight [22] <in [Flood plains] tiles>",
+					"Generated with weight [12] <in [Grassland] Regions>",
+					"Generated with weight [4] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
 	},
 		
@@ -109,8 +109,8 @@
 		"improvementStats": {"production": 2},
 
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Hill] tiles>"]
+					"Generated on every [15] tiles <in [{Featureless] [Tundra}] tiles>",
+					"Generated on every [19] tiles <in [{Featureless] [Hill}] tiles>"]
 
 	},
 
@@ -129,7 +129,7 @@
 
 		"improvementStats": {"food": 1},
 		
-	        "uniques": ["Generated on every [10] tiles <in [Featureless] [Grassland] tiles>","Generated on every [5] tiles <in [Featureless] [Hill] tiles>"],
+	        "uniques": ["Generated on every [12] tiles <in [Featureless] [Grassland] tiles>","Generated on every [7] tiles <in [Featureless] [Hill] tiles>"],
 							
 					
 	},
@@ -218,8 +218,8 @@
 		
 		"improvementStats": {"food": 2,"production": -1,"gold": -1},
 		
-		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
-					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [16] tiles <in [Jungle] tiles>",
+					"Generated on every [18] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
 	},
 
 	{
@@ -246,10 +246,10 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [100] <in [Desert] Regions>",
-			                "Generated on every [6] tiles <in [{Featureless} {Desert}] tiles>",
-					"Generated with weight [30] <in [Hill] Regions>",
-					"Generated with weight [5] <in [Plains] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
+			                "Generated on every [8] tiles <in [{Featureless} {Desert}] tiles>",
+					"Generated with weight [32] <in [Hill] Regions>",
+					"Generated with weight [7] <in [Plains] Regions>",
+					"Generated with weight [7] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 	},
@@ -270,10 +270,10 @@
 
 		"improvementStats": {"culture": 2},
 		
-		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
-					"Generated with weight [5] <in [Jungle] Regions>",
-					"Generated with weight [25] <in [Forest] Regions>",
-					"Generated near City States with weight [10]",
+		"uniques": ["Generated with weight [7] <in [Tundra] Regions>",
+					"Generated with weight [7] <in [Jungle] Regions>",
+					"Generated with weight [27] <in [Forest] Regions>",
+					"Generated near City States with weight [12]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 
 	},
@@ -293,9 +293,9 @@
 
 		"improvementStats": {"happiness": 1,"food": 1},
 
-		"uniques": ["Generated with weight [20] <in [Grassland] Regions>",
-					"Generated with weight [15] <in [Plains] Regions>",
-					"Generated with weight [5] <in [Forest] Regions>",
+		"uniques": ["Generated with weight [22] <in [Grassland] Regions>",
+					"Generated with weight [7] <in [Plains] Regions>",
+					"Generated with weight [17] <in [Forest] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Tundra] tiles>"],
 
@@ -318,8 +318,8 @@
 		
 		"improvementStats": {"gold": 1},
 		
-		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
-					"Generated with weight [15] <in [Hybrid] Regions>",
+		"uniques": ["Generated with weight [37] <in [Plains] Regions>",
+					"Generated with weight [17] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>"],
 		
