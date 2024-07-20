@@ -586,7 +586,7 @@
 		"outerColor": [97, 247, 250],
 		"innerColor": [26, 163, 47],
 		"uniqueName": "Citadel of Civilisation",
-		"uniqueText": "Extra food and culture from Grassland tiles",
+		"uniqueText": "More interesting in working the land than the sea, +1 food and culture on grassland tiles",
 		"uniques": ["[+1 Food, +1 Culture] from every [Grassland]"],
 		"cities": ["Gedhetahe","Tenetia","Hedhatag","Nomora","Birutag","Hodhehe","Tatera","Putidawa","Rowreté","Heha","Otateta","bal-balan"],
 		
