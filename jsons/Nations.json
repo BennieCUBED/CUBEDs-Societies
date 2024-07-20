@@ -583,8 +583,8 @@
 
 		"tradeRequest": "Would you like some sushi? for cultural exchange, of course...",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [97, 247, 250],
+		"innerColor": [26, 163, 47],
 		"uniqueName": "Citadel of Civilisation",
 		"uniques": [""],
 		"cities": ["Gedhetahe","Tenetia","Hedhatag","Nomora","Birutag","Hodhehe","Tatera","Putidawa","Rowreté","Heha","Otateta","bal-balan"],
