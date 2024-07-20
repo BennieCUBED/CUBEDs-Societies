@@ -777,7 +777,7 @@
 {
     "name": "Dynamite",
     "row": 8,
-    "prerequisites": ["Fertiliser","Military Science"],
+    "prerequisites": ["Fertiliser","Military Science","Rifling"],
     "uniques": ["[+1 Production] from [Mine] tiles"],
     "quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson",
 },
@@ -806,7 +806,7 @@
 			 {
 				 "name": "Mechanics",
 				 "row": 7,
-				 "prerequisites": ["Dynamite"],
+				 "prerequisites": ["Dynamite","Biology"],
 				 "uniques": ["[+1 Production] from all [Production] buildings"],
 				 "quote": "'Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts.' -B.J. Palmer.",
 			 },
