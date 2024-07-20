@@ -55,7 +55,7 @@
 
             {
                 "name": "Survey",
-                "uniques": ["Double movement in [Land] <for [Recon] units>"],
+                "uniques": ["All newly-trained [Recon] units [in all cities] receive the [Scouting I] promotion"],
                 "requires": ["Organisation","Food Conservation"],
                 "row": 2,
                 "column": 3,
