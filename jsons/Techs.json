@@ -819,7 +819,7 @@
 			 {
 				 "name": "Steel Working",
 				 "row": 3,
-				 "prerequisites": ["Electricity","Locomotives"],
+				 "prerequisites": ["Electricity","Locomotives","Sanitation"],
 				 "quote": "'Don't judge someone until you've stood at his forge and worked with his hammer.' -Unknown.",
 			 },
 			 {
@@ -905,14 +905,14 @@
 			 {
 				 "name": "Combined Arms",
 				 "row": 5,
-				 "prerequisites": ["Ballistics","Combustion"],
+				 "prerequisites": ["Ballistics","Combustion","Flight"],
 				 "uniques": ["[+10]% Strength <when adjacent to a [{Military} {Land}] unit>"],
 				 "quote": "'Better to fight for something than live for nothing.' -George S. Patton.",
 			 },
 			{
 				"name": "Radar",
 				"row": 1,
-			        "prerequisites": ["Ballistics","Plastics"],
+			        "prerequisites": ["Ballistics","Plastics","Flight"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift",
 			},
 		 ]
