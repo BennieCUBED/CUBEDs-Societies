@@ -2,7 +2,7 @@
 
 	{
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [30] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Melee Combatant","Gunpowder","Calvary","Recon","Siege","Ranged","Ranged Gunpowder","Anti-Calvary","Melee Water","Ranged Water","Submarine"],
         "row": 0,
         "column": 0
@@ -49,6 +49,13 @@
 		"unitTypes": ["Recon"],
         "column": 8,
         "row": 1
+	},
+  	{
+		"name": "Scouting II",
+		"uniques": ["[+1] Sight"],
+		"unitTypes": ["Recon"],
+        "column": 8,
+        "row": 2,
 	},
 
   	{
