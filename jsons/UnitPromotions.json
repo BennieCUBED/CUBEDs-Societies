@@ -137,6 +137,21 @@
 		"name": "Intimidation Tactics",
 		"uniques": ["[1] additional attacks per turn"],
 	},
+	{
+		"name": "Hill positions I",
+		"uniques": ["[1] Range <in [Hill] tiles>","[1] Sight <in [Hill] tiles>"],
+		"unitTypes": ["Siege"],
+		"column": 10,
+		"row": 1,
+	},
+	{
+		"name": "Hill positions II",
+                "prerequisites": ["Hill positions I"],
+		"uniques": ["[1] Range <in [Hill] tiles>","[1] Sight <in [Hill] tiles>"],
+		"unitTypes": ["Siege"],
+		"column": 10,
+		"row": 3,
+	},
 
 		
 
