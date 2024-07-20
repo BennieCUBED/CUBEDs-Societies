@@ -742,7 +742,7 @@
 	        "hurryCostModifier": 50,
 	        "maintenance": 1,
 	        "requiredTech": "Construction",
-		"uniques": ["[+1 Production] from [Pasture] tiles"],
+		"uniques": ["[20]% [Production] [in all cities] <within [2] tiles of a [Pasture]>"],
 	},
 	{
 		"name": "Community Counsil",
