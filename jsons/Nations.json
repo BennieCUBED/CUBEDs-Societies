@@ -2,8 +2,8 @@
 
 	{
 		"name": "Spectator",
-		"outerColor": [0, 0, 0]
-		"innerColor": [255,255,255]
+		"outerColor": [10, 0, 0]
+		"innerColor": [255,255,245]
 	},
 
         {
@@ -570,13 +570,23 @@
 		"personality": "Temean",
 		"favoredReligion": "Ohené",
 
-		"startIntroPart1": "Geshenia, once known as Gehetahe by the locals is one of the four clans of the Senea Island, west of the archipelago. Even if they were considered the same as the other cultures of the archipelago, the clans of the Senea Island had totally different cultures.",
-		"startIntroPart2": "Temean, will you avenge the Gedhenian people and bring terror against your oppressions, will you create a civilisation that can stand the test of time?",
+		"startIntroPart1": "Gedhenia, once known as Gehetahe by the locals is one of the four clans of the Senea Island, west of the archipelago. Even if they were considered the same as the other cultures of the archipelago, the clans of the Senea Island have totally different cultures.",
+		"startIntroPart2": "Temean, will you avenge the Gedhenian people and bring terror against your oppressiors, will you create a civilisation that can stand the test of time?",
+
+		"declaringWar": "There is only destruction in your future, I'll make sure that's true!",
+		"attacked": "If it's chaos you want, it's chaos you get...",
+		"defeated": "Cry, it's now a time of mourning, generations will never see our days of glory...",
+		"introduction": "Hai, we welcome you to Gedhetahe. we pray that we have a long history together.",
+
+		"neutralHello": "Hi.",
+		"hateHello": "Huh.",
+		
 	},
 		
 	
 		
  // City-states
+	{
 		
 		"name": "A'Anya People",
 
