@@ -1254,6 +1254,7 @@
 
 		"name": "Axeman",
 		"unitType": "Melee Combatant",
+		"replaces": "Man-at-Arms",
 		"movement": 2,
 		"strength": 40,
 		"cost": 250,
@@ -1364,6 +1365,7 @@
 {
                 "name": "Netarhata",	 
 		"unitType": "Melee Combatant",
+	        "replaces": "Warrior",
 	        "uniqueTo": "Gedhenia",
 		"movement": 2,
 		"strength": 10,
