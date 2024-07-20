@@ -538,7 +538,7 @@
 		"name": "Nordaz",
 		"style": "North Costi",
 		"leaderName": "Frederick the Orsemann",
-		"startBias": ["Tundra","Coast"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		"personality": "Frederick",
 		"favoredReligion": "Northspiritusism",
@@ -561,9 +561,23 @@
 		"uniques": ["Gain [70] [Gold] <upon founding a city>","Gain [120] [Gold] <upon conquering a city>"],
 		"cities": ["Grezen","Haletoss","Turgenburg","Hassen","Solb River","Druenan","Folder Village","Elvby","Yurtt","Dress River","Glowers Lake","Hamburgere","Shianara","Whold Village","North Town","Sverdstone","Hattanarriz","Rizz","Anzic","Holdmass","Ingenbryrseg"],
 	},
-		
 	{
-                
+	        "name": "Gedhenia",
+		"style": "West Island",
+		"leaderName": "Temean",
+		"startBias": ["Coast","Plains"],
+		"preferredVictoryType": "Domination",
+		"personality": "Temean",
+		"favoredReligion": "Ohené",
+
+		"startIntroPart1": "Geshenia, once known as Gehetahe by the locals is one of the four clans of the Senea Island, west of the archipelago. Even if they were considered the same as the other cultures of the archipelago, the clans of the Senea Island had totally different cultures.",
+		"startIntroPart2": "Temean, will you avenge the Gedhenian people and bring terror against your oppressions, will you create a civilisation that can stand the test of time?",
+	},
+		
+	
+		
+ // City-states
+		
 		"name": "A'Anya People",
 
 		"style": "West Island",
