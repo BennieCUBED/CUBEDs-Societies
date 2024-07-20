@@ -304,8 +304,9 @@
 "Theory": 10,
 "Liberalism": 10,
 "Socialism": 10,
+},
 
-"name": "Temean",
+                "name": "Temean",
 	        "preferredVictoryType": "Domination",
 		"culture": 5,
 		"faith": 2,
@@ -330,9 +331,8 @@
 			"Theory": 20,
 			"Liberalism": 20,
 			"Socialism": 30,
-},
-},
-},
+		},
+			"uniques": ["Will not build [Nuclear Project]"],
 
 ]
 	
