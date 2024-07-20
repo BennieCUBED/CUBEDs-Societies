@@ -2,17 +2,14 @@
 
       {
       
-
-      "isBaseRuleset": true,
-      "Allow raze capital": true,
-      "Allow raze holy city": true,
+"uniques": ["isBaseRuleset","Allow raze capital","Allow raze holy city"],
 
       "constants": {
             "cityStrengthBase": 20,
             "cityStrengthFromTechsMultiplier": 3,
             "cityStrengthPerPop": 1,
-            "policyCostModifier": -3,
-            "unitSupplyPerPopulation": 1,
+            "policyCostModifier": 3,
+            "unitSupplyPerPopulation": 0.5,
 
       }
 
