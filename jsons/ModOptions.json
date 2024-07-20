@@ -1,8 +1,9 @@
 
 
       {
+            "isBaseRuleset": true,
       
-"uniques": ["isBaseRuleset","Allow raze capital","Allow raze holy city"],
+      "uniques": ["Allow raze capital","Allow raze holy city","Can trade civilization introductions for [375] Gold"],
 
       "constants": {
             "cityStrengthBase": 20,
