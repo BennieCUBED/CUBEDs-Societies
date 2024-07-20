@@ -251,7 +251,7 @@
 
 				"prerequisites": ["Basic Sheltering"],
 
-				"quote": "'I think the only way i could make something big and fun is if i don't expect it to be' -Markus Perrson.",
+				"quote": "'I think the only way I could make something big and fun is if i don't expect it to be' -Markus Perrson.",
 
 			},
 	 
@@ -627,7 +627,7 @@
 
 		"row": 3,
 
-		"prerequisites": ["Banking"],
+		"prerequisites": ["Banking","Printing Press"],
 
 		"uniques": ["[+1 Gold] from [Trading post] tiles [in all cities]","[+1 Gold] from [Camp] tiles [in all cities]"],
 
@@ -695,7 +695,7 @@
 
 		 "row": 6,
 
-		 "prerequisites": ["Chemistry","Economics"],
+		 "prerequisites": ["Chemistry","Economics","Architecture"],
 
 		 "quote": "'The key words of violent economics are urbanization, industrialization, centralization, efficiency, quantity, speed.' -E.F. Schumacher.",
 
