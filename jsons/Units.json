@@ -1112,7 +1112,7 @@
 		"strength": 70,
 		"cost": 385,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+100]% Strength <vs [Armoured] units>", "Never appears as a Barbarian unit"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot",
 	},
 	{
@@ -1361,4 +1361,15 @@
             "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	},
+{
+                "name": "Netarhata",	 
+		"unitType": "Melee Combatant",
+	        "uniqueTo": "Gedhenia",
+		"movement": 2,
+		"strength": 10,
+		"cost": 25,
+	        "promotions": ["Intimidation Tactics"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "normalhit",
+},
 ]
