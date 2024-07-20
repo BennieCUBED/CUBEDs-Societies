@@ -580,6 +580,14 @@
 
 		"neutralHello": "Hi.",
 		"hateHello": "Huh.",
+
+		"tradeRequest": "Would you like some sushi? for cultural exchange, of course...",
+
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Citadel of Civilisation",
+		"uniques": [""],
+		"cities": ["Gedhetahe","Tenetia","Hedhatag","Nomora","Birutag","Hodhehe","Tatera","Putidawa","Rowreté","Heha","Otateta","bal-balan"],
 		
 	},
 		
@@ -662,7 +670,7 @@
 		"cityStateType": "Productive",
 		"declaringWar": "For our might or yours, war has to be done...",
 		"attacked": "We may not be powerful, but atleast we have the spirit..!",
-		"defeated": "Your stronger than i thought...",
+		"defeated": "Your stronger than I thought...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [214, 114, 6],
 		"cities": ["Zolsk"],
@@ -734,7 +742,7 @@
 		"cityStateType": "Cultured",
 		"declaringWar": "For freedom!",
 		"attacked": "We never wanted to resort to violence.",
-		"defeated": "Chained, and entire society just like that...",
+		"defeated": "Chained, an entire society just like that...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [190, 3, 252],
 		"cities": ["Sapire"],
