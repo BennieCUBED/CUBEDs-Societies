@@ -843,7 +843,7 @@
 		"culture": 2,
 		"cost": 650,
 		"requiredTech": "Theology",
-		"uniques": ["Free [Prophet] appears"],
+		"uniques": ["[Gold] cost of purchasing [Religious] units [-35]%"],
 		"quote": "'A grand monument, erected by only the people who followed their God. They did it, not for their own success, but for the one that looked over them.' -Lemei Manus.",
 	},
 	{
