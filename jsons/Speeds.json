@@ -38,7 +38,7 @@
         "turns": [
             {"yearsPerTurn": 100, "untilTurn":  50},
             {"yearsPerTurn": 78, "untilTurn":  90},
-            {"yearsPerTurn": 45, "untilTurn": 93},
+            {"yearsPerTurn": 1834, "untilTurn": 93},
             {"yearsPerTurn": 5, "untilTurn": 120},
             {"yearsPerTurn": 41, "untilTurn": 155},
             {"yearsPerTurn":  20, "untilTurn": 195},
@@ -85,9 +85,9 @@
             {"yearsPerTurn": 89, "untilTurn":  70},
             {"yearsPerTurn": 54, "untilTurn":  90},
             {"yearsPerTurn": 19, "untilTurn": 113},
-            {"yearsPerTurn": 9, "untilTurn": 119},
-            {"yearsPerTurn": 2, "untilTurn": 175},
-            {"yearsPerTurn": 3, "untilTurn": 1000},
+            {"yearsPerTurn": 11, "untilTurn": 119},
+            {"yearsPerTurn": 1, "untilTurn": 150},
+            {"yearsPerTurn": 36, "untilTurn": 200},
         ]
     },
     {
