@@ -381,7 +381,7 @@
 		"turnsInto": "Jungle",
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [4] to [6] [Jungle] tiles",
+			"Must be adjacent to [3] to [6] [Jungle] tiles",
 			"Grants [+500 Gold] to the first civilization to discover it"],
 		"weight": 8,
 	},
