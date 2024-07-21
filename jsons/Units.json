@@ -1325,7 +1325,7 @@
 		"cost": 2200,
 		"requiredTech": "Near Future Weapons",
 		"uniques": ["Nuclear weapon of Strength [6]", "Only available <if [Nuclear Project] is constructed>","Self-destructs when attacking",
-			"Blast radius [8]", "Consumes [2] [Uranium]"],
+			"Blast radius [8]", "Consumes [2] [Uranium]","[8] Sight <when attacking>"],
 		"attackSound": "nuke",
 	},
 	{
