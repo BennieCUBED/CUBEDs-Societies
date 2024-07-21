@@ -373,5 +373,17 @@
 		"unbuildable": true,
 		"weight": 10,
 	},
+	{
+		"name": "Filitou ruins",
+		"type": "NaturalWonder",
+		"culture": 4,
+		"occursOn": ["Jungle"],
+		"turnsInto": "Jungle",
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [1] to [6] [Jungle] tiles",
+			"Grants [+500 Gold] to the first civilization to discover it"],
+		"weight": 8,
+	},
 
 ]
