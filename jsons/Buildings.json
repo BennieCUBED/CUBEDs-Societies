@@ -906,7 +906,7 @@
 		"isNationalWonder": true,
 		"requiredBuilding": "Space Program",
 		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion",
-			"Cannot be hurried","Reveals the entire map"],
+			"Cannot be hurried","Reveals the entire map","[10] Sight <in [in all cities] cities>"],
 		"requiredTech": "Rocketry"
 	},
 	{
