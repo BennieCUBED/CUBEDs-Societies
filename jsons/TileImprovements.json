@@ -48,7 +48,7 @@
 			
 		"name": "Lumber mill",
 			
-		"terrainsCanBeBuiltOn": ["Forest"],
+		"terrainsCanBeBuiltOn": ["Forest","Fallout"],
 			
 		"production": 1,
 			
@@ -121,7 +121,7 @@
         {
 		"name": "Camp",
 
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Land","Fallout"],
 	
 		"turnsToBuild": 7,
 	
@@ -158,7 +158,7 @@
 	{
 		"name": "Trading post",
 		
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Savannah"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Savannah","Fallout"],
 		
 		"gold": 2,
 		
