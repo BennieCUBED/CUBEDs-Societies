@@ -363,10 +363,8 @@
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Savannah"],
 		"production": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			"[+2 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
-			"[+2 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+		"techRequired": "Apprenticeship",
+		"uniques": [""],
             "Pillaging this improvement yields approximately [+24 Gold]"],
 		"shortcutKey": "W"
 	},
