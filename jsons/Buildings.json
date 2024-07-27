@@ -997,5 +997,11 @@
 		"cost": 75,
 		"uniques": ["Unbuildable","[+1 Science, +1 Culture] [in this city] <upon entering the [Industrial Era]>"],
 	},
+	{
+		"name": "Assembly",
+		"culture": 1,
+		"gold": 1, 
+		"cost": 175,
+		"requiredBuilding": "Monument",
 ]
 
