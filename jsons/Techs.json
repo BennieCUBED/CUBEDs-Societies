@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 0,
 		"era": "Creation Era",
-		"techCost": 60,
+		"techCost": 65,
 		"buildingCost": 40,
 		"wonderCost": 999,
 		"techs": [
@@ -22,7 +22,7 @@
            
 		"era": "Creation Era",
            
-		"techCost": 50,
+		"techCost": 55,
            
 		"buildingCost": 40,
            
@@ -79,7 +79,7 @@
 		 
 		"era": "Creation Era",
 		 
-		"techCost": 60,
+		"techCost": 65,
 		 
 		"buildingCost": 60,
 		 
@@ -170,7 +170,7 @@
 		 
 		"era": "Bronze & Iron Era",
 		 
-		"techCost": 90,
+		"techCost": 95,
 		 
 		"buildingCost": 80,
 		 
@@ -265,7 +265,7 @@
 		 
 		"era": "Bronze & Iron Era",
 		 
-		"techCost": 140,
+		"techCost": 145,
 		 
 		"buildingCost": 110,
 		 
@@ -357,7 +357,7 @@
 		 
 		"era": "Dark Era",
 		 
-		"techCost": 190,
+		"techCost": 195,
 		 
 		"buildingCost": 150,
 		 
@@ -429,7 +429,7 @@
 
 		 "era": "Dark Era",
 
-		 "techCost": 220,
+		 "techCost": 225,
 
 		 "buildingCost": 180,
 
@@ -513,7 +513,7 @@
 
 		 "era": "Discovery Era",
 
-		 "techCost": 260,
+		 "techCost": 265,
 
 		 "buildingCost": 210,
 
@@ -599,7 +599,7 @@
 
 		 "era": "Discovery Era",
 	
-          	 "techCost": 320,
+          	 "techCost": 325,
 
 		 "buildingCost": 250,
 
