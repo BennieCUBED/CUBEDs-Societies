@@ -149,17 +149,7 @@
                         "uniques": ["Gain [50] [Culture]"],
                   },
             ]
-      },
-      
- //    {
-  //          "name": "Audio",
-   //     "text": "I am testing voices, there is a bug with it where voices repeat each turn. to fix this, turn music on, it fixes the problem, (for some reason idk.).",
-   //     "choices": [
-  //        {
-    //    "text": "Ok",
- //  "triggeredUniques": ["Empire enters golden age"],
-  //        },
-              },    
+      }, 
                         
                         
 ]
