@@ -788,6 +788,13 @@ TileSets/FantasyHex/Tiles/Tea
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Windmill2
+  rotate: false
+  xy: 1300, 1151
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-North Costi
   rotate: false
   xy: 1428, 1607
@@ -1826,96 +1833,103 @@ TileSets/FantasyHex/Units/Warrior-West Island
   index: -1
 TileSets/FantasyHex/Units/Worker-North Costi
   rotate: false
-  xy: 1300, 1151
+  xy: 1340, 1151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Costi-Industrial Era
   rotate: false
-  xy: 1340, 1151
+  xy: 1380, 1151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Wouleto
   rotate: false
-  xy: 1380, 1151
+  xy: 1420, 1151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-North Wouleto-Modern Era
   rotate: false
-  xy: 1420, 1151
+  xy: 1460, 1151
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Costi
   rotate: false
-  xy: 1460, 1151
+  xy: 1500, 1199
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Costi-Industrial Era
   rotate: false
-  xy: 1500, 1199
+  xy: 1500, 1163
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-South Wouleto
   rotate: false
-  xy: 1500, 1163
+  xy: 1540, 1199
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-VividValean
   rotate: false
-  xy: 1540, 1199
+  xy: 1540, 1163
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-VividValean-Modern Era
   rotate: false
-  xy: 1540, 1163
+  xy: 1580, 1199
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island
   rotate: false
-  xy: 1580, 1199
+  xy: 1580, 1163
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island-Destruction Era
   rotate: false
-  xy: 1580, 1163
+  xy: 1620, 1199
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-West Island-Modern Era
   rotate: false
-  xy: 1620, 1199
+  xy: 1620, 1163
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Zeervapen-North Costi
   rotate: false
-  xy: 1620, 1163
+  xy: 1660, 1199
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Windmill
+  rotate: false
+  xy: 1260, 1151
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Windmill
   rotate: false
   xy: 1260, 1151
   size: 32, 28
