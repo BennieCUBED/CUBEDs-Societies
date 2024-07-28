@@ -151,13 +151,14 @@
             ]
       },
      {
-            "name": "Voices",
+            "name": "Audio",
         "text": "I am testing voices, there is a bug with it where voices repeat each turn. to fix this, turn music on, it fixes the problem, (for some reason idk.).",
         "choices": [
           {
             "text": "Ok",
             "triggeredUniques": ["[+15]% unhappiness from the number of cities","[+15]% growth [in all cities]","[+15]% [Culture]","[+10]% [Production]"],
           },
+              },
                         
                         
 ]
