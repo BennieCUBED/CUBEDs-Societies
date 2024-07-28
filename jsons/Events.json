@@ -156,7 +156,7 @@
         "choices": [
           {
             "text": "Ok",
-            "triggeredUniques": ["[+15]% unhappiness from the number of cities","[+15]% growth [in all cities]","[+15]% [Culture]","[+10]% [Production]"],
+            "triggeredUniques": ["[+15]% unhappiness from the number of cities","[+15]% growth [in all cities]"],
           },
               },
                         
