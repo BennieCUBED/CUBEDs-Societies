@@ -310,12 +310,12 @@
 	},
 	{
 		"name": "Savannah",
-		"type": "Land",
-		"RGB": [170, 150, 38],
+		"type": "TerrainFeature",
 		"food": 1,
 		"production": 1,
 		"occursOn": ["Plains","Desert"],
-		"uniques": ["Must be adjacent to [2] to [4] [Desert] tiles"],
+		"uniques": ["Must be adjacent to [2] to [4] [Desert] tiles","Nullifies all other stats this tile provides"],
+	},
 
 // The Void
 	{
