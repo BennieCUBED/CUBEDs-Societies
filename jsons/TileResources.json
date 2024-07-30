@@ -318,24 +318,23 @@
 		
 	},
 
-        {
-
+	{
 		"name": "Niter",
-
 		"resourceType": "Strategic",
-
 		"revealedBy": "Gunpowder",
-
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill"],
-
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Hill"],
 		"production": 1,
-
 		"improvement": "Mine",
-
-		"improvementStats": {"production": 2},
-
-		"uniques": ["Generated with weight [20] <in [Featureless] [Plains] tiles>","Generated with weight [30] <in [Featureless] [Grassland] tiles>","Generated with weight [30] <in [Featureless] [Desert] tiles>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
-
+		"uniques": ["Guaranteed with Strategic Balance resource option",
+					"Generated with weight [29] <in [{Featureless} {Desert}] tiles>",
+					"Generated with weight [22] <in [Hill] tiles>",
+					"Minor deposits generated with weight [20] <in [Forest] tiles>",
+					"Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Minor deposits generated with weight [30] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
+					"Minor deposits generated with weight [20] <in [{Featureless} {Plains}] tiles>",
+					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>"],
+		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 
         {
