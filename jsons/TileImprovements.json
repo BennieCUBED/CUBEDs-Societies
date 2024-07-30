@@ -71,7 +71,7 @@
 
 		"techRequired": "Mining",
 
-		"uniques": ["[+1 Production] <after discovering [Metal Working]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Bronze Working]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
 
 		"shortcutKey": "Q"
 	},
@@ -92,12 +92,16 @@
 
 	{
 		"name": "Mine",
+
+		"terrainsCanBeBuiltOn": ["Land"],
+
+		"production": 1,
 		
 		"turnsToBuild": 8,
 
 		"techRequired": "Mining",
 
-		"uniques": ["[+1 Production] <after discovering [Metal Working]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+30 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Bronze Working]>","Pillaging this improvement yields approximately [+30 Gold]"],
 
 		"shortcutKey": "M"
 	},
