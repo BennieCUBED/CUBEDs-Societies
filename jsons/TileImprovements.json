@@ -361,10 +361,9 @@
 		{
 		"name": "Windmill",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Savannah"],
-		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Apprenticeship",
-		"uniques": ["[+1 Food] for each adjacent [Farm]","Must be next to [Farm]","[+2 Production] <after discovering [Machinery]>",
+		"uniques": ["[+1 Food] for each adjacent [Farm]","Must be next to [Farm]","[+1 Production] <after discovering [Machinery]>",
             "Pillaging this improvement yields approximately [+24 Gold]","Unbuildable <in tiles adjacent to [Windmill]>"],
 		"shortcutKey": "W"
 	},
