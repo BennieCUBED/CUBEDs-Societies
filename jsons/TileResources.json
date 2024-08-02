@@ -356,24 +356,26 @@
 
 	},
 
-        {
-
+ 	{
 		"name": "Coal",
-
 		"resourceType": "Strategic",
-
 		"revealedBy": "Chemistry",
-
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert","Hill"],
-
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest"],
 		"production": 1,
-
 		"improvement": "Mine",
-
-		"improvementStats": {"gold": 1,"production": 2,},
-
-		"uniques": ["Generated with weight [15] <in [Featureless] [Plains] tiles>","Generated with weight [25] <in [Featureless] [Grassland] tiles>","Generated with weight [40] <in [Featureless] [Desert] tiles>","Generated on every [19] tiles <in [Featureless] [Hill] tiles>"],
-
+		"improvementStats": {"production": 2},
+		"uniques": ["Generated with weight [35] <in [Hill] tiles>",
+					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Generated with weight [30] <in [Forest] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [10] <in [Jungle] tiles>",
+					"Minor deposits generated with weight [10] <in [Forest] tiles>",
+					"Minor deposits generated with weight [20] <in [{Grassland} {Hill}] tiles>",
+					"Minor deposits generated with weight [20] <in [{Plains} {Hill}] tiles>",
+					"Minor deposits generated with weight [30] <in [{Desert} {Hill}] tiles>",
+					"Minor deposits generated with weight [30] <in [{Tundra} {Hill}] tiles>",
+					"Minor deposits generated with weight [30] <in [{Snow} {Hill}] tiles>"],
+		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
 	},
 	{
 		"name": "Archeological Spot",
