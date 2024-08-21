@@ -25,6 +25,7 @@
       //  "Triggers a [Chasing Stars] event <upon gaining a [Water] unit>",
       //  "Triggers a [Distant Traders] event <upon discovering [Guilds] technology>",
           "Triggers a [Audio] event <upon discovering [Agriculture] technology>",
+          "[All] units gain the [Radiation sickness] promotion <within [3] tiles of a [Fallout]>",
         "Gunpowder",
         "Melee Combatant",
         "Support",
