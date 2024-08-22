@@ -156,7 +156,14 @@
 		"name": "Radiation sickness",
 		"uniques": ["This Unit takes [30] damage","This Unit loses the [Radiation sickness] promotion <after turn number [3]>"],
 	},
-	
+	{
+		"name": "Ravaging disease",
+		"uniques": ["This Unit loses [1] movement","This Unit takes [20] damage"],
+	},
+	{
+		"name": "High morale",
+		"uniques": ["[1] additional attacks per turn","This Unit gains [1] movement"],
+	},
 
 		
 
