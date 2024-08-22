@@ -158,7 +158,7 @@
 	},
 	{
 		"name": "Ravaging disease",
-		"uniques": ["This Unit loses [1] movement","This Unit takes [20] damage","This Unit loses the [Ravaging disease] promotion <after turn number [8]>]",
+		"uniques": ["This Unit loses [1] movement","This Unit takes [20] damage","This Unit loses the [Ravaging disease] promotion <after turn number [8]>"],
 	},
 	{
 		"name": "High morale",
