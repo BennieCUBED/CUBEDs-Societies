@@ -26,6 +26,10 @@
       //  "Triggers a [Distant Traders] event <upon discovering [Guilds] technology>",
           "Triggers a [Audio] event <upon discovering [Agriculture] technology>",
           "[All] units gain the [Radiation sickness] promotion <within [3] tiles of a [Fallout]>",
+          "[Melee] units gain the [Ravaging disease] promotion <with [2]% chance>",
+          "[Civilian] units gain the [Ravaging disease] promotion <with [3]% chance>",
+          "[All] units gain the [High morale] promotion <vs [Wounded]> <with [25]% chance>",
+
         "Gunpowder",
         "Melee Combatant",
         "Support",
