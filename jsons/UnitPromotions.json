@@ -152,6 +152,11 @@
 		"column": 10,
 		"row": 3,
 	},
+	{
+		"name": "Radiation sickness",
+		"uniques": ["This Unit takes [30] damage","This Unit loses the [Radiation sickness] promotion <after turn number [3]>"],
+	},
+	
 
 		
 
