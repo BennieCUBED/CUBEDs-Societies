@@ -2,7 +2,7 @@
 
 	{
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Melee Combatant","Gunpowder","Calvary","Recon","Siege","Ranged","Ranged Gunpowder","Anti-Calvary","Melee Water","Ranged Water","Submarine"],
         "row": 0,
         "column": 0
@@ -154,15 +154,15 @@
 	},
 	{
 		"name": "Radiation sickness",
-		"uniques": ["This Unit takes [30] damage","This Unit loses the [Radiation sickness] promotion <after turn number [3]>"],
+		"uniques": ["[This Unit] takes [30] damage","[This Unit] loses the [Radiation sickness] promotion <after turn number [3]>"],
 	},
 	{
 		"name": "Ravaging disease",
-		"uniques": ["This Unit loses [1] movement","This Unit takes [20] damage","This Unit loses the [Ravaging disease] promotion <after turn number [8]>"],
+		"uniques": ["[This Unit] loses [1] movement","[This Unit] takes [20] damage","[This Unit] loses the [Ravaging disease] promotion <after turn number [8]>"],
 	},
 	{
 		"name": "High morale",
-		"uniques": ["[1] additional attacks per turn","This Unit gains [1] movement","This Unit loses the [High morale] promotion <after turn number [4]>"],
+		"uniques": ["[1] additional attacks per turn","[This Unit] gains [1] movement","[This Unit] loses the [High morale] promotion <after turn number [4]>"],
 	},
 
 		
