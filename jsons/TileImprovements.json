@@ -367,7 +367,7 @@
 		"turnsToBuild": 7,
 		"techRequired": "Apprenticeship",
 		"uniques": ["[+1 Food] for each adjacent [Farm]","Must be next to [Farm]","[+1 Production] <after discovering [Machinery]>",
-            "Pillaging this improvement yields approximately [+24 Gold]","Unbuildable <in tiles adjacent to [Windmill]>"],
+            "Pillaging this improvement yields approximately [+24 Gold]","Unbuildable <in tiles adjacent to [Windmill] tiles>"],
 		"shortcutKey": "W"
 	},
 		
