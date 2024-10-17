@@ -1289,7 +1289,7 @@
 		"cost": 1000,
 		"requiredTech": "Rocketry",
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Nuclear Project] is constructed>","Self-destructs when attacking",
-			"Blast radius [3]", "Consumes [1] [Uranium]"],
+			"Blast radius [3]", "Consumes [1] [Uranium]","Can only be built <when at war>"],
 		"attackSound": "nuke"
 	},
 	{
@@ -1325,7 +1325,7 @@
 		"cost": 2200,
 		"requiredTech": "Near Future Weapons",
 		"uniques": ["Nuclear weapon of Strength [6]", "Only available <if [Nuclear Project] is constructed>","Self-destructs when attacking",
-			"Blast radius [8]", "Consumes [2] [Uranium]","[8] Sight <when attacking>"],
+			"Blast radius [8]", "Consumes [2] [Uranium]","[8] Sight <when attacking>","Can only be built <when at war>"],
 		"attackSound": "nuke",
 	},
 	{
