@@ -178,7 +178,7 @@
 		
 		"requiredTech": "Basic Sheltering",
 		
-		"uniques": ["Hidden when religion is disabled"]
+		"uniques": ["Only available <when religion is enabled>"]
 		
 	},
 
@@ -379,7 +379,7 @@
 		
 		"requiredTech": "Theology",
 		
-		"uniques": ["Hidden when religion is disabled","Unbuildable"],
+		"uniques": ["Only available <when religion is enabled>","Unbuildable"],
 		
 	},
 
@@ -495,7 +495,7 @@
 		"isNationalWonder": true,
 		
 		"uniques": ["Hidden until [3] social policy branches have been completed", "Triggers a global alert upon build start",
-			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
+			"Triggers a Cultural Victory upon completion", "Only available <when [Cultural] Victory is enabled>", "Cannot be hurried"]
 		
 	},
 
@@ -659,7 +659,7 @@
 
 		"requiredTech": "Theology",
 
-		"uniques": ["Hidden when religion is disabled","Unbuildable"],
+		"uniques": ["Only available <when religion is enabled>","Unbuildable"],
 
 	},
 
@@ -977,7 +977,7 @@
 		"isWonder": true,
 		"requiredBuilding": "Satellite",
 		"uniques": ["Triggers a global alert upon completion",
-			"Hidden when [Scientific] Victory is disabled", "Cannot be hurried"],
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
 		"requiredTech": "Space Travel",
 	},
 	{
